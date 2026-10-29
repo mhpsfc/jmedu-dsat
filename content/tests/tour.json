@@ -1,0 +1,408 @@
+{
+ "title": "Bluebook Tour",
+ "breakSeconds": 60,
+ "sections": [
+  {
+   "id": "rw",
+   "routingThreshold": 0.5,
+   "modules": {
+    "m1": {
+     "time": 360,
+     "questions": [
+      {
+       "domain": "Craft and Structure",
+       "skill": "Words in Context",
+       "difficulty": "M",
+       "passage": "<p>Botanist Ynes Mexia began collecting plants at age 55, yet her output was anything but ______: over thirteen years she gathered roughly 145,000 specimens, among them hundreds of species previously unknown to science.</p>",
+       "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+       "choices": [
+        "modest",
+        "documented",
+        "celebrated",
+        "deliberate"
+       ],
+       "answer": "A",
+       "explanation": "<p>The colon introduces evidence of a huge output (145,000 specimens), so the text needs a word meaning the opposite of that: her output was anything but <b>modest</b>.</p>",
+       "id": "rw-m1-01"
+      },
+      {
+       "domain": "Information and Ideas",
+       "skill": "Command of Evidence (Quantitative)",
+       "difficulty": "H",
+       "passage": "<p>A student studying city parks recorded the average number of bird species seen per visit in parks of different sizes.</p>\n<div class=\"caption\">Bird Species Observed in City Parks</div>\n<table><tr><th>Park size</th><th>Average species per visit</th></tr>\n<tr><td>Under 2 hectares</td><td>6</td></tr><tr><td>2–10 hectares</td><td>11</td></tr><tr><td>Over 10 hectares</td><td>19</td></tr></table>\n<p>The student concluded that larger parks tend to support a greater variety of bird species.</p>",
+       "stem": "<p>Which choice best describes data from the table that support the student's conclusion?</p>",
+       "choices": [
+        "Parks under 2 hectares had an average of 6 species per visit.",
+        "The average number of species per visit rose as park size increased.",
+        "Parks of 2–10 hectares had nearly twice as many species as parks over 10 hectares.",
+        "Every park in the study had at least 6 species per visit."
+       ],
+       "answer": "B",
+       "explanation": "<p>The conclusion is about a <i>trend</i> across sizes. Only choice B describes that trend: 6 → 11 → 19 as parks get larger.</p>",
+       "id": "rw-m1-02"
+      },
+      {
+       "domain": "Standard English Conventions",
+       "skill": "Boundaries",
+       "difficulty": "M",
+       "passage": "<p>In 1968, Mexican chemist Mario Molina began studying chlorofluorocarbons ______ chemicals then common in refrigerators and spray cans. His research showed that they were damaging Earth's ozone layer.</p>",
+       "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+       "choices": [
+        "chlorofluorocarbons;",
+        "chlorofluorocarbons,",
+        "chlorofluorocarbons. These",
+        "chlorofluorocarbons and"
+       ],
+       "answer": "B",
+       "explanation": "<p>“chemicals then common in refrigerators…” renames chlorofluorocarbons, so it is set off with a comma.</p>",
+       "id": "rw-m1-03"
+      },
+      {
+       "domain": "Expression of Ideas",
+       "skill": "Transitions",
+       "difficulty": "M",
+       "passage": "<p>For decades, scientists believed that octopuses lived solitary lives. ______ divers off the coast of Australia have observed groups of octopuses living together in dens and even interacting with one another.</p>",
+       "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+       "choices": [
+        "Similarly,",
+        "Recently, however,",
+        "For example,",
+        "As a result,"
+       ],
+       "answer": "B",
+       "explanation": "<p>The second sentence contradicts the old belief, and the observation is new, so “Recently, however,” fits.</p>",
+       "id": "rw-m1-04"
+      }
+     ]
+    },
+    "m2_easy": {
+     "time": 360,
+     "questions": [
+      {
+       "domain": "Information and Ideas",
+       "skill": "Central Ideas and Details",
+       "difficulty": "E",
+       "passage": "<p>The town of Kamikatsu, Japan, sorts its waste into more than forty categories. Residents wash and separate their own trash and bring it to a central station, where it is recycled or reused. As a result, the town now recycles about 80 percent of its waste, far above the national average.</p>",
+       "stem": "<p>Which choice best states the main idea of the text?</p>",
+       "choices": [
+        "Kamikatsu's detailed sorting system has led to an unusually high recycling rate.",
+        "Most towns in Japan recycle about 80 percent of their waste.",
+        "Residents of Kamikatsu dislike the town's waste system.",
+        "Kamikatsu plans to add more waste categories in the future."
+       ],
+       "answer": "A",
+       "explanation": "<p>The text describes the sorting system and its result: a recycling rate far above average.</p>",
+       "id": "rw-m2_easy-01"
+      },
+      {
+       "domain": "Standard English Conventions",
+       "skill": "Form, Structure, and Sense",
+       "difficulty": "E",
+       "passage": "<p>The collection of handwritten letters, which the museum acquired last spring, ______ the daily life of sailors in the 1800s.</p>",
+       "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+       "choices": [
+        "describe",
+        "describes",
+        "are describing",
+        "have described"
+       ],
+       "answer": "B",
+       "explanation": "<p>The subject is the singular noun “collection,” so the verb must be singular: <b>describes</b>.</p>",
+       "id": "rw-m2_easy-02"
+      },
+      {
+       "domain": "Craft and Structure",
+       "skill": "Text Structure and Purpose",
+       "difficulty": "M",
+       "passage": "<p>Many people assume that bees find flowers by sight and smell alone. Researchers have found, however, that bumblebees can also sense the weak electric fields that surround flowers. A flower that a bee has just visited carries a slightly different charge, which may tell the next bee that the nectar is already gone.</p>",
+       "stem": "<p>Which choice best describes the overall structure of the text?</p>",
+       "choices": [
+        "It describes a common belief and then presents a finding that adds to it.",
+        "It explains a scientific method and then lists its limitations.",
+        "It compares two species of bees and then explains how they differ.",
+        "It presents a theory and then explains why most researchers reject it."
+       ],
+       "answer": "A",
+       "explanation": "<p>The text starts with what “many people assume” and then gives research (“however”) showing that bees also sense electric fields.</p>",
+       "id": "rw-m2_easy-03"
+      },
+      {
+       "domain": "Expression of Ideas",
+       "skill": "Rhetorical Synthesis",
+       "difficulty": "H",
+       "passage": "<p>While researching a topic, a student has taken the following notes:</p>\n<ul><li>The Great Wall of China is not a single wall.</li><li>It is a series of walls built over many centuries.</li>\n<li>The best-known sections were built during the Ming dynasty (1368–1644).</li><li>The walls stretch more than 20,000 kilometers in total.</li></ul>",
+       "stem": "<p>The student wants to emphasize the length of the Great Wall. Which choice most effectively uses relevant information from the notes to accomplish this goal?</p>",
+       "choices": [
+        "The Great Wall of China is a series of walls rather than a single wall.",
+        "The best-known sections of the Great Wall were built during the Ming dynasty.",
+        "Built over many centuries, the walls that make up the Great Wall of China stretch more than 20,000 kilometers.",
+        "The Ming dynasty ruled China from 1368 to 1644."
+       ],
+       "answer": "C",
+       "explanation": "<p>Only choice C mentions the total length (more than 20,000 kilometers).</p>",
+       "id": "rw-m2_easy-04"
+      }
+     ]
+    },
+    "m2_hard": {
+     "time": 360,
+     "questions": [
+      {
+       "domain": "Craft and Structure",
+       "skill": "Text Structure and Purpose",
+       "difficulty": "M",
+       "passage": "<p>Many people assume that bees find flowers by sight and smell alone. Researchers have found, however, that bumblebees can also sense the weak electric fields that surround flowers. A flower that a bee has just visited carries a slightly different charge, which may tell the next bee that the nectar is already gone.</p>",
+       "stem": "<p>Which choice best describes the overall structure of the text?</p>",
+       "choices": [
+        "It describes a common belief and then presents a finding that adds to it.",
+        "It explains a scientific method and then lists its limitations.",
+        "It compares two species of bees and then explains how they differ.",
+        "It presents a theory and then explains why most researchers reject it."
+       ],
+       "answer": "A",
+       "explanation": "<p>The text starts with what “many people assume” and then gives research (“however”) showing that bees also sense electric fields.</p>",
+       "id": "rw-m2_hard-01"
+      },
+      {
+       "domain": "Expression of Ideas",
+       "skill": "Rhetorical Synthesis",
+       "difficulty": "H",
+       "passage": "<p>While researching a topic, a student has taken the following notes:</p>\n<ul><li>The Great Wall of China is not a single wall.</li><li>It is a series of walls built over many centuries.</li>\n<li>The best-known sections were built during the Ming dynasty (1368–1644).</li><li>The walls stretch more than 20,000 kilometers in total.</li></ul>",
+       "stem": "<p>The student wants to emphasize the length of the Great Wall. Which choice most effectively uses relevant information from the notes to accomplish this goal?</p>",
+       "choices": [
+        "The Great Wall of China is a series of walls rather than a single wall.",
+        "The best-known sections of the Great Wall were built during the Ming dynasty.",
+        "Built over many centuries, the walls that make up the Great Wall of China stretch more than 20,000 kilometers.",
+        "The Ming dynasty ruled China from 1368 to 1644."
+       ],
+       "answer": "C",
+       "explanation": "<p>Only choice C mentions the total length (more than 20,000 kilometers).</p>",
+       "id": "rw-m2_hard-02"
+      },
+      {
+       "domain": "Information and Ideas",
+       "skill": "Central Ideas and Details",
+       "difficulty": "E",
+       "passage": "<p>The town of Kamikatsu, Japan, sorts its waste into more than forty categories. Residents wash and separate their own trash and bring it to a central station, where it is recycled or reused. As a result, the town now recycles about 80 percent of its waste, far above the national average.</p>",
+       "stem": "<p>Which choice best states the main idea of the text?</p>",
+       "choices": [
+        "Kamikatsu's detailed sorting system has led to an unusually high recycling rate.",
+        "Most towns in Japan recycle about 80 percent of their waste.",
+        "Residents of Kamikatsu dislike the town's waste system.",
+        "Kamikatsu plans to add more waste categories in the future."
+       ],
+       "answer": "A",
+       "explanation": "<p>The text describes the sorting system and its result: a recycling rate far above average.</p>",
+       "id": "rw-m2_hard-03"
+      },
+      {
+       "domain": "Standard English Conventions",
+       "skill": "Form, Structure, and Sense",
+       "difficulty": "E",
+       "passage": "<p>The collection of handwritten letters, which the museum acquired last spring, ______ the daily life of sailors in the 1800s.</p>",
+       "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+       "choices": [
+        "describe",
+        "describes",
+        "are describing",
+        "have described"
+       ],
+       "answer": "B",
+       "explanation": "<p>The subject is the singular noun “collection,” so the verb must be singular: <b>describes</b>.</p>",
+       "id": "rw-m2_hard-04"
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": "math",
+   "routingThreshold": 0.5,
+   "modules": {
+    "m1": {
+     "time": 360,
+     "questions": [
+      {
+       "domain": "Algebra",
+       "skill": "Linear equations in one variable",
+       "difficulty": "E",
+       "stem": "<p>If \\(3x + 7 = 22\\), what is the value of \\(x\\)?</p>",
+       "choices": [
+        "3",
+        "5",
+        "7",
+        "15"
+       ],
+       "answer": "B",
+       "explanation": "<p>Subtract 7: \\(3x = 15\\). Divide by 3: \\(x = 5\\).</p>",
+       "id": "math-m1-01"
+      },
+      {
+       "domain": "Algebra",
+       "skill": "Systems of linear equations",
+       "difficulty": "E",
+       "type": "spr",
+       "stem": "<p>\\[x + y = 10\\]\\[x - y = 4\\]</p><p>What is the value of \\(x\\) in the solution to the system of equations above?</p>",
+       "answer": [
+        "7"
+       ],
+       "explanation": "<p>Add the equations: \\(2x = 14\\), so \\(x = 7\\).</p>",
+       "id": "math-m1-02"
+      },
+      {
+       "domain": "Geometry and Trigonometry",
+       "skill": "Right triangles",
+       "difficulty": "E",
+       "stem": "<p>In right triangle \\(ABC\\), the legs have lengths 6 and 8.</p>\n<svg viewBox=\"0 0 220 150\" width=\"220\" height=\"150\" role=\"img\" aria-label=\"Right triangle with legs 6 and 8\"><path d=\"M20 130H190V20Z\" fill=\"none\" stroke=\"#1e1e1e\" stroke-width=\"2\"/><path d=\"M178 130v-12h12\" fill=\"none\" stroke=\"#1e1e1e\" stroke-width=\"1.5\"/><text x=\"100\" y=\"146\" font-size=\"14\" font-family=\"serif\">8</text><text x=\"198\" y=\"80\" font-size=\"14\" font-family=\"serif\">6</text><text x=\"4\" y=\"136\" font-size=\"14\" font-family=\"serif\" font-style=\"italic\">A</text><text x=\"194\" y=\"142\" font-size=\"14\" font-family=\"serif\" font-style=\"italic\">C</text><text x=\"194\" y=\"18\" font-size=\"14\" font-family=\"serif\" font-style=\"italic\">B</text></svg>\n<p>What is the length of the hypotenuse?</p>",
+       "choices": [
+        "10",
+        "12",
+        "14",
+        "48"
+       ],
+       "answer": "A",
+       "explanation": "<p>\\(\\sqrt{6^2 + 8^2} = \\sqrt{100} = 10\\).</p>",
+       "id": "math-m1-03"
+      },
+      {
+       "domain": "Algebra",
+       "skill": "Linear functions",
+       "difficulty": "M",
+       "type": "spr",
+       "stem": "<p>A line in the \\(xy\\)-plane passes through the points \\((2, 3)\\) and \\((6, 6)\\). What is the slope of the line?</p>",
+       "answer": [
+        "3/4",
+        ".75",
+        "0.75"
+       ],
+       "explanation": "<p>Slope \\(= \\dfrac{6-3}{6-2} = \\dfrac{3}{4}\\). Entering 3/4 or .75 both receive credit.</p>",
+       "id": "math-m1-04"
+      }
+     ]
+    },
+    "m2_easy": {
+     "time": 360,
+     "questions": [
+      {
+       "domain": "Problem-Solving and Data Analysis",
+       "skill": "Percentages",
+       "difficulty": "E",
+       "stem": "<p>A jacket originally priced at $80 is on sale for 25% off. What is the sale price of the jacket?</p>",
+       "choices": [
+        "$20",
+        "$55",
+        "$60",
+        "$75"
+       ],
+       "answer": "C",
+       "explanation": "<p>25% of 80 is 20, so the sale price is \\(80 - 20 = 60\\) dollars.</p>",
+       "id": "math-m2_easy-01"
+      },
+      {
+       "domain": "Problem-Solving and Data Analysis",
+       "skill": "Ratios and rates",
+       "difficulty": "M",
+       "type": "spr",
+       "stem": "<p>A car travels 150 miles in 2.5 hours at a constant speed. At this speed, how many miles will the car travel in 4 hours?</p>",
+       "answer": [
+        "240"
+       ],
+       "explanation": "<p>Speed \\(= 150 \\div 2.5 = 60\\) miles per hour, so in 4 hours it travels \\(240\\) miles.</p>",
+       "id": "math-m2_easy-02"
+      },
+      {
+       "domain": "Geometry and Trigonometry",
+       "skill": "Circles",
+       "difficulty": "M",
+       "stem": "<p>A circle in the \\(xy\\)-plane has equation \\((x - 2)^2 + (y + 3)^2 = 16\\). What is the radius of the circle?</p>",
+       "choices": [
+        "2",
+        "3",
+        "4",
+        "16"
+       ],
+       "answer": "C",
+       "explanation": "<p>The equation has the form \\((x-h)^2 + (y-k)^2 = r^2\\), so \\(r^2 = 16\\) and \\(r = 4\\).</p>",
+       "id": "math-m2_easy-03"
+      },
+      {
+       "domain": "Geometry and Trigonometry",
+       "skill": "Right triangle trigonometry",
+       "difficulty": "M",
+       "type": "spr",
+       "stem": "<p>In a right triangle, \\(\\sin \\theta = \\dfrac{3}{5}\\), where \\(\\theta\\) is an acute angle. What is the value of \\(\\cos \\theta\\)?</p>",
+       "answer": [
+        "4/5",
+        ".8",
+        "0.8"
+       ],
+       "explanation": "<p>With opposite 3 and hypotenuse 5, the adjacent side is 4, so \\(\\cos\\theta = \\dfrac{4}{5}\\).</p>",
+       "id": "math-m2_easy-04"
+      }
+     ]
+    },
+    "m2_hard": {
+     "time": 360,
+     "questions": [
+      {
+       "domain": "Advanced Math",
+       "skill": "Exponential functions",
+       "difficulty": "H",
+       "stem": "<p>The function \\(P(t) = 200(1.05)^t\\) gives the population of a town, in thousands, \\(t\\) years after 2020. Which of the following is the best interpretation of the number 1.05 in this context?</p>",
+       "choices": [
+        "The population increases by 1.05 thousand people each year.",
+        "The population increases by 5% each year.",
+        "The population in 2020 was 1.05 thousand.",
+        "The population increases by 105% each year."
+       ],
+       "answer": "B",
+       "explanation": "<p>A growth factor of 1.05 means each year's population is 105% of the year before: a 5% increase per year.</p>",
+       "id": "math-m2_hard-01"
+      },
+      {
+       "domain": "Advanced Math",
+       "skill": "Nonlinear functions",
+       "difficulty": "M",
+       "stem": "<p>The function \\(f\\) is defined by \\(f(x) = x^2 - 5x + 6\\). What are the zeros of \\(f\\)?</p>",
+       "choices": [
+        "\\(-3\\) and \\(-2\\)",
+        "\\(-6\\) and \\(1\\)",
+        "\\(2\\) and \\(3\\)",
+        "\\(1\\) and \\(6\\)"
+       ],
+       "answer": "C",
+       "explanation": "<p>\\(x^2 - 5x + 6 = (x-2)(x-3)\\), so the zeros are 2 and 3.</p>",
+       "id": "math-m2_hard-02"
+      },
+      {
+       "domain": "Geometry and Trigonometry",
+       "skill": "Right triangle trigonometry",
+       "difficulty": "M",
+       "type": "spr",
+       "stem": "<p>In a right triangle, \\(\\sin \\theta = \\dfrac{3}{5}\\), where \\(\\theta\\) is an acute angle. What is the value of \\(\\cos \\theta\\)?</p>",
+       "answer": [
+        "4/5",
+        ".8",
+        "0.8"
+       ],
+       "explanation": "<p>With opposite 3 and hypotenuse 5, the adjacent side is 4, so \\(\\cos\\theta = \\dfrac{4}{5}\\).</p>",
+       "id": "math-m2_hard-03"
+      },
+      {
+       "domain": "Problem-Solving and Data Analysis",
+       "skill": "Ratios and rates",
+       "difficulty": "M",
+       "type": "spr",
+       "stem": "<p>A car travels 150 miles in 2.5 hours at a constant speed. At this speed, how many miles will the car travel in 4 hours?</p>",
+       "answer": [
+        "240"
+       ],
+       "explanation": "<p>Speed \\(= 150 \\div 2.5 = 60\\) miles per hour, so in 4 hours it travels \\(240\\) miles.</p>",
+       "id": "math-m2_hard-04"
+      }
+     ]
+    }
+   }
+  }
+ ]
+}

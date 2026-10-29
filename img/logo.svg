@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="4 16 86 62" fill="none">
+  <!-- JM EDU mark: j with a plus for its dot, M with a times sign in the middle -->
+  <path d="M31 40.4V57C31 68 24.5 72 19.5 72C14 72 10.5 68.5 8.5 64.5" stroke="#1d1d1b" stroke-width="4.8"/>
+  <path d="M45.75 73V22.5L57.5 36.2M84.55 73V22.5L72.8 36.2" stroke="#1d1d1b" stroke-width="4.3" stroke-linejoin="miter"/>
+  <path d="M28.4 20.5h5v5.5h5.8v5h-5.8v5.8h-5v-5.8h-5.6v-5h5.6z" fill="#663a86"/>
+  <path d="M59.6 40.3l11.6 11.4M71.2 40.3L59.6 51.7" stroke="#663a86" stroke-width="5"/>
+</svg>

@@ -1,0 +1,22 @@
+{
+  "tests": [
+    {
+      "id": "tour",
+      "file": "tour.json",
+      "title": "Bluebook Tour",
+      "kind": "tour",
+      "access": "free",
+      "duration": "~25 min",
+      "description": "A short mini test to learn the screens and tools before your first full-length practice."
+    },
+    {
+      "id": "jm-practice-1",
+      "file": "jm-practice-1.json",
+      "title": "JM Practice Test 1",
+      "kind": "full",
+      "access": "free",
+      "duration": "2 hr 14 min + break",
+      "description": "Full-length Digital SAT practice: 98 questions, adaptive Module 2, answer explanations for every question."
+    }
+  ]
+}
