@@ -8,6 +8,11 @@ let sb = null;          // Supabase client
 let current = null;     // { id, email, name, role, plan }
 const listeners = new Set();
 
+// A password-reset link lands as "#access_token=…&type=recovery". Note it before Supabase
+// consumes the hash, so the app can open the new-password page once signed in.
+let recovery = !DEMO_MODE && /(^#|&)type=recovery(&|$)/.test(location.hash);
+export const takeRecovery = () => { const r = recovery; recovery = false; return r; };
+
 export async function getSupabase() {
   if (DEMO_MODE) return null;
   if (!sb) {
@@ -135,7 +140,9 @@ export async function sendPasswordReset(email) {
   if (DEMO_MODE) throw new Error('Password reset e-mails work once Supabase is connected. In demo mode, just create a new account.');
   const client = await getSupabase();
   const { error } = await client.auth.resetPasswordForEmail(email.trim(), {
-    redirectTo: location.origin + location.pathname + '#/reset',
+    // No "#/reset" here: Supabase appends its own "#access_token=…", and a second "#"
+    // keeps supabase-js from reading the token. takeRecovery() routes to /reset instead.
+    redirectTo: location.origin + location.pathname,
   });
   if (error) throw error;
 }

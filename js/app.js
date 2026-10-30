@@ -583,6 +583,9 @@ async function studentsHtml() {
 (async () => {
   document.title = CONFIG.brand.name;
   await auth.initAuth();
+  // Arrived from a password-reset e-mail: go straight to the new-password page
+  // (replaceState also drops the token from the address bar).
+  if (auth.takeRecovery() && auth.currentUser()) history.replaceState(null, '', location.pathname + '#/reset');
   auth.onAuthChange((u) => { if (!u && !location.hash.match(/login|signup|forgot/)) go('/login'); });
   window.addEventListener('hashchange', router);
   router();
