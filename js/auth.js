@@ -1,8 +1,8 @@
 // Login. Two interchangeable back ends:
 //  - DEMO mode: accounts live in this browser's localStorage (for trying the platform).
 //  - Supabase: real accounts, e-mail/password and optional Google login.
-import { CONFIG, DEMO_MODE } from './config.js?v=407ff3f6';
-import { uid, sha256 } from './util.js?v=407ff3f6';
+import { CONFIG, DEMO_MODE } from './config.js?v=f87e49c0';
+import { uid, sha256 } from './util.js?v=f87e49c0';
 
 let sb = null;          // Supabase client
 let current = null;     // { id, email, name, role, plan }

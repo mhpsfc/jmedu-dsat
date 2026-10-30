@@ -84,6 +84,19 @@ code { background: #eef0f5; padding: 1px 5px; border-radius: 4px; font-size: .9e
 .avatar { width: 34px; height: 34px; border-radius: 50%; background: var(--blue-l); color: var(--blue); display: grid; place-items: center; font-weight: 700; }
 
 .page { max-width: 1120px; margin: 0 auto; padding: 32px 20px 64px; }
+
+/* footer: College Board trademark notice + privacy link */
+.site-foot { max-width: 1120px; margin: 0 auto; padding: 20px 20px 28px; border-top: 1px solid var(--line); color: var(--muted); font-size: 12px; line-height: 1.6; text-align: center; }
+.site-foot p { margin: 0 0 6px; }
+.site-foot-links { font-size: 13px; }
+.site-foot a { color: var(--muted); text-decoration: underline; }
+
+/* long-form text pages (Privacy Policy) */
+.doc { max-width: 760px; margin: 0 auto; padding: 32px 40px; }
+.doc h2 { font-size: 18px; margin-top: 28px; }
+.doc p, .doc li { color: #2f3442; }
+.doc ul { padding-left: 20px; }
+.doc li { margin-bottom: 6px; }
 .card { background: var(--card); border: 1px solid var(--line); border-radius: var(--radius); padding: 24px; box-shadow: var(--shadow); margin-bottom: 20px; }
 .narrow { max-width: 460px; margin: 0 auto; }
 .crumb { display: inline-block; margin-bottom: 16px; font-weight: 600; font-size: 14px; }
@@ -110,7 +123,9 @@ form input:disabled { background: var(--bg); color: var(--muted); }
 .auth-side h2 { font-size: 30px; line-height: 1.2; margin-top: auto; max-width: 420px; }
 .auth-points { list-style: none; padding: 0; margin: 0 0 auto; display: grid; gap: 14px; font-size: 15px; opacity: .95; }
 .auth-points li { display: flex; gap: 12px; align-items: center; }
-.auth-main { display: grid; place-items: center; padding: 32px 20px; }
+.auth-main { display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 32px 20px 0; }
+.auth-main .site-foot { margin-top: auto; padding-top: 32px; width: 100%; max-width: 520px; border-top: 0; }
+.auth-main .auth-card { margin-top: auto; }
 .auth-card { width: 100%; max-width: 400px; }
 .auth-card h1 { margin-bottom: 4px; }
 .auth-card > p.muted { margin: 0 0 24px; }
@@ -255,4 +270,6 @@ details summary { cursor: pointer; font-size: 14px; color: var(--muted); margin-
   .stat { flex: 1; min-width: 0; }
   .total b { font-size: 48px; }
   .page { padding: 24px 16px 48px; }
+  .doc { padding: 24px 18px; }
+  .site-foot { padding: 18px 16px 24px; }
 }

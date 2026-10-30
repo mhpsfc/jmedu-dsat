@@ -1,12 +1,12 @@
 // Pages and routing (#/path). The exam itself lives in js/exam/.
-import { CONFIG, DEMO_MODE } from './config.js?v=407ff3f6';
-import * as auth from './auth.js?v=407ff3f6';
-import * as store from './store.js?v=407ff3f6';
-import { loadCatalog, loadTest, registerTempTest, validateTest, modeSeconds, questionCount, DOMAINS, MODULE_KEYS } from './content.js?v=407ff3f6';
-import { buildResult, answerLabel } from './scoring.js?v=407ff3f6';
-import { Exam } from './exam/exam.js?v=407ff3f6';
-import { questionHtml, leftPaneHtml, isSplit } from './exam/render.js?v=407ff3f6';
-import { esc, icon, uid, fmtDate, fmtMinutes, renderMath, toast, confirmDialog } from './util.js?v=407ff3f6';
+import { CONFIG, DEMO_MODE } from './config.js?v=f87e49c0';
+import * as auth from './auth.js?v=f87e49c0';
+import * as store from './store.js?v=f87e49c0';
+import { loadCatalog, loadTest, registerTempTest, validateTest, modeSeconds, questionCount, DOMAINS, MODULE_KEYS } from './content.js?v=f87e49c0';
+import { buildResult, answerLabel } from './scoring.js?v=f87e49c0';
+import { Exam } from './exam/exam.js?v=f87e49c0';
+import { questionHtml, leftPaneHtml, isSplit } from './exam/render.js?v=f87e49c0';
+import { esc, icon, uid, fmtDate, fmtMinutes, renderMath, toast, confirmDialog } from './util.js?v=f87e49c0';
 
 const app = document.getElementById('app');
 let exam = null;          // running Exam instance
@@ -17,6 +17,7 @@ const routes = [
   ['/signup', pageSignup, { public: true }],
   ['/forgot', pageForgot, { public: true }],
   ['/reset', pageReset],
+  ['/privacy', pagePrivacy, { open: true }],
   ['/', pageDashboard],
   ['/test/:id', pageTest],
   ['/exam/:id', pageExam],
@@ -47,7 +48,8 @@ async function router() {
   const m = match(path.split('?')[0]);
   const user = auth.currentUser();
   if (!m) return go('/');
-  if (!m.opts.public && !user) { sessionStorage.setItem('sat:after-login', path); return go('/login'); }
+  // open: readable signed in or not (Privacy Policy)
+  if (!m.opts.public && !m.opts.open && !user) { sessionStorage.setItem('sat:after-login', path); return go('/login'); }
   if (m.opts.public && user) return go('/');
   if (m.opts.admin && !auth.isAdmin()) return go('/');
   window.scrollTo(0, 0);
@@ -73,7 +75,16 @@ function layout(body, active = '') {
       <button class="link" data-signout>Sign out</button>
     </div>
   </div></header>
-  <main class="page">${body}</main>`;
+  <main class="page">${body}</main>
+  ${siteFooter()}`;
+}
+
+// College Board's trademark notice + privacy link, under every page except the exam screens.
+function siteFooter() {
+  return `<footer class="site-foot">
+    <p class="site-foot-links">© ${new Date().getFullYear()} ${esc(CONFIG.brand.operator)} · <a href="#/privacy">Privacy Policy</a> · <a href="mailto:${esc(CONFIG.contactEmail)}">Contact</a></p>
+    <p>SAT® and Bluebook™ are trademarks registered and/or owned by College Board, which is not affiliated with, and does not endorse, ${esc(CONFIG.brand.name)}. All practice questions are original material written by ${esc(CONFIG.brand.operator)}.</p>
+  </footer>`;
 }
 
 document.addEventListener('click', async (e) => {
@@ -100,7 +111,7 @@ function authShell(title, sub, form) {
     </aside>
     <section class="auth-main"><div class="auth-card">
       <h1>${title}</h1><p class="muted">${sub}</p>${form}
-    </div></section>
+    </div>${siteFooter()}</section>
   </div>`;
 }
 
@@ -194,6 +205,69 @@ function pageReset() {
     await auth.updatePassword(password);
     toast('Password updated.', 'ok'); go('/');
   });
+}
+
+/* ---------------- privacy policy ---------------- */
+const PRIVACY_UPDATED = 'October 30, 2026';
+
+function pagePrivacy() {
+  const B = esc(CONFIG.brand.name), op = esc(CONFIG.brand.operator), mail = esc(CONFIG.contactEmail);
+  const site = esc(location.host);
+  const body = `<article class="doc card">
+    <h1>Privacy Policy</h1>
+    <p class="muted">Last updated: ${PRIVACY_UPDATED}</p>
+    <p>${B} (${site}) is a Digital SAT practice site run by ${op}. This page explains what information we collect when you use it, why, and the choices you have. Questions? E-mail <a href="mailto:${mail}">${mail}</a>.</p>
+
+    <h2>What we collect</h2>
+    <ul>
+      <li><b>Account details</b>: your name and e-mail address. Your password is stored only in encrypted (hashed) form by our sign-in provider; we can never see it.</li>
+      <li><b>Practice data</b>: the tests you start, your answers, time remaining, questions you mark for review, your highlights and notes, and your scores.</li>
+      <li><b>Technical data</b>: your browser keeps your sign-in session and a copy of your test progress in its local storage. Like any website, our hosting and service providers receive your IP address and browser type when pages and files load.</li>
+    </ul>
+    <p>We do not collect payment details, your school, or your location, and we do not use advertising or analytics trackers.</p>
+
+    <h2>How we use it</h2>
+    <ul>
+      <li>To create your account, sign you in, and save your progress so you can resume a test.</li>
+      <li>To score your tests and show your score reports and answer explanations.</li>
+      <li>To send account e-mails: sign-up confirmation and password reset. We do not send marketing e-mails from this site.</li>
+      <li>So your ${op} teachers can follow your progress and help you prepare.</li>
+    </ul>
+
+    <h2>Who can see it</h2>
+    <ul>
+      <li><b>You</b>, when signed in.</li>
+      <li><b>${op} teachers and administrators</b>, who can see students' names, e-mail addresses, and scores.</li>
+      <li><b>Service providers</b> that run the site for us, only as needed to provide their service: Supabase (accounts and database), Resend (account e-mails), GitHub Pages (hosting), Desmos (the graphing calculator, loaded when you open it), and Google Fonts and jsDelivr (fonts and code libraries).</li>
+    </ul>
+    <p>We never sell or rent your information, and we do not share it with anyone else unless the law requires it.</p>
+
+    <h2>How long we keep it</h2>
+    <p>We keep your account and practice data while your account is active. If you ask us to delete your account, we delete it and your practice data within 30 days.</p>
+
+    <h2>Your choices</h2>
+    <ul>
+      <li>You can change your name on the Account page.</li>
+      <li>You can ask to see, correct, or delete your information, or to close your account, by e-mailing <a href="mailto:${mail}">${mail}</a>.</li>
+      <li>Clearing your browser's site data signs you out and removes the local copy of your progress. Your saved results stay in your account.</li>
+    </ul>
+
+    <h2>Students under 14</h2>
+    <p>${B} is meant for students preparing for the SAT. If you are under 14, a parent or guardian must agree before you create an account. If you believe a child under 14 signed up without that consent, contact us and we will delete the account.</p>
+
+    <h2>Security and storage</h2>
+    <p>The site uses HTTPS, and database rules let each student read only their own results. Our providers may store and process data in countries other than yours, including the United States and Japan. No system is perfectly secure, but we take reasonable steps to protect your information.</p>
+
+    <h2>Changes to this policy</h2>
+    <p>If we change this policy, we will update the date at the top of this page. For important changes, we will also let you know on the site or by e-mail.</p>
+  </article>`;
+
+  if (auth.currentUser()) { app.innerHTML = layout(body); return; }
+  app.innerHTML = `<header class="topbar"><div class="topbar-in">
+      <a class="brand" href="#/login"><span class="brand-mark"><img src="img/logo.svg" alt=""></span><span>${B}</span></a>
+      <span class="topnav"></span><a class="btn small primary" href="#/login">Sign in</a>
+    </div></header>
+    <main class="page">${body}</main>${siteFooter()}`;
 }
 
 /* ---------------- dashboard ---------------- */
@@ -586,7 +660,7 @@ async function studentsHtml() {
   // Arrived from a password-reset e-mail: go straight to the new-password page
   // (replaceState also drops the token from the address bar).
   if (auth.takeRecovery() && auth.currentUser()) history.replaceState(null, '', location.pathname + '#/reset');
-  auth.onAuthChange((u) => { if (!u && !location.hash.match(/login|signup|forgot/)) go('/login'); });
+  auth.onAuthChange((u) => { if (!u && !location.hash.match(/login|signup|forgot|privacy/)) go('/login'); });
   window.addEventListener('hashchange', router);
   router();
 })();
