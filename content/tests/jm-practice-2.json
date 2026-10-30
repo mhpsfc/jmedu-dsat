@@ -1,0 +1,2495 @@
+{
+ "title": "JM Practice Test 2",
+ "breakSeconds": 600,
+ "sections": [
+  {
+   "id": "rw",
+   "routingThreshold": 0.6,
+   "modules": {
+    "m1": {
+     "time": 1920,
+     "questions": [
+      {
+       "domain": "Craft and Structure",
+       "skill": "Words in Context",
+       "difficulty": "E",
+       "passage": "<p>Most of the buildings in the river town of Calloway were destroyed in the flood of 1906, but the old stone mill ______, and it still stands beside the river today.</p>",
+       "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+       "choices": [
+        "collapsed",
+        "survived",
+        "expanded",
+        "relocated"
+       ],
+       "answer": "B",
+       "explanation": "<p>The mill “still stands” even though most buildings were destroyed, so it <b>survived</b>. It did not collapse, and nothing suggests it grew (expanded) or was moved (relocated).</p>",
+       "id": "rw-m1-01"
+      },
+      {
+       "domain": "Craft and Structure",
+       "skill": "Words in Context",
+       "difficulty": "M",
+       "passage": "<p>Photographer Teresa Lam's portraits are notable for their ______: she uses no special lighting or props, photographing her subjects in everyday clothes against bare walls.</p>",
+       "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+       "choices": [
+        "extravagance",
+        "ambiguity",
+        "urgency",
+        "simplicity"
+       ],
+       "answer": "D",
+       "explanation": "<p>No special lighting, no props, everyday clothes, and bare walls all describe <b>simplicity</b>. “Extravagance” is the opposite, and nothing in the text suggests ambiguity or urgency.</p>",
+       "id": "rw-m1-02"
+      },
+      {
+       "domain": "Craft and Structure",
+       "skill": "Words in Context",
+       "difficulty": "M",
+       "passage": "<p>Because the medieval manuscript had been badly damaged by water, scholars could only ______ the meaning of several passages, piecing together likely readings from the few words that remained legible.</p>",
+       "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+       "choices": [
+        "conjecture about",
+        "dismiss",
+        "memorize",
+        "publicize"
+       ],
+       "answer": "A",
+       "explanation": "<p>Piecing together “likely readings” from a few legible words means making educated guesses, so scholars could only <b>conjecture about</b> the meaning. They did not dismiss, memorize, or publicize it.</p>",
+       "id": "rw-m1-03"
+      },
+      {
+       "domain": "Craft and Structure",
+       "skill": "Words in Context",
+       "difficulty": "H",
+       "passage": "<p>Economist Farah Haddad's forecast was notably ______: while other analysts predicted either a sharp recession or rapid growth, she argued that the economy would most likely change very little over the coming year.</p>",
+       "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+       "choices": [
+        "sanguine",
+        "temperate",
+        "alarmist",
+        "erroneous"
+       ],
+       "answer": "B",
+       "explanation": "<p>Haddad avoided both extremes and predicted little change, so her forecast was <b>temperate</b> (moderate). “Sanguine” means optimistic and “alarmist” means fearful, which describe the extreme forecasts; nothing shows her forecast was wrong (erroneous).</p>",
+       "id": "rw-m1-04"
+      },
+      {
+       "domain": "Craft and Structure",
+       "skill": "Words in Context",
+       "difficulty": "H",
+       "passage": "<p>Critics have long regarded the novelist's early short stories as ______ works, mere exercises she wrote before finding her true subject. But a newly published collection reveals that these stories introduce many of the themes that dominate her later novels.</p>",
+       "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+       "choices": [
+        "foundational",
+        "controversial",
+        "marginal",
+        "unfinished"
+       ],
+       "answer": "C",
+       "explanation": "<p>“Mere exercises” tells us critics saw the stories as unimportant, or <b>marginal</b>. “Foundational” is what the new collection suggests, the view that contrasts with the critics' (“But…”). Nothing suggests critics saw them as controversial or unfinished.</p>",
+       "id": "rw-m1-05"
+      },
+      {
+       "domain": "Craft and Structure",
+       "skill": "Text Structure and Purpose",
+       "difficulty": "M",
+       "passage": "<p>Before their nonstop flight from Alaska to New Zealand, a journey of more than 11,000 kilometers, bar-tailed godwits nearly double their body weight by storing fat. At the same time, some of their digestive organs shrink, since the birds will not eat during the flight. These changes allow the godwits to carry as much fuel as possible while shedding weight they won't need.</p>",
+       "stem": "<p>Which choice best states the main purpose of the text?</p>",
+       "choices": [
+        "To describe physical changes that prepare a bird for a long migration",
+        "To compare the migration routes of several bird species",
+        "To argue that bar-tailed godwits should be protected in New Zealand",
+        "To explain how scientists track birds during long flights"
+       ],
+       "answer": "A",
+       "explanation": "<p>The text describes two changes (storing fat, shrinking digestive organs) and explains how they prepare the godwits for the flight. It mentions only one species and says nothing about protection or tracking.</p>",
+       "id": "rw-m1-06"
+      },
+      {
+       "domain": "Craft and Structure",
+       "skill": "Text Structure and Purpose",
+       "difficulty": "H",
+       "passage": "<p>Jazz pianist Mary Lou Williams is often remembered mainly as a performer, but she was also an influential composer and arranger. <u>During the 1930s, her arrangements were played by some of the most popular big bands in the United States, including Benny Goodman's orchestra.</u> Later, she mentored younger musicians such as Thelonious Monk and Bud Powell, who became central figures in modern jazz.</p>",
+       "stem": "<p>Which choice best describes the function of the underlined sentence in the text as a whole?</p>",
+       "choices": [
+        "It contrasts Williams's performing career with her later work as a teacher.",
+        "It explains why Williams stopped performing in the 1930s.",
+        "It provides an example that supports the claim that Williams was an influential arranger.",
+        "It introduces a musician whom Williams later mentored."
+       ],
+       "answer": "C",
+       "explanation": "<p>The first sentence claims Williams was an influential arranger; the underlined sentence backs this up by noting that top big bands played her arrangements. It doesn't discuss teaching or her leaving performance, and the mentored musicians appear only in the last sentence.</p>",
+       "id": "rw-m1-07",
+       "pretest": true
+      },
+      {
+       "domain": "Craft and Structure",
+       "skill": "Cross-Text Connections",
+       "difficulty": "H",
+       "passage": "<p><b>Text 1</b></p><p>For much of the twentieth century, many historians described medieval Europe as a period in which scientific inquiry largely stopped. In their accounts, little meaningful progress occurred between the fall of the Western Roman Empire and the Renaissance.</p><p><b>Text 2</b></p><p>Historian Inés Calder points to the many scholars of the 1200s and 1300s who studied optics, motion, and astronomy, often building on works translated from Arabic. Calder acknowledges that this research looks different from modern science, since it relied more on argument than on experiment, but she contends that it laid groundwork on which later scientists depended.</p>",
+       "stem": "<p>Based on the texts, how would Calder (Text 2) most likely respond to the historians discussed in Text 1?</p>",
+       "choices": [
+        "By agreeing that medieval scholars made little progress in astronomy",
+        "By arguing that the historians' account overlooks significant medieval scholarship that influenced later science",
+        "By claiming that medieval scholars relied more on experiments than modern scientists do",
+        "By suggesting that the Renaissance began earlier than the historians claim"
+       ],
+       "answer": "B",
+       "explanation": "<p>Text 1 says little progress happened; Calder names medieval work in optics, motion, and astronomy that later scientists built on. She would say the historians overlooked that work. She says medieval research relied <i>less</i> on experiment (C), and she says nothing about when the Renaissance began (D).</p>",
+       "id": "rw-m1-08"
+      },
+      {
+       "domain": "Information and Ideas",
+       "skill": "Central Ideas and Details",
+       "difficulty": "E",
+       "passage": "<p>Desert ants often travel far from their nests to search for food, crossing sand that has few landmarks. Researchers have found that these ants keep track of distance by, in effect, counting their steps. When scientists attached tiny stilts to some ants' legs, lengthening their steps, the ants walked past their nests on the return trip, overestimating how far they had traveled.</p>",
+       "stem": "<p>Which choice best states the main idea of the text?</p>",
+       "choices": [
+        "Desert ants rely mainly on landmarks to find their way home.",
+        "Desert ants travel farther from their nests than other ant species do.",
+        "An experiment with stilts suggests that desert ants measure distance by tracking their steps.",
+        "Scientists have developed a new method for attaching objects to insects."
+       ],
+       "answer": "C",
+       "explanation": "<p>The text explains that desert ants seem to count steps and describes the stilt experiment that supports this. The text says the desert has <i>few</i> landmarks, never compares species, and mentions the stilts only as part of the experiment.</p>",
+       "id": "rw-m1-09"
+      },
+      {
+       "domain": "Information and Ideas",
+       "skill": "Central Ideas and Details",
+       "difficulty": "M",
+       "passage": "<p>The following text is from a short story. Luis is helping his grandfather repair an old fishing boat.</p><p>Luis had expected the work to be quick: sand the hull, paint it, and be done by noon. But his grandfather moved slowly, running his palm along each plank as if reading something written there. Every so often he would stop to tell a story—about a storm in 1968, about a cousin who once fell asleep at the oars. By late afternoon the boat was barely half painted, and Luis realized he had not looked at his watch once.</p>",
+       "stem": "<p>Which choice best describes what happens in the text?</p>",
+       "choices": [
+        "Luis grows frustrated because his grandfather works too slowly.",
+        "Luis's grandfather teaches him the correct way to sand a boat.",
+        "Luis decides that the old boat is not worth repairing.",
+        "Luis becomes so absorbed in the work and his grandfather's stories that he loses track of time."
+       ],
+       "answer": "D",
+       "explanation": "<p>Luis expected to finish by noon, but by late afternoon he hadn't checked the time once, which shows he was absorbed in the slow work and the stories. Nothing suggests frustration, a sanding lesson, or giving up on the boat.</p>",
+       "id": "rw-m1-10"
+      },
+      {
+       "domain": "Information and Ideas",
+       "skill": "Command of Evidence (Textual)",
+       "difficulty": "M",
+       "passage": "<p>Sociologist Amina Yusuf hypothesizes that public libraries in small towns serve as important community gathering places, not just as places to borrow books.</p>",
+       "stem": "<p>Which finding, if true, would most directly support Yusuf's hypothesis?</p>",
+       "choices": [
+        "Most library visitors borrow at least one book per visit.",
+        "The number of books in small-town libraries has increased over the past decade.",
+        "In surveys, small-town residents said they most often visit the library to attend events, meet neighbors, or use shared workspaces.",
+        "Libraries in large cities have more visitors per year than libraries in small towns."
+       ],
+       "answer": "C",
+       "explanation": "<p>If residents mainly visit to attend events and meet neighbors, the library is serving as a gathering place, which directly supports Yusuf. Choices A and B are about books, and D compares visitor numbers without saying why people come.</p>",
+       "id": "rw-m1-11"
+      },
+      {
+       "domain": "Information and Ideas",
+       "skill": "Command of Evidence (Textual)",
+       "difficulty": "H",
+       "passage": "<p>Some paleontologists have argued that a group of small feathered dinosaurs could not fly. Their reasoning is that the dinosaurs' wing feathers were symmetrical, like the feathers of modern flightless birds, rather than asymmetrical, like the flight feathers of most modern flying birds.</p>",
+       "stem": "<p>Which finding, if true, would most directly weaken the paleontologists' argument?</p>",
+       "choices": [
+        "The small dinosaurs had long legs that were well suited for running.",
+        "Some modern bird species that are strong fliers have wing feathers that are nearly symmetrical.",
+        "Fossils of the dinosaurs have been found far from the sites of ancient forests.",
+        "Modern flightless birds, such as ostriches, have symmetrical feathers."
+       ],
+       "answer": "B",
+       "explanation": "<p>The argument assumes symmetrical feathers mean a bird can't fly. If some strong fliers today have nearly symmetrical feathers, that assumption fails, which weakens the argument. Choice D supports the argument, and A and C don't address feathers.</p>",
+       "id": "rw-m1-12"
+      },
+      {
+       "domain": "Information and Ideas",
+       "skill": "Command of Evidence (Quantitative)",
+       "difficulty": "M",
+       "passage": "<p>In 2018, the city of Corlett began offering rebates to households that installed water-saving toilets and showerheads. The graph shows average daily water use per household in Corlett from 2015 to 2023.</p><svg viewBox=\"0 0 460 300\" width=\"460\" style=\"max-width:100%;height:auto\" role=\"img\" aria-label=\"Average Daily Household Water Use in Corlett\"><text x=\"230.0\" y=\"18\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"bold\" font-family=\"Arial, Helvetica, sans-serif\">Average Daily Household Water Use in Corlett</text><line x1=\"62\" y1=\"248.0\" x2=\"444\" y2=\"248.0\" stroke=\"#d9d9d9\"/><text x=\"56\" y=\"252.0\" text-anchor=\"end\" font-size=\"11\" font-family=\"Arial, Helvetica, sans-serif\">300</text><line x1=\"62\" y1=\"212.3\" x2=\"444\" y2=\"212.3\" stroke=\"#d9d9d9\"/><text x=\"56\" y=\"216.3\" text-anchor=\"end\" font-size=\"11\" font-family=\"Arial, Helvetica, sans-serif\">320</text><line x1=\"62\" y1=\"176.7\" x2=\"444\" y2=\"176.7\" stroke=\"#d9d9d9\"/><text x=\"56\" y=\"180.7\" text-anchor=\"end\" font-size=\"11\" font-family=\"Arial, Helvetica, sans-serif\">340</text><line x1=\"62\" y1=\"141.0\" x2=\"444\" y2=\"141.0\" stroke=\"#d9d9d9\"/><text x=\"56\" y=\"145.0\" text-anchor=\"end\" font-size=\"11\" font-family=\"Arial, Helvetica, sans-serif\">360</text><line x1=\"62\" y1=\"105.3\" x2=\"444\" y2=\"105.3\" stroke=\"#d9d9d9\"/><text x=\"56\" y=\"109.3\" text-anchor=\"end\" font-size=\"11\" font-family=\"Arial, Helvetica, sans-serif\">380</text><line x1=\"62\" y1=\"69.7\" x2=\"444\" y2=\"69.7\" stroke=\"#d9d9d9\"/><text x=\"56\" y=\"73.7\" text-anchor=\"end\" font-size=\"11\" font-family=\"Arial, Helvetica, sans-serif\">400</text><line x1=\"62\" y1=\"34.0\" x2=\"444\" y2=\"34.0\" stroke=\"#d9d9d9\"/><text x=\"56\" y=\"38.0\" text-anchor=\"end\" font-size=\"11\" font-family=\"Arial, Helvetica, sans-serif\">420</text><text x=\"82.0\" y=\"264\" text-anchor=\"middle\" font-size=\"11\" font-family=\"Arial, Helvetica, sans-serif\">2015</text><text x=\"124.8\" y=\"264\" text-anchor=\"middle\" font-size=\"11\" font-family=\"Arial, Helvetica, sans-serif\">2016</text><text x=\"167.5\" y=\"264\" text-anchor=\"middle\" font-size=\"11\" font-family=\"Arial, Helvetica, sans-serif\">2017</text><text x=\"210.2\" y=\"264\" text-anchor=\"middle\" font-size=\"11\" font-family=\"Arial, Helvetica, sans-serif\">2018</text><text x=\"253.0\" y=\"264\" text-anchor=\"middle\" font-size=\"11\" font-family=\"Arial, Helvetica, sans-serif\">2019</text><text x=\"295.8\" y=\"264\" text-anchor=\"middle\" font-size=\"11\" font-family=\"Arial, Helvetica, sans-serif\">2020</text><text x=\"338.5\" y=\"264\" text-anchor=\"middle\" font-size=\"11\" font-family=\"Arial, Helvetica, sans-serif\">2021</text><text x=\"381.2\" y=\"264\" text-anchor=\"middle\" font-size=\"11\" font-family=\"Arial, Helvetica, sans-serif\">2022</text><text x=\"424.0\" y=\"264\" text-anchor=\"middle\" font-size=\"11\" font-family=\"Arial, Helvetica, sans-serif\">2023</text><polyline points=\"82.0,51.8 124.8,60.8 167.5,55.4 210.2,69.7 253.0,123.2 295.8,155.3 338.5,176.7 381.2,192.7 424.0,203.4\" fill=\"none\" stroke=\"#1e1e1e\" stroke-width=\"1.8\"/><circle cx=\"82.0\" cy=\"51.8\" r=\"3.5\" fill=\"#1e1e1e\"/><circle cx=\"124.8\" cy=\"60.8\" r=\"3.5\" fill=\"#1e1e1e\"/><circle cx=\"167.5\" cy=\"55.4\" r=\"3.5\" fill=\"#1e1e1e\"/><circle cx=\"210.2\" cy=\"69.7\" r=\"3.5\" fill=\"#1e1e1e\"/><circle cx=\"253.0\" cy=\"123.2\" r=\"3.5\" fill=\"#1e1e1e\"/><circle cx=\"295.8\" cy=\"155.3\" r=\"3.5\" fill=\"#1e1e1e\"/><circle cx=\"338.5\" cy=\"176.7\" r=\"3.5\" fill=\"#1e1e1e\"/><circle cx=\"381.2\" cy=\"192.7\" r=\"3.5\" fill=\"#1e1e1e\"/><circle cx=\"424.0\" cy=\"203.4\" r=\"3.5\" fill=\"#1e1e1e\"/><line x1=\"62\" y1=\"34\" x2=\"62\" y2=\"248\" stroke=\"#1e1e1e\"/><line x1=\"62\" y1=\"248\" x2=\"444\" y2=\"248\" stroke=\"#1e1e1e\"/><text transform=\"translate(14 141.0) rotate(-90)\" text-anchor=\"middle\" font-size=\"12\" font-family=\"Arial, Helvetica, sans-serif\">Liters per household</text><text x=\"253.0\" y=\"292\" text-anchor=\"middle\" font-size=\"12\" font-family=\"Arial, Helvetica, sans-serif\">Year</text></svg><p>A city official claims that the rebate program was followed by a steady decline in water use.</p>",
+       "stem": "<p>Which choice best describes data from the graph that support the official's claim?</p>",
+       "choices": [
+        "Water use was about 410 liters per household in 2015 and about 325 liters in 2023.",
+        "Water use changed little from 2015 to 2018 but then fell every year from 2019 to 2023.",
+        "Water use was higher in 2017 than in 2016.",
+        "Water use was lowest in 2023."
+       ],
+       "answer": "B",
+       "explanation": "<p>The claim is that water use declined steadily <i>after</i> the 2018 program. Choice B shows both parts: little change before, and a drop every year after. Choice A compares only the endpoints, and C and D don't connect the decline to the program's start.</p>",
+       "id": "rw-m1-13"
+      },
+      {
+       "domain": "Information and Ideas",
+       "skill": "Command of Evidence (Quantitative)",
+       "difficulty": "H",
+       "passage": "<p>A horticulturist compared three tomato varieties, recording the average number of days each took to produce its first ripe fruit and the average yield per plant over a season.</p><div class=\"caption\">Tomato Variety Comparison</div><table><tr><th>Variety</th><th>Days to first ripe fruit</th><th>Yield per plant (kg)</th></tr><tr><td>Early Gem</td><td>55</td><td>3.1</td></tr><tr><td>Summer Red</td><td>70</td><td>5.4</td></tr><tr><td>Valley Giant</td><td>85</td><td>6.2</td></tr></table><p>The horticulturist concluded that gardeners in regions with short growing seasons might prefer Early Gem, even though it is the least productive of the three varieties.</p>",
+       "stem": "<p>Which choice best describes data from the table that support the horticulturist's conclusion?</p>",
+       "choices": [
+        "Valley Giant had the highest yield per plant of the three varieties.",
+        "Summer Red produced its first ripe fruit in 70 days and yielded 5.4 kilograms per plant.",
+        "Early Gem produced ripe fruit sooner than the other two varieties, though it yielded less fruit per plant than either of them.",
+        "Summer Red and Valley Giant each yielded more than 5 kilograms of fruit per plant."
+       ],
+       "answer": "C",
+       "explanation": "<p>The conclusion rests on two facts about Early Gem: it ripens fastest (good for short seasons) and it yields least. Choice C states both. The other choices describe the other varieties but don't show why Early Gem suits short seasons.</p>",
+       "id": "rw-m1-14"
+      },
+      {
+       "domain": "Information and Ideas",
+       "skill": "Inferences",
+       "difficulty": "H",
+       "passage": "<p>In English, the most frequently used verbs tend to be irregular: “be,” “go,” and “have,” for example, do not form their past tense with “-ed.” Linguist Oren Vass traced the history of English verbs and found that many verbs that were irregular centuries ago but were rarely used have since become regular (the old past tense “holp,” for instance, became “helped”), while the most common irregular verbs kept their forms. This pattern suggests that ______</p>",
+       "stem": "<p>Which choice most logically completes the text?</p>",
+       "choices": [
+        "irregular verbs were more common in English centuries ago than they are today because English speakers once used fewer verbs.",
+        "the past tense of most English verbs was originally formed by adding “-ed.”",
+        "verbs that are used rarely are more likely to keep irregular forms than verbs that are used often.",
+        "frequent use helps irregular forms survive, perhaps because speakers hear common verbs often enough to remember their irregular forms."
+       ],
+       "answer": "D",
+       "explanation": "<p>Rarely used irregular verbs became regular, while common ones stayed irregular, so frequency seems to protect irregular forms. Choice C reverses the pattern, and A and B aren't supported by the text.</p>",
+       "id": "rw-m1-15"
+      },
+      {
+       "domain": "Standard English Conventions",
+       "skill": "Boundaries",
+       "difficulty": "E",
+       "passage": "<p>A polar bear's fur looks white, but the skin beneath it is ______ the dark skin absorbs heat from sunlight that passes through the bear's fur.</p>",
+       "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+       "choices": [
+        "black,",
+        "black;",
+        "black",
+        "black, which"
+       ],
+       "answer": "B",
+       "explanation": "<p>Two independent clauses must be properly joined; a semicolon does this. A comma alone is a comma splice, no punctuation is a run-on, and “which” makes the second clause ungrammatical.</p>",
+       "id": "rw-m1-16"
+      },
+      {
+       "domain": "Standard English Conventions",
+       "skill": "Form, Structure, and Sense",
+       "difficulty": "E",
+       "passage": "<p>As the storm approached the harbor, neither the captain nor the crew members ______ aware of how quickly the wind was rising.</p>",
+       "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+       "choices": [
+        "were",
+        "was",
+        "is",
+        "has been"
+       ],
+       "answer": "A",
+       "explanation": "<p>With “neither … nor,” the verb agrees with the closer subject, “crew members,” which is plural. The plural past tense <b>were</b> also matches the past tense of “approached.”</p>",
+       "id": "rw-m1-17"
+      },
+      {
+       "domain": "Standard English Conventions",
+       "skill": "Boundaries",
+       "difficulty": "M",
+       "passage": "<p>When the Brooklyn Bridge opened in ______ it was the longest suspension bridge in the world.</p>",
+       "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+       "choices": [
+        "1883",
+        "1883,",
+        "1883;",
+        "1883:"
+       ],
+       "answer": "B",
+       "explanation": "<p>“When the Brooklyn Bridge opened in 1883” is an introductory dependent clause, so it is followed by a comma. A semicolon or colon would need an independent clause before it, and no punctuation is a run-on.</p>",
+       "id": "rw-m1-18"
+      },
+      {
+       "domain": "Standard English Conventions",
+       "skill": "Form, Structure, and Sense",
+       "difficulty": "M",
+       "passage": "<p>Some species of hummingbirds can flap ______ wings more than 50 times per second, allowing them to hover in place while feeding.</p>",
+       "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+       "choices": [
+        "its",
+        "it's",
+        "their",
+        "they're"
+       ],
+       "answer": "C",
+       "explanation": "<p>The pronoun refers to the plural “species of hummingbirds” and shows possession, so <b>their</b> is correct. “Its” is singular, and “it's” and “they're” are contractions.</p>",
+       "id": "rw-m1-19",
+       "pretest": true
+      },
+      {
+       "domain": "Standard English Conventions",
+       "skill": "Boundaries",
+       "difficulty": "M",
+       "passage": "<p>The chef's signature dish combines three ______ roasted squash, toasted pumpkin seeds, and a sauce made from sage and brown butter.</p>",
+       "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+       "choices": [
+        "ingredients:",
+        "ingredients,",
+        "ingredients;",
+        "ingredients"
+       ],
+       "answer": "A",
+       "explanation": "<p>The first part is a complete sentence, and what follows is a list that explains it, so a colon is correct. A semicolon needs an independent clause after it, and a comma or no punctuation doesn't properly introduce the list.</p>",
+       "id": "rw-m1-20"
+      },
+      {
+       "domain": "Standard English Conventions",
+       "skill": "Form, Structure, and Sense",
+       "difficulty": "H",
+       "passage": "<p>Originally built as a temporary exhibit for the 1889 World's Fair in Paris, ______</p>",
+       "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+       "choices": [
+        "many Parisians at first criticized the iron tower's design.",
+        "Gustave Eiffel's company completed the tower in about two years.",
+        "in 1909 the city nearly dismantled the Eiffel Tower.",
+        "the Eiffel Tower was nearly dismantled in 1909 but was saved because of its value as a radio antenna."
+       ],
+       "answer": "D",
+       "explanation": "<p>The opening phrase describes something “built as a temporary exhibit,” so the subject right after the comma must be the tower: <b>the Eiffel Tower</b>. In A, B, and C, the phrase would describe Parisians, a company, or a year.</p>",
+       "id": "rw-m1-21"
+      },
+      {
+       "domain": "Standard English Conventions",
+       "skill": "Boundaries",
+       "difficulty": "H",
+       "passage": "<p>Biologist Rachel Carson's 1962 book <i>Silent Spring</i> warned of the dangers of chemical ______ it is widely credited with helping to inspire the modern environmental movement in the United States.</p>",
+       "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+       "choices": [
+        "pesticides,",
+        "pesticides",
+        "pesticides that",
+        "pesticides;"
+       ],
+       "answer": "D",
+       "explanation": "<p>Two independent clauses need a semicolon (or a period, or a comma plus a conjunction). A comma alone is a comma splice, no punctuation is a run-on, and “that” creates an ungrammatical sentence.</p>",
+       "id": "rw-m1-22"
+      },
+      {
+       "domain": "Expression of Ideas",
+       "skill": "Transitions",
+       "difficulty": "E",
+       "passage": "<p>Many people think of tomatoes as vegetables, and cooks usually use them that way. ______ botanists classify tomatoes as fruits, because they develop from a flower and contain seeds.</p>",
+       "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+       "choices": [
+        "However,",
+        "Similarly,",
+        "For example,",
+        "Therefore,"
+       ],
+       "answer": "A",
+       "explanation": "<p>The botanists' classification contrasts with the common view, so <b>However</b> fits. The sentence is not similar to, an example of, or a result of the previous one.</p>",
+       "id": "rw-m1-23"
+      },
+      {
+       "domain": "Expression of Ideas",
+       "skill": "Transitions",
+       "difficulty": "M",
+       "passage": "<p>The first commercially successful typewriters, sold in the 1870s, could type only capital letters. ______ manufacturers added a shift key, which allowed typists to switch between capital and lowercase letters using the same keys.</p>",
+       "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+       "choices": [
+        "Likewise,",
+        "Eventually,",
+        "For instance,",
+        "In other words,"
+       ],
+       "answer": "B",
+       "explanation": "<p>The text describes a later improvement to the early machines, so a time transition, <b>Eventually</b>, fits. The shift key is not similar to, an example of, or a restatement of the capitals-only limitation.</p>",
+       "id": "rw-m1-24"
+      },
+      {
+       "domain": "Expression of Ideas",
+       "skill": "Rhetorical Synthesis",
+       "difficulty": "M",
+       "passage": "<p>While researching a topic, a student has taken the following notes:</p><ul><li>Wangari Maathai was a Kenyan environmental activist.</li><li>In 1977, she founded the Green Belt Movement.</li><li>The organization has planted tens of millions of trees in Kenya.</li><li>In 2004, she became the first African woman to win the Nobel Peace Prize.</li></ul>",
+       "stem": "<p>The student wants to emphasize a recognition that Maathai received. Which choice most effectively uses relevant information from the notes to accomplish this goal?</p>",
+       "choices": [
+        "Wangari Maathai founded the Green Belt Movement in 1977.",
+        "The Green Belt Movement has planted tens of millions of trees in Kenya.",
+        "In 2004, Wangari Maathai became the first African woman to win the Nobel Peace Prize.",
+        "Wangari Maathai was a Kenyan environmental activist who founded an organization."
+       ],
+       "answer": "C",
+       "explanation": "<p>The goal is to emphasize a recognition, meaning an honor, that Maathai received. Only choice C mentions an honor: the 2004 Nobel Peace Prize.</p>",
+       "id": "rw-m1-25"
+      },
+      {
+       "domain": "Expression of Ideas",
+       "skill": "Rhetorical Synthesis",
+       "difficulty": "M",
+       "passage": "<p>While researching a topic, a student has taken the following notes:</p><ul><li>The Hubble Space Telescope was launched in 1990.</li><li>It observes mainly visible and ultraviolet light.</li><li>The James Webb Space Telescope was launched in 2021.</li><li>It observes mainly infrared light.</li></ul>",
+       "stem": "<p>The student wants to contrast the kinds of light that the two telescopes mainly observe. Which choice most effectively uses relevant information from the notes to accomplish this goal?</p>",
+       "choices": [
+        "While the Hubble Space Telescope observes mainly visible and ultraviolet light, the James Webb Space Telescope observes mainly infrared light.",
+        "The Hubble Space Telescope was launched in 1990, and the James Webb Space Telescope was launched in 2021.",
+        "Both the Hubble Space Telescope and the James Webb Space Telescope are space telescopes.",
+        "The James Webb Space Telescope, launched in 2021, observes mainly infrared light."
+       ],
+       "answer": "A",
+       "explanation": "<p>The goal is to contrast the kinds of light the telescopes observe. Choice A names the light for both. B contrasts launch dates, C states a similarity, and D describes only one telescope.</p>",
+       "id": "rw-m1-26"
+      },
+      {
+       "domain": "Expression of Ideas",
+       "skill": "Rhetorical Synthesis",
+       "difficulty": "H",
+       "passage": "<p>While researching a topic, a student has taken the following notes:</p><ul><li>Sleep researchers studied whether short naps help people remember new information.</li><li>Participants learned a list of word pairs.</li><li>Half of the participants then took a 20-minute nap; the other half watched a video.</li><li>On a later test, the nappers recalled 14% more word pairs.</li><li>The researchers note that the study included only 40 university students.</li></ul>",
+       "stem": "<p>The student wants to present the study's finding while acknowledging a limitation of the study. Which choice most effectively uses relevant information from the notes to accomplish this goal?</p>",
+       "choices": [
+        "Participants who took a 20-minute nap recalled 14% more word pairs than those who watched a video.",
+        "Researchers studied whether naps help memory by having participants learn word pairs.",
+        "The study included only 40 university students, so its results are not useful.",
+        "Although the study included only 40 university students, participants who napped for 20 minutes after learning word pairs recalled 14% more of them than those who watched a video."
+       ],
+       "answer": "D",
+       "explanation": "<p>The goal has two parts: present the finding <i>and</i> acknowledge a limitation. Choice D does both. A gives only the finding, B gives only the method, and C overstates the limitation and leaves out the finding.</p>",
+       "id": "rw-m1-27"
+      }
+     ]
+    },
+    "m2_easy": {
+     "time": 1920,
+     "questions": [
+      {
+       "domain": "Craft and Structure",
+       "skill": "Words in Context",
+       "difficulty": "E",
+       "passage": "<p>The museum's new wing is ______: it has nearly twice as much exhibition space as the original building.</p>",
+       "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+       "choices": [
+        "cramped",
+        "spacious",
+        "ancient",
+        "hidden"
+       ],
+       "answer": "B",
+       "explanation": "<p>Having nearly twice as much space means the wing is <b>spacious</b> (roomy). “Cramped” is the opposite, and age and visibility aren't discussed.</p>",
+       "id": "rw-m2_easy-01"
+      },
+      {
+       "domain": "Craft and Structure",
+       "skill": "Words in Context",
+       "difficulty": "E",
+       "passage": "<p>Because the river's water level ______ throughout the year, the ferry schedule changes with the seasons: boats run more often in spring, when the water is high, than in late summer, when it is low.</p>",
+       "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+       "choices": [
+        "varies",
+        "remains",
+        "disappears",
+        "improves"
+       ],
+       "answer": "A",
+       "explanation": "<p>The water is high in spring and low in late summer, so the level <b>varies</b> (changes). “Remains” means it stays the same, and the water doesn't disappear or improve.</p>",
+       "id": "rw-m2_easy-02"
+      },
+      {
+       "domain": "Craft and Structure",
+       "skill": "Words in Context",
+       "difficulty": "E",
+       "passage": "<p>The chemist was ______ about the new results: before announcing them, she repeated the experiment three more times to make sure they were correct.</p>",
+       "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+       "choices": [
+        "careless",
+        "indifferent",
+        "cautious",
+        "boastful"
+       ],
+       "answer": "C",
+       "explanation": "<p>Repeating the experiment three times before announcing it shows she was <b>cautious</b>. That is the opposite of careless, and nothing suggests she didn't care (indifferent) or bragged (boastful).</p>",
+       "id": "rw-m2_easy-03"
+      },
+      {
+       "domain": "Craft and Structure",
+       "skill": "Words in Context",
+       "difficulty": "M",
+       "passage": "<p>Although the film received little attention when it was first released, it has since become ______, and many critics now list it among the best movies of its decade.</p>",
+       "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+       "choices": [
+        "acclaimed",
+        "obscure",
+        "shortened",
+        "forgotten"
+       ],
+       "answer": "A",
+       "explanation": "<p>“Although” contrasts the film's quiet release with its later status, and critics now rank it among the best, so it has become <b>acclaimed</b> (praised). “Obscure” and “forgotten” describe its early status, not its later one.</p>",
+       "id": "rw-m2_easy-04",
+       "pretest": true
+      },
+      {
+       "domain": "Craft and Structure",
+       "skill": "Words in Context",
+       "difficulty": "M",
+       "passage": "<p>The novelist's descriptions are remarkably ______: readers can almost smell the bread baking and hear the rain falling on the tin roofs.</p>",
+       "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+       "choices": [
+        "vague",
+        "brief",
+        "vivid",
+        "formal"
+       ],
+       "answer": "C",
+       "explanation": "<p>Descriptions that let readers almost smell and hear the scene are <b>vivid</b> (clear and lifelike). “Vague” is the opposite, and nothing suggests the descriptions are short or formal.</p>",
+       "id": "rw-m2_easy-05"
+      },
+      {
+       "domain": "Craft and Structure",
+       "skill": "Text Structure and Purpose",
+       "difficulty": "E",
+       "passage": "<p>Pando is a grove of quaking aspen trees in Utah. Although it looks like a forest of tens of thousands of separate trees, all of them grow from a single root system and share the same genes. For this reason, scientists consider Pando to be one organism—and one of the largest known living things on Earth.</p>",
+       "stem": "<p>Which choice best states the main purpose of the text?</p>",
+       "choices": [
+        "To describe the history of forests in Utah",
+        "To compare quaking aspens with other kinds of trees",
+        "To argue that Pando should be protected from visitors",
+        "To explain why a grove of trees is considered a single organism"
+       ],
+       "answer": "D",
+       "explanation": "<p>The text explains that Pando's trees share one root system and the same genes, which is why scientists count it as one organism. It doesn't give a history, compare species, or argue for protection.</p>",
+       "id": "rw-m2_easy-06"
+      },
+      {
+       "domain": "Craft and Structure",
+       "skill": "Text Structure and Purpose",
+       "difficulty": "M",
+       "passage": "<p>Some cities encourage building owners to paint their roofs white. Dark roofs absorb sunlight and can become extremely hot in summer, warming the buildings below. White roofs reflect much of that sunlight, keeping buildings cooler and reducing the need for air conditioning. In cold climates, however, white roofs can slightly increase heating costs in winter.</p>",
+       "stem": "<p>Which choice best describes the overall structure of the text?</p>",
+       "choices": [
+        "It describes a practice, explains its main benefit, and then notes a drawback.",
+        "It presents two competing theories and then explains why one is correct.",
+        "It describes a historical event and then explains its causes.",
+        "It lists several cities and then compares their climates."
+       ],
+       "answer": "A",
+       "explanation": "<p>The text introduces a practice (white roofs), explains how it keeps buildings cool, and then notes a drawback in cold climates (“however”). There are no competing theories, historical event, or list of cities.</p>",
+       "id": "rw-m2_easy-07"
+      },
+      {
+       "domain": "Craft and Structure",
+       "skill": "Cross-Text Connections",
+       "difficulty": "M",
+       "passage": "<p><b>Text 1</b></p><p>Some teachers worry that allowing students to use calculators in math class prevents them from learning basic arithmetic. If students rely on machines, these teachers argue, they will never develop a strong sense of how numbers work.</p><p><b>Text 2</b></p><p>Studies of classrooms where calculators are used for complex, multistep problems—but not when students practice basic skills—have found that students' arithmetic skills are no weaker than those of students who never use calculators. Used this way, calculators can free students to spend more time on reasoning.</p>",
+       "stem": "<p>Based on the texts, how would the author of Text 2 most likely respond to the teachers discussed in Text 1?</p>",
+       "choices": [
+        "By agreeing that calculators should never be used in math class",
+        "By arguing that arithmetic skills are no longer important for students",
+        "By suggesting that calculators need not harm arithmetic skills if they are used only for certain tasks",
+        "By claiming that students who use calculators are better at arithmetic than other students"
+       ],
+       "answer": "C",
+       "explanation": "<p>Text 2 says that when calculators are used only for complex problems, arithmetic skills don't suffer. That answers the teachers' worry with a condition. Text 2 doesn't reject calculators (A), dismiss arithmetic (B), or claim calculator users are <i>better</i> (D).</p>",
+       "id": "rw-m2_easy-08"
+      },
+      {
+       "domain": "Information and Ideas",
+       "skill": "Central Ideas and Details",
+       "difficulty": "E",
+       "passage": "<p>The Inca Empire built a network of roads that stretched for tens of thousands of kilometers through the Andes Mountains. Runners called chasquis carried messages along these roads in relays: each runner covered a short distance and then passed the message to the next. In this way, messages could travel hundreds of kilometers in a single day.</p>",
+       "stem": "<p>Which choice best states the main idea of the text?</p>",
+       "choices": [
+        "The Andes Mountains were difficult for the Inca to cross.",
+        "The Inca used a road network and relay runners to send messages quickly over long distances.",
+        "Chasquis were the fastest runners in the Inca Empire.",
+        "The Inca roads were built mainly for trade."
+       ],
+       "answer": "B",
+       "explanation": "<p>The text explains how roads and relay runners let messages travel hundreds of kilometers a day. It doesn't say the mountains were hard to cross, rank the runners' speed, or discuss trade.</p>",
+       "id": "rw-m2_easy-09"
+      },
+      {
+       "domain": "Information and Ideas",
+       "skill": "Central Ideas and Details",
+       "difficulty": "M",
+       "passage": "<p>The following text is from a short story. Mei has just started at a new school.</p><p>At lunch, Mei carried her tray past table after table of students who already seemed to know one another. She was about to sit alone by the window when a girl from her science class waved and slid her backpack off the empty chair beside her. Mei sat down, and for the first time that day, she felt her shoulders relax.</p>",
+       "stem": "<p>Which choice best describes what happens in the text?</p>",
+       "choices": [
+        "Mei decides that she prefers to eat lunch alone.",
+        "Mei asks a classmate to help her with a science assignment.",
+        "Mei is upset that the cafeteria is so crowded.",
+        "Mei feels relieved when a classmate makes room for her to sit together."
+       ],
+       "answer": "D",
+       "explanation": "<p>Mei was about to sit alone when a classmate cleared a seat for her, and she “felt her shoulders relax,” a sign of relief. She doesn't choose to eat alone, ask for help, or complain about crowding.</p>",
+       "id": "rw-m2_easy-10"
+      },
+      {
+       "domain": "Information and Ideas",
+       "skill": "Command of Evidence (Textual)",
+       "difficulty": "E",
+       "passage": "<p>A nutrition researcher claims that eating breakfast helps students concentrate during their morning classes.</p>",
+       "stem": "<p>Which finding, if true, would most directly support the researcher's claim?</p>",
+       "choices": [
+        "Students who ate breakfast scored higher on morning attention tests than students who skipped breakfast.",
+        "Many students say that they do not have time to eat breakfast.",
+        "Students who ate lunch at school were less hungry in the afternoon.",
+        "Breakfast foods vary widely from one country to another."
+       ],
+       "answer": "A",
+       "explanation": "<p>The claim links breakfast to morning concentration. Choice A shows that students who ate breakfast did better on morning attention tests. The other choices don't connect breakfast to concentration.</p>",
+       "id": "rw-m2_easy-11"
+      },
+      {
+       "domain": "Information and Ideas",
+       "skill": "Command of Evidence (Textual)",
+       "difficulty": "M",
+       "passage": "<p>Historian Paul Grady argues that the refrigerated railroad car, which came into wide use in the late 1800s, changed the diets of people in the United States by allowing fresh food to be shipped over long distances.</p>",
+       "stem": "<p>Which finding, if true, would most directly support Grady's argument?</p>",
+       "choices": [
+        "Refrigerated railroad cars were expensive to build.",
+        "Railroads in the late 1800s also carried passengers and mail.",
+        "After refrigerated railroad cars became common, people in cities far from farms began eating fresh meat and fruit much more often.",
+        "Some farmers in the 1800s sold their products only at local markets."
+       ],
+       "answer": "C",
+       "explanation": "<p>Grady says refrigerated cars changed diets. Choice C shows exactly that: once the cars were common, people far from farms ate fresh food more often. The other choices don't show any change in diet.</p>",
+       "id": "rw-m2_easy-12"
+      },
+      {
+       "domain": "Information and Ideas",
+       "skill": "Command of Evidence (Quantitative)",
+       "difficulty": "E",
+       "passage": "<p>A student grew four bean plants that received different amounts of sunlight each day and measured their heights after three weeks.</p><div class=\"caption\">Bean Plant Height After 3 Weeks</div><table><tr><th>Hours of sunlight per day</th><th>Height (cm)</th></tr><tr><td>2</td><td>8</td></tr><tr><td>4</td><td>15</td></tr><tr><td>6</td><td>21</td></tr><tr><td>8</td><td>26</td></tr></table><p>The student claims that the bean plants that received more sunlight grew taller.</p>",
+       "stem": "<p>Which choice best describes data from the table that support the student's claim?</p>",
+       "choices": [
+        "The plant that received 4 hours of sunlight grew to 15 centimeters.",
+        "The plant that received 6 hours of sunlight was 21 centimeters tall.",
+        "All four plants grew taller than 5 centimeters.",
+        "Plant height increased with each increase in sunlight, from 8 centimeters at 2 hours to 26 centimeters at 8 hours."
+       ],
+       "answer": "D",
+       "explanation": "<p>The claim is about a trend: more sunlight, taller plants. Only choice D describes the trend across all four plants. A and B give single values, and C doesn't involve sunlight.</p>",
+       "id": "rw-m2_easy-13"
+      },
+      {
+       "domain": "Information and Ideas",
+       "skill": "Command of Evidence (Quantitative)",
+       "difficulty": "M",
+       "passage": "<p>The robotics club at Westfield High School began competing in regional tournaments in 2022. The graph shows the number of club members each year.</p><svg viewBox=\"0 0 460 300\" width=\"460\" style=\"max-width:100%;height:auto\" role=\"img\" aria-label=\"Westfield Robotics Club Members\"><text x=\"230.0\" y=\"18\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"bold\" font-family=\"Arial, Helvetica, sans-serif\">Westfield Robotics Club Members</text><line x1=\"62\" y1=\"248.0\" x2=\"444\" y2=\"248.0\" stroke=\"#d9d9d9\"/><text x=\"56\" y=\"252.0\" text-anchor=\"end\" font-size=\"11\" font-family=\"Arial, Helvetica, sans-serif\">0</text><line x1=\"62\" y1=\"221.2\" x2=\"444\" y2=\"221.2\" stroke=\"#d9d9d9\"/><text x=\"56\" y=\"225.2\" text-anchor=\"end\" font-size=\"11\" font-family=\"Arial, Helvetica, sans-serif\">5</text><line x1=\"62\" y1=\"194.5\" x2=\"444\" y2=\"194.5\" stroke=\"#d9d9d9\"/><text x=\"56\" y=\"198.5\" text-anchor=\"end\" font-size=\"11\" font-family=\"Arial, Helvetica, sans-serif\">10</text><line x1=\"62\" y1=\"167.8\" x2=\"444\" y2=\"167.8\" stroke=\"#d9d9d9\"/><text x=\"56\" y=\"171.8\" text-anchor=\"end\" font-size=\"11\" font-family=\"Arial, Helvetica, sans-serif\">15</text><line x1=\"62\" y1=\"141.0\" x2=\"444\" y2=\"141.0\" stroke=\"#d9d9d9\"/><text x=\"56\" y=\"145.0\" text-anchor=\"end\" font-size=\"11\" font-family=\"Arial, Helvetica, sans-serif\">20</text><line x1=\"62\" y1=\"114.2\" x2=\"444\" y2=\"114.2\" stroke=\"#d9d9d9\"/><text x=\"56\" y=\"118.2\" text-anchor=\"end\" font-size=\"11\" font-family=\"Arial, Helvetica, sans-serif\">25</text><line x1=\"62\" y1=\"87.5\" x2=\"444\" y2=\"87.5\" stroke=\"#d9d9d9\"/><text x=\"56\" y=\"91.5\" text-anchor=\"end\" font-size=\"11\" font-family=\"Arial, Helvetica, sans-serif\">30</text><line x1=\"62\" y1=\"60.8\" x2=\"444\" y2=\"60.8\" stroke=\"#d9d9d9\"/><text x=\"56\" y=\"64.8\" text-anchor=\"end\" font-size=\"11\" font-family=\"Arial, Helvetica, sans-serif\">35</text><line x1=\"62\" y1=\"34.0\" x2=\"444\" y2=\"34.0\" stroke=\"#d9d9d9\"/><text x=\"56\" y=\"38.0\" text-anchor=\"end\" font-size=\"11\" font-family=\"Arial, Helvetica, sans-serif\">40</text><text x=\"82.0\" y=\"264\" text-anchor=\"middle\" font-size=\"11\" font-family=\"Arial, Helvetica, sans-serif\">2019</text><text x=\"150.4\" y=\"264\" text-anchor=\"middle\" font-size=\"11\" font-family=\"Arial, Helvetica, sans-serif\">2020</text><text x=\"218.8\" y=\"264\" text-anchor=\"middle\" font-size=\"11\" font-family=\"Arial, Helvetica, sans-serif\">2021</text><text x=\"287.2\" y=\"264\" text-anchor=\"middle\" font-size=\"11\" font-family=\"Arial, Helvetica, sans-serif\">2022</text><text x=\"355.6\" y=\"264\" text-anchor=\"middle\" font-size=\"11\" font-family=\"Arial, Helvetica, sans-serif\">2023</text><text x=\"424.0\" y=\"264\" text-anchor=\"middle\" font-size=\"11\" font-family=\"Arial, Helvetica, sans-serif\">2024</text><polyline points=\"82.0,183.8 150.4,167.8 218.8,173.1 287.2,130.3 355.6,87.5 424.0,44.7\" fill=\"none\" stroke=\"#1e1e1e\" stroke-width=\"1.8\"/><circle cx=\"82.0\" cy=\"183.8\" r=\"3.5\" fill=\"#1e1e1e\"/><circle cx=\"150.4\" cy=\"167.8\" r=\"3.5\" fill=\"#1e1e1e\"/><circle cx=\"218.8\" cy=\"173.1\" r=\"3.5\" fill=\"#1e1e1e\"/><circle cx=\"287.2\" cy=\"130.3\" r=\"3.5\" fill=\"#1e1e1e\"/><circle cx=\"355.6\" cy=\"87.5\" r=\"3.5\" fill=\"#1e1e1e\"/><circle cx=\"424.0\" cy=\"44.7\" r=\"3.5\" fill=\"#1e1e1e\"/><line x1=\"62\" y1=\"34\" x2=\"62\" y2=\"248\" stroke=\"#1e1e1e\"/><line x1=\"62\" y1=\"248\" x2=\"444\" y2=\"248\" stroke=\"#1e1e1e\"/><text transform=\"translate(14 141.0) rotate(-90)\" text-anchor=\"middle\" font-size=\"12\" font-family=\"Arial, Helvetica, sans-serif\">Number of members</text><text x=\"253.0\" y=\"292\" text-anchor=\"middle\" font-size=\"12\" font-family=\"Arial, Helvetica, sans-serif\">Year</text></svg><p>The club's adviser notes that membership grew sharply after the club began competing.</p>",
+       "stem": "<p>Which choice best describes data from the graph that support the adviser's statement?</p>",
+       "choices": [
+        "The club had 12 members in 2019.",
+        "Membership stayed between 12 and 15 from 2019 to 2021 and then rose each year, reaching 38 in 2024.",
+        "The club had more members in 2020 than in 2021.",
+        "The club had fewer than 40 members every year."
+       ],
+       "answer": "B",
+       "explanation": "<p>The adviser's point compares membership before and after 2022. Choice B shows little change before and a steady rise after. The other choices give single facts that don't show growth after competing began.</p>",
+       "id": "rw-m2_easy-14"
+      },
+      {
+       "domain": "Information and Ideas",
+       "skill": "Inferences",
+       "difficulty": "M",
+       "passage": "<p>Dandelion seeds are attached to tufts of fine bristles that act like tiny parachutes, and wind can carry the seeds many kilometers from the parent plant. Because dandelions spread their seeds this way, ______</p>",
+       "stem": "<p>Which choice most logically completes the text?</p>",
+       "choices": [
+        "dandelions can grow only in places with very little wind.",
+        "each dandelion produces only a few seeds.",
+        "dandelion seeds usually land directly beneath the parent plant.",
+        "new dandelion plants often appear in places far from where dandelions were growing before."
+       ],
+       "answer": "D",
+       "explanation": "<p>Seeds carried many kilometers by wind can sprout far from the parent plant, so new dandelions often appear in new places. Choice C contradicts the text, and A and B aren't supported.</p>",
+       "id": "rw-m2_easy-15"
+      },
+      {
+       "domain": "Standard English Conventions",
+       "skill": "Boundaries",
+       "difficulty": "E",
+       "passage": "<p>The giant panda's diet consists almost entirely of ______ an adult panda may spend more than twelve hours a day eating.</p>",
+       "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+       "choices": [
+        "bamboo,",
+        "bamboo;",
+        "bamboo",
+        "bamboo, which"
+       ],
+       "answer": "B",
+       "explanation": "<p>Both parts are independent clauses, and a semicolon correctly joins them. A comma alone is a comma splice, no punctuation is a run-on, and “which” makes the second part ungrammatical.</p>",
+       "id": "rw-m2_easy-16"
+      },
+      {
+       "domain": "Standard English Conventions",
+       "skill": "Form, Structure, and Sense",
+       "difficulty": "E",
+       "passage": "<p>Every one of the students in the photography class ______ a camera to each session.</p>",
+       "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+       "choices": [
+        "bring",
+        "are bringing",
+        "have brought",
+        "brings"
+       ],
+       "answer": "D",
+       "explanation": "<p>The subject is “Every one,” which is singular (“of the students” doesn't change it). The singular verb <b>brings</b> is correct.</p>",
+       "id": "rw-m2_easy-17"
+      },
+      {
+       "domain": "Standard English Conventions",
+       "skill": "Form, Structure, and Sense",
+       "difficulty": "M",
+       "passage": "<p>Two robins spent most of a week building a nest outside the library window. The ______ nest was hidden high in the branches of an old oak tree.</p>",
+       "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+       "choices": [
+        "robins",
+        "robin's",
+        "robins'",
+        "robins's"
+       ],
+       "answer": "C",
+       "explanation": "<p>The nest belongs to two robins, so the plural possessive <b>robins'</b> is correct. “Robin's” is singular, “robins” shows no possession, and “robins's” is not standard.</p>",
+       "id": "rw-m2_easy-18"
+      },
+      {
+       "domain": "Standard English Conventions",
+       "skill": "Form, Structure, and Sense",
+       "difficulty": "M",
+       "passage": "<p>By the end of next year, the city ______ more than 200 new streetlights along its busiest roads.</p>",
+       "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+       "choices": [
+        "will have installed",
+        "installs",
+        "installed",
+        "has installed"
+       ],
+       "answer": "A",
+       "explanation": "<p>“By the end of next year” describes an action that will be completed before a future time, so the future perfect <b>will have installed</b> is correct.</p>",
+       "id": "rw-m2_easy-19",
+       "pretest": true
+      },
+      {
+       "domain": "Standard English Conventions",
+       "skill": "Boundaries",
+       "difficulty": "M",
+       "passage": "<p>Mount ______ is located in northeastern Tanzania, is the tallest mountain in Africa.</p>",
+       "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+       "choices": [
+        "Kilimanjaro, which",
+        "Kilimanjaro which",
+        "Kilimanjaro; which",
+        "Kilimanjaro: which"
+       ],
+       "answer": "A",
+       "explanation": "<p>“Which is located in northeastern Tanzania” is a nonessential clause, so it is set off with commas on both sides. Only choice A supplies the opening comma that pairs with the comma after “Tanzania.”</p>",
+       "id": "rw-m2_easy-20"
+      },
+      {
+       "domain": "Standard English Conventions",
+       "skill": "Boundaries",
+       "difficulty": "M",
+       "passage": "<p>The orchestra's program featured three works by Florence ______ the first Black woman composer to have a symphony performed by a major American orchestra.</p>",
+       "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+       "choices": [
+        "Price;",
+        "Price.",
+        "Price,",
+        "Price"
+       ],
+       "answer": "C",
+       "explanation": "<p>The phrase beginning “the first Black woman composer” renames Florence Price, so it is set off with a comma. A semicolon or period would leave the phrase as a fragment, and no punctuation runs the two together.</p>",
+       "id": "rw-m2_easy-21"
+      },
+      {
+       "domain": "Standard English Conventions",
+       "skill": "Form, Structure, and Sense",
+       "difficulty": "M",
+       "passage": "<p>The list of supplies for the class camping trip ______ a flashlight, a sleeping bag, and a refillable water bottle.</p>",
+       "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+       "choices": [
+        "include",
+        "includes",
+        "are including",
+        "have included"
+       ],
+       "answer": "B",
+       "explanation": "<p>The subject is the singular noun “list” (not “supplies”), so the verb must be singular: <b>includes</b>.</p>",
+       "id": "rw-m2_easy-22"
+      },
+      {
+       "domain": "Expression of Ideas",
+       "skill": "Transitions",
+       "difficulty": "E",
+       "passage": "<p>Cheetahs are the fastest land animals, able to reach speeds of more than 100 kilometers per hour. ______ they can keep up these speeds for only a short time, usually less than a minute.</p>",
+       "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+       "choices": [
+        "For example,",
+        "Therefore,",
+        "However,",
+        "Similarly,"
+       ],
+       "answer": "C",
+       "explanation": "<p>The second sentence presents a limitation that contrasts with the cheetah's great speed, so <b>However</b> is the logical transition.</p>",
+       "id": "rw-m2_easy-23"
+      },
+      {
+       "domain": "Expression of Ideas",
+       "skill": "Transitions",
+       "difficulty": "M",
+       "passage": "<p>Honey can last for a very long time without spoiling, because its low moisture and high acidity make it difficult for bacteria to grow. ______ archaeologists have found pots of honey in ancient Egyptian tombs that had not spoiled after thousands of years.</p>",
+       "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+       "choices": [
+        "In fact,",
+        "In contrast,",
+        "Nevertheless,",
+        "Instead,"
+       ],
+       "answer": "A",
+       "explanation": "<p>The second sentence gives a striking example that reinforces the first, so <b>In fact</b> fits. Nothing in it contrasts with the first sentence.</p>",
+       "id": "rw-m2_easy-24"
+      },
+      {
+       "domain": "Expression of Ideas",
+       "skill": "Rhetorical Synthesis",
+       "difficulty": "E",
+       "passage": "<p>While researching a topic, a student has taken the following notes:</p><ul><li>The violin has four strings.</li><li>The cello also has four strings but is much larger than the violin.</li><li>A violinist usually stands or sits and holds the violin under the chin.</li><li>A cellist sits and holds the cello upright between the knees.</li></ul>",
+       "stem": "<p>The student wants to explain how a cellist holds the instrument. Which choice most effectively uses relevant information from the notes to accomplish this goal?</p>",
+       "choices": [
+        "The violin and the cello both have four strings.",
+        "The cello is much larger than the violin.",
+        "A violinist holds the violin under the chin.",
+        "A cellist sits and holds the cello upright between the knees."
+       ],
+       "answer": "D",
+       "explanation": "<p>The goal is to explain how cellists hold their instrument. Only choice D describes that.</p>",
+       "id": "rw-m2_easy-25"
+      },
+      {
+       "domain": "Expression of Ideas",
+       "skill": "Rhetorical Synthesis",
+       "difficulty": "M",
+       "passage": "<p>While researching a topic, a student has taken the following notes:</p><ul><li>Hedy Lamarr was a film actress in the 1930s and 1940s.</li><li>During World War II, she co-invented a frequency-hopping system to keep radio-guided torpedoes from being jammed.</li><li>She received a patent for the invention in 1942.</li><li>Frequency hopping later contributed to the development of wireless technologies such as Wi-Fi and Bluetooth.</li></ul>",
+       "stem": "<p>The student wants to emphasize Lamarr's work as an inventor to an audience that knows her only as an actress. Which choice most effectively uses relevant information from the notes to accomplish this goal?</p>",
+       "choices": [
+        "Hedy Lamarr was a film actress in the 1930s and 1940s.",
+        "Though best known as a film actress, Hedy Lamarr also co-invented a frequency-hopping system, patented in 1942, to keep radio-guided torpedoes from being jammed.",
+        "Frequency hopping contributed to wireless technologies such as Wi-Fi and Bluetooth.",
+        "During World War II, radio-guided torpedoes could be jammed."
+       ],
+       "answer": "B",
+       "explanation": "<p>The audience knows Lamarr only as an actress, so the sentence should acknowledge that and emphasize her invention. Choice B does both. A mentions only her acting, and C and D don't mention Lamarr.</p>",
+       "id": "rw-m2_easy-26"
+      },
+      {
+       "domain": "Expression of Ideas",
+       "skill": "Rhetorical Synthesis",
+       "difficulty": "M",
+       "passage": "<p>While researching a topic, a student has taken the following notes:</p><ul><li>The town of Riverton opened a new public swimming pool in 2020.</li><li>In 2019, 1,200 children were enrolled in Riverton's swimming lessons.</li><li>In 2022, 2,100 children were enrolled.</li><li>Lessons are offered for children ages 4 to 14.</li></ul>",
+       "stem": "<p>The student wants to emphasize the increase in enrollment in swimming lessons. Which choice most effectively uses relevant information from the notes to accomplish this goal?</p>",
+       "choices": [
+        "Riverton opened a new public swimming pool in 2020.",
+        "Enrollment in Riverton's swimming lessons rose from 1,200 children in 2019 to 2,100 in 2022.",
+        "Riverton offers swimming lessons for children ages 4 to 14.",
+        "In 2022, 2,100 children were enrolled in Riverton's swimming lessons."
+       ],
+       "answer": "B",
+       "explanation": "<p>To emphasize an increase, the sentence must compare two enrollment numbers. Only choice B does. Choice D gives just one year.</p>",
+       "id": "rw-m2_easy-27"
+      }
+     ]
+    },
+    "m2_hard": {
+     "time": 1920,
+     "questions": [
+      {
+       "domain": "Craft and Structure",
+       "skill": "Words in Context",
+       "difficulty": "M",
+       "passage": "<p>The senator's speech was notably ______: rather than attacking her opponents, she acknowledged the strengths of their proposals before explaining why she preferred her own.</p>",
+       "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+       "choices": [
+        "conciliatory",
+        "belligerent",
+        "evasive",
+        "perfunctory"
+       ],
+       "answer": "A",
+       "explanation": "<p>Acknowledging opponents' strengths instead of attacking them is <b>conciliatory</b> (seeking goodwill). “Belligerent” is the opposite, she addresses the issue directly (not evasive), and nothing suggests the speech was done with little effort (perfunctory).</p>",
+       "id": "rw-m2_hard-01"
+      },
+      {
+       "domain": "Craft and Structure",
+       "skill": "Words in Context",
+       "difficulty": "H",
+       "passage": "<p>Though the theory was initially met with skepticism, a growing body of evidence has ______ it, and most researchers in the field now accept it.</p>",
+       "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+       "choices": [
+        "undermined",
+        "corroborated",
+        "obscured",
+        "predated"
+       ],
+       "answer": "B",
+       "explanation": "<p>Researchers now accept the theory because of growing evidence, so the evidence has <b>corroborated</b> (confirmed) it. “Undermined” would explain continued doubt, not acceptance.</p>",
+       "id": "rw-m2_hard-02"
+      },
+      {
+       "domain": "Craft and Structure",
+       "skill": "Words in Context",
+       "difficulty": "H",
+       "passage": "<p>The historian warns against treating the merchant's diary as an ______ record of events: its author wrote many entries years after the fact and sometimes altered details to flatter herself.</p>",
+       "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+       "choices": [
+        "idiosyncratic",
+        "exhaustive",
+        "unimpeachable",
+        "ephemeral"
+       ],
+       "answer": "C",
+       "explanation": "<p>Because the entries were written late and sometimes altered, the diary should not be treated as beyond doubt, or <b>unimpeachable</b>. The warning concerns reliability, not whether the diary is quirky, complete, or short-lived.</p>",
+       "id": "rw-m2_hard-03"
+      },
+      {
+       "domain": "Craft and Structure",
+       "skill": "Words in Context",
+       "difficulty": "H",
+       "passage": "<p>Some economists argue that the region's rapid growth in the 2010s was ______, the product of a temporary boom in mineral prices rather than of lasting changes in its economy.</p>",
+       "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+       "choices": [
+        "inexorable",
+        "equitable",
+        "deliberate",
+        "transitory"
+       ],
+       "answer": "D",
+       "explanation": "<p>Growth caused by a temporary boom rather than lasting change is <b>transitory</b> (short-lived). “Inexorable” (unstoppable) suggests the opposite, and the text says nothing about fairness or intent.</p>",
+       "id": "rw-m2_hard-04"
+      },
+      {
+       "domain": "Craft and Structure",
+       "skill": "Words in Context",
+       "difficulty": "H",
+       "passage": "<p>Rather than merely ______ the folk melodies she collected in rural villages, composer Rosa Ibáñez transformed them, altering their rhythms and harmonies until they became the basis for entirely new works.</p>",
+       "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+       "choices": [
+        "transcribing",
+        "inventing",
+        "rejecting",
+        "forgetting"
+       ],
+       "answer": "A",
+       "explanation": "<p>“Rather than merely” contrasts a simple action with transforming the melodies. Simply writing the melodies down, or <b>transcribing</b> them, is the simpler action. She couldn't invent melodies she collected, and rejecting or forgetting them contradicts using them.</p>",
+       "id": "rw-m2_hard-05"
+      },
+      {
+       "domain": "Craft and Structure",
+       "skill": "Text Structure and Purpose",
+       "difficulty": "H",
+       "passage": "<p>Engineers designing earthquake-resistant buildings once focused mainly on making structures as rigid as possible. Rigid buildings, however, can crack when the ground shakes violently. Many modern designs instead allow buildings to move: some rest on flexible bearings that absorb the ground's motion, so that the building above shifts only slightly. Such systems have allowed hospitals in earthquake zones to keep operating after major quakes.</p>",
+       "stem": "<p>Which choice best describes the overall structure of the text?</p>",
+       "choices": [
+        "It explains a scientific theory and then describes an experiment that tested it.",
+        "It describes an earlier approach, explains its weakness, and then presents an alternative approach and one of its benefits.",
+        "It compares buildings in several countries and then argues that one country's designs are best.",
+        "It describes a major earthquake and then explains why some buildings survived it."
+       ],
+       "answer": "B",
+       "explanation": "<p>The text moves from an earlier approach (rigidity), to its weakness (cracking), to a newer approach (flexible bearings) and a benefit (hospitals keep operating). There's no experiment, country comparison, or specific earthquake.</p>",
+       "id": "rw-m2_hard-06"
+      },
+      {
+       "domain": "Craft and Structure",
+       "skill": "Text Structure and Purpose",
+       "difficulty": "H",
+       "passage": "<p>In 1896, physicist Henri Becquerel placed uranium salts on a photographic plate wrapped in black paper and stored them in a drawer, assuming that sunlight was needed to make the salts give off radiation. <u>When he developed the plate anyway, he found that it had been exposed, even though the salts had been kept in darkness.</u> This observation showed that uranium emits radiation on its own, a discovery that led to the study of radioactivity.</p>",
+       "stem": "<p>Which choice best describes the function of the underlined sentence in the text as a whole?</p>",
+       "choices": [
+        "It describes the method Becquerel used to make his photographic plates.",
+        "It explains why Becquerel believed sunlight was necessary for his experiment.",
+        "It introduces a theory that Becquerel's later work disproved.",
+        "It presents the unexpected result that revealed uranium's ability to give off radiation on its own."
+       ],
+       "answer": "D",
+       "explanation": "<p>Becquerel expected nothing without sunlight, but the plate was exposed anyway. That surprising result is what the last sentence says “showed that uranium emits radiation on its own.” The underlined sentence reports a result, not a method, belief, or theory.</p>",
+       "id": "rw-m2_hard-07"
+      },
+      {
+       "domain": "Craft and Structure",
+       "skill": "Cross-Text Connections",
+       "difficulty": "H",
+       "passage": "<p><b>Text 1</b></p><p>Urban planner Silvia Ortega argues that cities should eliminate parking requirements, the rules that force new buildings to include a minimum number of parking spaces. Parking, she says, takes up valuable land and raises the cost of housing, and without requirements developers will simply build as many spaces as residents actually need.</p><p><b>Text 2</b></p><p>Researcher Daniel Oh studied neighborhoods that eliminated parking requirements. New buildings did include fewer spaces, and housing costs rose more slowly than in comparable neighborhoods. But in neighborhoods with limited public transit, many new residents still owned cars and competed for scarce street parking, frustrating longtime residents.</p>",
+       "stem": "<p>Based on the texts, how would Oh (Text 2) most likely respond to Ortega's argument in Text 1?</p>",
+       "choices": [
+        "By rejecting her claim that parking requirements raise housing costs",
+        "By arguing that developers built more parking spaces than residents needed",
+        "By agreeing that eliminating requirements can slow rising housing costs while cautioning that the results may depend on the availability of public transit",
+        "By suggesting that cities should require more parking in neighborhoods with good public transit"
+       ],
+       "answer": "C",
+       "explanation": "<p>Oh's findings support Ortega on costs (housing costs rose more slowly) but show problems where transit is limited. So he would partly agree and add a condition. He doesn't reject her cost claim (A), report too much parking (B), or call for more parking near transit (D).</p>",
+       "id": "rw-m2_hard-08"
+      },
+      {
+       "domain": "Information and Ideas",
+       "skill": "Central Ideas and Details",
+       "difficulty": "H",
+       "passage": "<p>The following text is from a novel. Hannah has returned to the house where she grew up.</p><p>The kitchen was smaller than she remembered, and the window over the sink, which in her memory had framed an endless field, now looked out on a row of new houses. Still, when she ran her fingers along the chipped edge of the table, she found the notch she had carved there at eight years old, exactly where she had left it.</p>",
+       "stem": "<p>Which choice best states the main idea of the text?</p>",
+       "choices": [
+        "Although much about the house has changed, Hannah finds a small sign that part of her childhood remains.",
+        "Hannah regrets carving a notch in the table when she was a child.",
+        "Hannah is disappointed that new houses have been built near her childhood home.",
+        "Hannah realizes that she had always remembered the kitchen accurately."
+       ],
+       "answer": "A",
+       "explanation": "<p>The kitchen seems smaller and the view has changed, but “Still,” she finds the notch she carved as a child. The contrast is the main idea. She expresses no regret (B), the text doesn't dwell on disappointment (C), and her memory proves <i>inaccurate</i> (D).</p>",
+       "id": "rw-m2_hard-09",
+       "pretest": true
+      },
+      {
+       "domain": "Information and Ideas",
+       "skill": "Central Ideas and Details",
+       "difficulty": "H",
+       "passage": "<p>Coral reefs are often called “rainforests of the sea” because of their extraordinary biodiversity. Yet reefs grow in tropical waters that are typically poor in nutrients. Marine biologist Kofi Asante explains this apparent contradiction by pointing to the reefs' efficient recycling: sponges, for example, absorb dissolved organic matter released by corals and algae and convert it into particles that other reef animals eat.</p>",
+       "stem": "<p>Which choice best states the main idea of the text?</p>",
+       "choices": [
+        "Coral reefs contain more species than tropical rainforests do.",
+        "Sponges are the most important animals on coral reefs.",
+        "Tropical waters have become poorer in nutrients over time.",
+        "Asante suggests that reefs can support great biodiversity in nutrient-poor waters because their organisms recycle nutrients efficiently."
+       ],
+       "answer": "D",
+       "explanation": "<p>The text presents a puzzle (rich life in nutrient-poor water) and Asante's explanation (efficient recycling, with sponges as an example). It doesn't compare species counts with rainforests, rank sponges, or describe changes over time.</p>",
+       "id": "rw-m2_hard-10"
+      },
+      {
+       "domain": "Information and Ideas",
+       "skill": "Command of Evidence (Textual)",
+       "difficulty": "H",
+       "passage": "<p>Researchers hypothesize that American crows can recognize individual human faces and remember people who have treated them as a threat.</p>",
+       "stem": "<p>Which finding, if true, would most directly support the researchers' hypothesis?</p>",
+       "choices": [
+        "Crows gathered in larger groups near parks than near busy streets.",
+        "Crows that had been captured by researchers wearing a particular mask scolded people wearing that mask years later but ignored people wearing a different mask.",
+        "Crows learned to open containers to reach food more quickly after watching other crows.",
+        "Crows called more often in the morning than in the evening."
+       ],
+       "answer": "B",
+       "explanation": "<p>The hypothesis has two parts: crows recognize faces and remember threats. In choice B, crows reacted only to the face (mask) linked to capture, years later, showing both recognition and memory. The other choices don't involve human faces.</p>",
+       "id": "rw-m2_hard-11"
+      },
+      {
+       "domain": "Information and Ideas",
+       "skill": "Command of Evidence (Textual)",
+       "difficulty": "H",
+       "passage": "<p>Economist Lena Brandt claims that a farmers' market that opened on Main Street in the town of Ashby increased sales at nearby shops, because people who visit the market also stop at shops on the same street.</p>",
+       "stem": "<p>Which finding, if true, would most directly weaken Brandt's claim?</p>",
+       "choices": [
+        "Most of the vendors at the farmers' market live within 30 kilometers of Ashby.",
+        "Shoppers at the farmers' market spent an average of 40 minutes there per visit.",
+        "During the same period, sales at shops on Main Street rose by the same amount as sales at shops in a similar nearby town that has no farmers' market.",
+        "The farmers' market is open only on Saturday mornings."
+       ],
+       "answer": "C",
+       "explanation": "<p>If sales rose just as much in a similar town <i>without</i> a market, something other than the market likely caused the increase, which weakens Brandt's claim. The other choices don't show whether the market affected shop sales.</p>",
+       "id": "rw-m2_hard-12"
+      },
+      {
+       "domain": "Information and Ideas",
+       "skill": "Command of Evidence (Quantitative)",
+       "difficulty": "H",
+       "passage": "<p>An ecologist counted the monarch butterflies overwintering at two nearby forest sites, P and Q, each winter from 2017 to 2022.</p><svg viewBox=\"0 0 460 300\" width=\"460\" style=\"max-width:100%;height:auto\" role=\"img\" aria-label=\"Monarch Butterflies Counted at Two Sites\"><text x=\"230.0\" y=\"18\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"bold\" font-family=\"Arial, Helvetica, sans-serif\">Monarch Butterflies Counted at Two Sites</text><line x1=\"62\" y1=\"248.0\" x2=\"444\" y2=\"248.0\" stroke=\"#d9d9d9\"/><text x=\"56\" y=\"252.0\" text-anchor=\"end\" font-size=\"11\" font-family=\"Arial, Helvetica, sans-serif\">0</text><line x1=\"62\" y1=\"224.2\" x2=\"444\" y2=\"224.2\" stroke=\"#d9d9d9\"/><text x=\"56\" y=\"228.2\" text-anchor=\"end\" font-size=\"11\" font-family=\"Arial, Helvetica, sans-serif\">5</text><line x1=\"62\" y1=\"200.4\" x2=\"444\" y2=\"200.4\" stroke=\"#d9d9d9\"/><text x=\"56\" y=\"204.4\" text-anchor=\"end\" font-size=\"11\" font-family=\"Arial, Helvetica, sans-serif\">10</text><line x1=\"62\" y1=\"176.7\" x2=\"444\" y2=\"176.7\" stroke=\"#d9d9d9\"/><text x=\"56\" y=\"180.7\" text-anchor=\"end\" font-size=\"11\" font-family=\"Arial, Helvetica, sans-serif\">15</text><line x1=\"62\" y1=\"152.9\" x2=\"444\" y2=\"152.9\" stroke=\"#d9d9d9\"/><text x=\"56\" y=\"156.9\" text-anchor=\"end\" font-size=\"11\" font-family=\"Arial, Helvetica, sans-serif\">20</text><line x1=\"62\" y1=\"129.1\" x2=\"444\" y2=\"129.1\" stroke=\"#d9d9d9\"/><text x=\"56\" y=\"133.1\" text-anchor=\"end\" font-size=\"11\" font-family=\"Arial, Helvetica, sans-serif\">25</text><line x1=\"62\" y1=\"105.3\" x2=\"444\" y2=\"105.3\" stroke=\"#d9d9d9\"/><text x=\"56\" y=\"109.3\" text-anchor=\"end\" font-size=\"11\" font-family=\"Arial, Helvetica, sans-serif\">30</text><line x1=\"62\" y1=\"81.6\" x2=\"444\" y2=\"81.6\" stroke=\"#d9d9d9\"/><text x=\"56\" y=\"85.6\" text-anchor=\"end\" font-size=\"11\" font-family=\"Arial, Helvetica, sans-serif\">35</text><line x1=\"62\" y1=\"57.8\" x2=\"444\" y2=\"57.8\" stroke=\"#d9d9d9\"/><text x=\"56\" y=\"61.8\" text-anchor=\"end\" font-size=\"11\" font-family=\"Arial, Helvetica, sans-serif\">40</text><line x1=\"62\" y1=\"34.0\" x2=\"444\" y2=\"34.0\" stroke=\"#d9d9d9\"/><text x=\"56\" y=\"38.0\" text-anchor=\"end\" font-size=\"11\" font-family=\"Arial, Helvetica, sans-serif\">45</text><text x=\"82.0\" y=\"264\" text-anchor=\"middle\" font-size=\"11\" font-family=\"Arial, Helvetica, sans-serif\">2017</text><text x=\"150.4\" y=\"264\" text-anchor=\"middle\" font-size=\"11\" font-family=\"Arial, Helvetica, sans-serif\">2018</text><text x=\"218.8\" y=\"264\" text-anchor=\"middle\" font-size=\"11\" font-family=\"Arial, Helvetica, sans-serif\">2019</text><text x=\"287.2\" y=\"264\" text-anchor=\"middle\" font-size=\"11\" font-family=\"Arial, Helvetica, sans-serif\">2020</text><text x=\"355.6\" y=\"264\" text-anchor=\"middle\" font-size=\"11\" font-family=\"Arial, Helvetica, sans-serif\">2021</text><text x=\"424.0\" y=\"264\" text-anchor=\"middle\" font-size=\"11\" font-family=\"Arial, Helvetica, sans-serif\">2022</text><polyline points=\"82.0,57.8 150.4,67.3 218.8,100.6 287.2,119.6 355.6,143.4 424.0,162.4\" fill=\"none\" stroke=\"#1e1e1e\" stroke-width=\"1.8\"/><circle cx=\"82.0\" cy=\"57.8\" r=\"3.5\" fill=\"#1e1e1e\"/><circle cx=\"150.4\" cy=\"67.3\" r=\"3.5\" fill=\"#1e1e1e\"/><circle cx=\"218.8\" cy=\"100.6\" r=\"3.5\" fill=\"#1e1e1e\"/><circle cx=\"287.2\" cy=\"119.6\" r=\"3.5\" fill=\"#1e1e1e\"/><circle cx=\"355.6\" cy=\"143.4\" r=\"3.5\" fill=\"#1e1e1e\"/><circle cx=\"424.0\" cy=\"162.4\" r=\"3.5\" fill=\"#1e1e1e\"/><polyline points=\"82.0,129.1 150.4,119.6 218.8,105.3 287.2,91.1 355.6,81.6 424.0,67.3\" fill=\"none\" stroke=\"#1e1e1e\" stroke-width=\"1.8\" stroke-dasharray=\"6 4\"/><rect x=\"78.5\" y=\"125.6\" width=\"7\" height=\"7\" fill=\"#fff\" stroke=\"#1e1e1e\" stroke-width=\"1.5\"/><rect x=\"146.9\" y=\"116.1\" width=\"7\" height=\"7\" fill=\"#fff\" stroke=\"#1e1e1e\" stroke-width=\"1.5\"/><rect x=\"215.3\" y=\"101.8\" width=\"7\" height=\"7\" fill=\"#fff\" stroke=\"#1e1e1e\" stroke-width=\"1.5\"/><rect x=\"283.7\" y=\"87.6\" width=\"7\" height=\"7\" fill=\"#fff\" stroke=\"#1e1e1e\" stroke-width=\"1.5\"/><rect x=\"352.1\" y=\"78.1\" width=\"7\" height=\"7\" fill=\"#fff\" stroke=\"#1e1e1e\" stroke-width=\"1.5\"/><rect x=\"420.5\" y=\"63.8\" width=\"7\" height=\"7\" fill=\"#fff\" stroke=\"#1e1e1e\" stroke-width=\"1.5\"/><line x1=\"62\" y1=\"34\" x2=\"62\" y2=\"248\" stroke=\"#1e1e1e\"/><line x1=\"62\" y1=\"248\" x2=\"444\" y2=\"248\" stroke=\"#1e1e1e\"/><text transform=\"translate(14 141.0) rotate(-90)\" text-anchor=\"middle\" font-size=\"12\" font-family=\"Arial, Helvetica, sans-serif\">Butterflies (thousands)</text><text x=\"253.0\" y=\"292\" text-anchor=\"middle\" font-size=\"12\" font-family=\"Arial, Helvetica, sans-serif\">Winter</text><line x1=\"287.6\" y1=\"31\" x2=\"309.6\" y2=\"31\" stroke=\"#1e1e1e\" stroke-width=\"1.8\"/><text x=\"314.6\" y=\"35\" font-size=\"11\" font-family=\"Arial, Helvetica, sans-serif\">Site P</text><line x1=\"365.8\" y1=\"31\" x2=\"387.8\" y2=\"31\" stroke=\"#1e1e1e\" stroke-width=\"1.8\" stroke-dasharray=\"6 4\"/><text x=\"392.8\" y=\"35\" font-size=\"11\" font-family=\"Arial, Helvetica, sans-serif\">Site Q</text></svg><p>The ecologist suggests that some butterflies that once overwintered at Site P may have shifted to Site Q.</p>",
+       "stem": "<p>Which choice best describes data from the graph that support the ecologist's suggestion?</p>",
+       "choices": [
+        "Site P had more butterflies than Site Q in 2017.",
+        "Site Q had about 38,000 butterflies in 2022.",
+        "The total number of butterflies at the two sites was greatest in 2017.",
+        "As the count at Site P fell every year from 2017 to 2022, the count at Site Q rose every year."
+       ],
+       "answer": "D",
+       "explanation": "<p>A shift from P to Q would appear as P falling while Q rises over the same years. Choice D describes exactly that pattern. The other choices give single values or totals that don't show movement between sites.</p>",
+       "id": "rw-m2_hard-13"
+      },
+      {
+       "domain": "Information and Ideas",
+       "skill": "Command of Evidence (Quantitative)",
+       "difficulty": "H",
+       "passage": "<p>Students in a psychology class tested whether background music affects reading comprehension. Participants read passages in silence, while listening to instrumental music, or while listening to music with lyrics, and then answered questions about what they read.</p><div class=\"caption\">Reading Comprehension Scores</div><table><tr><th>Condition</th><th>Average score (out of 20)</th></tr><tr><td>Silence</td><td>16.2</td></tr><tr><td>Instrumental music</td><td>15.8</td></tr><tr><td>Music with lyrics</td><td>12.9</td></tr></table><p>The students concluded that music with lyrics, but not instrumental music, substantially reduced comprehension.</p>",
+       "stem": "<p>Which choice best describes data from the table that support the students' conclusion?</p>",
+       "choices": [
+        "Scores with instrumental music were only slightly lower than scores in silence (15.8 versus 16.2), while scores with lyrics were much lower (12.9).",
+        "The highest average score, 16.2, was earned by participants who read in silence.",
+        "Participants who listened to music with lyrics had an average score of 12.9.",
+        "Participants in every condition earned an average score above 12."
+       ],
+       "answer": "A",
+       "explanation": "<p>The conclusion contrasts the two kinds of music. Choice A shows the small drop with instrumental music and the large drop with lyrics. The other choices don't compare the two music conditions with silence.</p>",
+       "id": "rw-m2_hard-14"
+      },
+      {
+       "domain": "Information and Ideas",
+       "skill": "Inferences",
+       "difficulty": "H",
+       "passage": "<p>During droughts, many plants close the tiny pores on their leaves, called stomata, to reduce the amount of water they lose. But stomata are also the openings through which leaves take in carbon dioxide, which plants need for photosynthesis, the process by which they make the sugars that fuel their growth. Thus, a plant that keeps its stomata closed for long periods during a drought is likely to ______</p>",
+       "stem": "<p>Which choice most logically completes the text?</p>",
+       "choices": [
+        "lose more water than a plant that keeps its stomata open.",
+        "grow less than it would under normal conditions, since its photosynthesis is limited.",
+        "produce more sugar than usual to make up for the lack of water.",
+        "take in carbon dioxide through its roots instead of its leaves."
+       ],
+       "answer": "B",
+       "explanation": "<p>Closed stomata let in less carbon dioxide, which limits photosynthesis and therefore the sugars that fuel growth. So the plant likely grows less. Choice A contradicts the text, and C and D are unsupported.</p>",
+       "id": "rw-m2_hard-15"
+      },
+      {
+       "domain": "Standard English Conventions",
+       "skill": "Boundaries",
+       "difficulty": "M",
+       "passage": "<p>In 2014, the European Space Agency's Rosetta spacecraft reached Comet ______ after a journey of more than ten years; later that year, it released a lander that touched down on the comet's surface.</p>",
+       "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+       "choices": [
+        "67P/Churyumov–Gerasimenko;",
+        "67P/Churyumov–Gerasimenko,",
+        "67P/Churyumov–Gerasimenko",
+        "67P/Churyumov–Gerasimenko:"
+       ],
+       "answer": "C",
+       "explanation": "<p>No punctuation belongs between the comet's name and “after a journey,” because the phrase is essential to the clause. A semicolon, comma, or colon would interrupt the clause.</p>",
+       "id": "rw-m2_hard-16"
+      },
+      {
+       "domain": "Standard English Conventions",
+       "skill": "Form, Structure, and Sense",
+       "difficulty": "H",
+       "passage": "<p>Among the objects recovered from the ancient shipwreck off the Greek island of Antikythera ______ a corroded bronze device that scholars believe was used to model the movements of the Sun, Moon, and planets.</p>",
+       "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+       "choices": [
+        "was",
+        "were",
+        "are",
+        "have been"
+       ],
+       "answer": "A",
+       "explanation": "<p>The sentence is inverted: the subject is “a corroded bronze device,” which comes after the verb and is singular. “Among the objects…” is a prepositional phrase, not the subject. The singular past tense <b>was</b> is correct.</p>",
+       "id": "rw-m2_hard-17"
+      },
+      {
+       "domain": "Standard English Conventions",
+       "skill": "Boundaries",
+       "difficulty": "H",
+       "passage": "<p>Marie Curie, who won Nobel Prizes in both physics and ______ remains the only person to have won Nobel Prizes in two different sciences.</p>",
+       "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+       "choices": [
+        "chemistry",
+        "chemistry,",
+        "chemistry;",
+        "chemistry—"
+       ],
+       "answer": "B",
+       "explanation": "<p>The clause “who won Nobel Prizes in both physics and chemistry” begins with a comma after “Curie,” so it must end with a matching comma. A dash doesn't match the opening comma, and a semicolon or no punctuation is incorrect.</p>",
+       "id": "rw-m2_hard-18"
+      },
+      {
+       "domain": "Standard English Conventions",
+       "skill": "Form, Structure, and Sense",
+       "difficulty": "H",
+       "passage": "<p>The program's goals are to train new teachers, to support those already working in classrooms, and ______ that schools in rural areas can recruit qualified staff.</p>",
+       "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+       "choices": [
+        "ensuring",
+        "they ensure",
+        "to ensure",
+        "ensured"
+       ],
+       "answer": "C",
+       "explanation": "<p>Items in a list should be parallel. The first two goals use the infinitive form (“to train,” “to support”), so the third must be <b>to ensure</b>.</p>",
+       "id": "rw-m2_hard-19"
+      },
+      {
+       "domain": "Standard English Conventions",
+       "skill": "Boundaries",
+       "difficulty": "H",
+       "passage": "<p>The music festival features performers from three West African capitals: Lagos, ______ Accra, Ghana; and Dakar, Senegal.</p>",
+       "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+       "choices": [
+        "Nigeria;",
+        "Nigeria,",
+        "Nigeria",
+        "Nigeria:"
+       ],
+       "answer": "A",
+       "explanation": "<p>The list items already contain commas (“city, country”), so semicolons separate the items, as they do after “Ghana.” A semicolon is needed after “Nigeria” to match.</p>",
+       "id": "rw-m2_hard-20",
+       "pretest": true
+      },
+      {
+       "domain": "Standard English Conventions",
+       "skill": "Form, Structure, and Sense",
+       "difficulty": "H",
+       "passage": "<p>Developed in the 1940s by a team led by British engineer Tommy Flowers, ______</p>",
+       "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+       "choices": [
+        "codebreakers at Bletchley Park used Colossus to read encrypted German messages.",
+        "British codebreakers relied on Colossus during the Second World War.",
+        "its designers kept Colossus secret for decades after the war.",
+        "Colossus was one of the first programmable electronic digital computers."
+       ],
+       "answer": "D",
+       "explanation": "<p>The opening phrase describes the thing that was developed by Flowers's team: Colossus. So <b>Colossus</b> must immediately follow the comma. In the other choices, the phrase would describe codebreakers or designers.</p>",
+       "id": "rw-m2_hard-21"
+      },
+      {
+       "domain": "Standard English Conventions",
+       "skill": "Form, Structure, and Sense",
+       "difficulty": "H",
+       "passage": "<p>Two archaeologists spent a decade excavating the ancient city. The ______ findings, published last month, suggest that the city was abandoned gradually rather than suddenly.</p>",
+       "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+       "choices": [
+        "archaeologists",
+        "archaeologist's",
+        "archaeologists'",
+        "archaeologists's"
+       ],
+       "answer": "C",
+       "explanation": "<p>The findings belong to two archaeologists, so the plural possessive <b>archaeologists'</b> is needed. “Archaeologist's” refers to one person, and “archaeologists” shows no possession.</p>",
+       "id": "rw-m2_hard-22"
+      },
+      {
+       "domain": "Expression of Ideas",
+       "skill": "Transitions",
+       "difficulty": "M",
+       "passage": "<p>The novelist Chinua Achebe wrote his novels in English rather than in Igbo, his first language. ______ he wove Igbo proverbs and expressions throughout his books, giving English-language readers a sense of Igbo speech and thought.</p>",
+       "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+       "choices": [
+        "Nevertheless,",
+        "Consequently,",
+        "Similarly,",
+        "For example,"
+       ],
+       "answer": "A",
+       "explanation": "<p>One might expect a writer using English to leave Igbo behind, but Achebe brought Igbo expressions into his English books. That contrast with the expectation calls for <b>Nevertheless</b>.</p>",
+       "id": "rw-m2_hard-23"
+      },
+      {
+       "domain": "Expression of Ideas",
+       "skill": "Transitions",
+       "difficulty": "H",
+       "passage": "<p>For more than a century, many maps of North America showed California as an island. Some mapmakers knew of explorers' reports that California was in fact connected to the mainland. ______ they continued to copy the island shape from earlier maps.</p>",
+       "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+       "choices": [
+        "Accordingly,",
+        "Nonetheless,",
+        "Likewise,",
+        "Specifically,"
+       ],
+       "answer": "B",
+       "explanation": "<p>Mapmakers knew the reports yet kept copying the error, an action that goes against what they knew. <b>Nonetheless</b> signals that contrast. “Accordingly” would wrongly suggest the reports caused the copying.</p>",
+       "id": "rw-m2_hard-24"
+      },
+      {
+       "domain": "Expression of Ideas",
+       "skill": "Rhetorical Synthesis",
+       "difficulty": "H",
+       "passage": "<p>While researching a topic, a student has taken the following notes:</p><ul><li>Mangrove forests grow along many tropical coastlines.</li><li>Their dense roots trap sediment and slow down incoming waves.</li><li>Studies estimate that 100 meters of mangrove forest can reduce wave height by as much as 66%.</li><li>Mangroves also store large amounts of carbon in their soils.</li></ul>",
+       "stem": "<p>The student wants to explain how mangroves protect coastlines. Which choice most effectively uses relevant information from the notes to accomplish this goal?</p>",
+       "choices": [
+        "Mangrove forests grow along many tropical coastlines and store large amounts of carbon in their soils.",
+        "Studies estimate that mangroves can reduce wave height.",
+        "By trapping sediment and slowing waves—reducing wave height by as much as 66% over 100 meters—mangrove forests help protect tropical coastlines.",
+        "Mangroves have dense roots."
+       ],
+       "answer": "C",
+       "explanation": "<p>The goal is to explain <i>how</i> mangroves protect coastlines. Choice C gives the mechanism (trapping sediment, slowing waves) and its size. Choice A is about carbon, and B and D are incomplete.</p>",
+       "id": "rw-m2_hard-25"
+      },
+      {
+       "domain": "Expression of Ideas",
+       "skill": "Rhetorical Synthesis",
+       "difficulty": "H",
+       "passage": "<p>While researching a topic, a student has taken the following notes:</p><ul><li>Esperanto is a constructed language created by L. L. Zamenhof.</li><li>It was first published in 1887.</li><li>Zamenhof hoped it would become an easy-to-learn second language for international communication.</li><li>Its grammar has no irregular verbs.</li></ul>",
+       "stem": "<p>The student wants to explain the aim of Esperanto's creator. Which choice most effectively uses relevant information from the notes to accomplish this goal?</p>",
+       "choices": [
+        "Esperanto, a constructed language, was first published in 1887.",
+        "Esperanto's grammar has no irregular verbs, which makes it easy to learn.",
+        "L. L. Zamenhof created Esperanto, a language with no irregular verbs.",
+        "L. L. Zamenhof created Esperanto, first published in 1887, in the hope that it would become an easy-to-learn second language for international communication."
+       ],
+       "answer": "D",
+       "explanation": "<p>The goal is to explain Zamenhof's <i>aim</i>. Only choice D states what he hoped Esperanto would become.</p>",
+       "id": "rw-m2_hard-26"
+      },
+      {
+       "domain": "Expression of Ideas",
+       "skill": "Rhetorical Synthesis",
+       "difficulty": "H",
+       "passage": "<p>While researching a topic, a student has taken the following notes:</p><ul><li>A research team compared two methods of teaching fractions to fourth graders.</li><li>Method A used number lines; Method B used pie diagrams.</li><li>After eight weeks, students taught with Method A scored 18% higher on a test of comparing fractions.</li><li>The two groups scored about the same on a test of adding fractions.</li></ul>",
+       "stem": "<p>The student wants to present the study's results without overstating the advantage of Method A. Which choice most effectively uses relevant information from the notes to accomplish this goal?</p>",
+       "choices": [
+        "Number lines are a better way to teach fractions than pie diagrams.",
+        "Students taught with number lines scored 18% higher on comparing fractions than students taught with pie diagrams, though the two groups scored about the same on adding fractions.",
+        "After eight weeks, students taught with number lines scored 18% higher on a fractions test.",
+        "A research team compared number lines and pie diagrams for teaching fractions to fourth graders."
+       ],
+       "answer": "B",
+       "explanation": "<p>To avoid overstating Method A's advantage, the sentence should report where it helped <i>and</i> where it didn't. Choice B does both. A and C overstate the result, and D gives no results.</p>",
+       "id": "rw-m2_hard-27"
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": "math",
+   "routingThreshold": 0.6,
+   "modules": {
+    "m1": {
+     "time": 2100,
+     "questions": [
+      {
+       "domain": "Algebra",
+       "skill": "Linear equations in one variable",
+       "difficulty": "E",
+       "stem": "<p>If \\(5x + 8 = 43\\), what is the value of \\(x\\)?</p>",
+       "explanation": "<p>Subtract 8: \\(5x = 35\\). Divide by 5: \\(x = 7\\).</p>",
+       "choices": [
+        "5",
+        "7",
+        "10.2",
+        "35"
+       ],
+       "answer": "B",
+       "id": "math-m1-01"
+      },
+      {
+       "domain": "Problem-Solving and Data Analysis",
+       "skill": "Ratios, rates, and proportions",
+       "difficulty": "E",
+       "stem": "<p>A car travels 270 miles on 9 gallons of gasoline. At this rate, how many miles can the car travel on 12 gallons of gasoline?</p>",
+       "explanation": "<p>The rate is \\(270 \\div 9 = 30\\) miles per gallon, so 12 gallons gives \\(30 \\times 12 = 360\\) miles.</p>",
+       "choices": [
+        "280",
+        "324",
+        "360",
+        "3,240"
+       ],
+       "answer": "C",
+       "id": "math-m1-02"
+      },
+      {
+       "domain": "Advanced Math",
+       "skill": "Nonlinear functions",
+       "difficulty": "E",
+       "stem": "<p>The function \\(f\\) is defined by \\(f(x) = x^2 - 4x\\). What is the value of \\(f(-2)\\)?</p>",
+       "explanation": "<p>\\(f(-2) = (-2)^2 - 4(-2) = 4 + 8 = 12\\).</p>",
+       "type": "spr",
+       "answer": [
+        "12"
+       ],
+       "id": "math-m1-03"
+      },
+      {
+       "domain": "Geometry and Trigonometry",
+       "skill": "Area and volume",
+       "difficulty": "E",
+       "stem": "<p>A rectangular box has a length of 6 inches, a width of 4 inches, and a height of 5 inches. What is the volume of the box, in cubic inches?</p>",
+       "explanation": "<p>Volume \\(= 6 \\times 4 \\times 5 = 120\\). (148 is the surface area.)</p>",
+       "choices": [
+        "15",
+        "74",
+        "120",
+        "148"
+       ],
+       "answer": "C",
+       "id": "math-m1-04"
+      },
+      {
+       "domain": "Algebra",
+       "skill": "Linear equations in two variables",
+       "difficulty": "E",
+       "stem": "<p>Which ordered pair \\((x, y)\\) is a solution to the equation \\(y = 3x - 5\\)?</p>",
+       "explanation": "<p>For \\((2, 1)\\): \\(3(2) - 5 = 1\\). ✓ The others fail: \\(3(1) - 5 = -2\\), \\(3(3) - 5 = 4\\), \\(3(0) - 5 = -5\\).</p>",
+       "choices": [
+        "\\((1, 2)\\)",
+        "\\((2, 1)\\)",
+        "\\((3, 3)\\)",
+        "\\((0, 5)\\)"
+       ],
+       "answer": "B",
+       "id": "math-m1-05"
+      },
+      {
+       "domain": "Advanced Math",
+       "skill": "Equivalent expressions",
+       "difficulty": "M",
+       "stem": "<p>Which expression is equivalent to \\((3x^2y)(4xy^3)\\)?</p>",
+       "explanation": "<p>Multiply the coefficients: \\(3 \\cdot 4 = 12\\). Add exponents of like bases: \\(x^{2+1} = x^3\\) and \\(y^{1+3} = y^4\\).</p>",
+       "choices": [
+        "\\(7x^3y^4\\)",
+        "\\(12x^2y^3\\)",
+        "\\(12x^3y^3\\)",
+        "\\(12x^3y^4\\)"
+       ],
+       "answer": "D",
+       "id": "math-m1-06"
+      },
+      {
+       "domain": "Problem-Solving and Data Analysis",
+       "skill": "Percentages",
+       "difficulty": "M",
+       "stem": "<p>In a survey of 80 students, 35% said they prefer taking classes online. How many of the students surveyed said they prefer online classes?</p>",
+       "explanation": "<p>\\(0.35 \\times 80 = 28\\).</p>",
+       "choices": [
+        "28",
+        "35",
+        "45",
+        "52"
+       ],
+       "answer": "A",
+       "id": "math-m1-07",
+       "pretest": true
+      },
+      {
+       "domain": "Algebra",
+       "skill": "Linear functions",
+       "difficulty": "M",
+       "stem": "<p>A line in the \\(xy\\)-plane passes through the points \\((0, -3)\\) and \\((4, 5)\\). What is the \\(x\\)-coordinate of the \\(x\\)-intercept of the line?</p>",
+       "explanation": "<p>The slope is \\(\\dfrac{5 - (-3)}{4 - 0} = 2\\), so the line is \\(y = 2x - 3\\). Set \\(y = 0\\): \\(2x = 3\\), \\(x = 1.5\\).</p>",
+       "type": "spr",
+       "answer": [
+        "1.5",
+        "3/2"
+       ],
+       "id": "math-m1-08"
+      },
+      {
+       "domain": "Geometry and Trigonometry",
+       "skill": "Lines, angles, and triangles",
+       "difficulty": "M",
+       "stem": "<p>In the figure, line \\(m\\) is parallel to line \\(n\\), and both lines are intersected by line \\(t\\).</p><svg viewBox=\"0 0 260 190\" width=\"260\" style=\"max-width:100%;height:auto\" role=\"img\" aria-label=\"Parallel lines m and n cut by transversal t\"><line x1=\"20\" y1=\"50\" x2=\"240\" y2=\"50\" stroke=\"#1e1e1e\" stroke-width=\"2\"/><line x1=\"20\" y1=\"130\" x2=\"240\" y2=\"130\" stroke=\"#1e1e1e\" stroke-width=\"2\"/><line x1=\"95\" y1=\"170\" x2=\"170\" y2=\"10\" stroke=\"#1e1e1e\" stroke-width=\"2\"/><text x=\"246\" y=\"55\" font-size=\"15\" font-family=\"serif\" font-style=\"italic\">m</text><text x=\"246\" y=\"135\" font-size=\"15\" font-family=\"serif\" font-style=\"italic\">n</text><text x=\"174\" y=\"16\" font-size=\"15\" font-family=\"serif\" font-style=\"italic\">t</text><text x=\"112\" y=\"70\" font-size=\"14\" font-family=\"serif\">65°</text><text x=\"82\" y=\"123\" font-size=\"14\" font-family=\"serif\"><tspan font-style=\"italic\">x</tspan>°</text></svg><p>What is the value of \\(x\\)?</p>",
+       "explanation": "<p>The \\(65^\\circ\\) angle and the angle to the right of line \\(t\\), above line \\(n\\), are alternate interior angles, so that angle is also \\(65^\\circ\\). The angle marked \\(x^\\circ\\) forms a straight line with it, so \\(x = 180 - 65 = 115\\).</p>",
+       "choices": [
+        "25",
+        "65",
+        "115",
+        "125"
+       ],
+       "answer": "C",
+       "id": "math-m1-09"
+      },
+      {
+       "domain": "Algebra",
+       "skill": "Linear equations in one variable",
+       "difficulty": "M",
+       "stem": "<p>A phone plan costs $30 per month plus $0.10 for each text message beyond the first 200 texts. A customer's bill for one month was $42.50. How many text messages did the customer send that month?</p>",
+       "explanation": "<p>The extra charge is \\(42.50 - 30 = 12.50\\), which pays for \\(12.50 \\div 0.10 = 125\\) texts beyond 200. The total is \\(200 + 125 = 325\\). (125 is only the texts beyond 200.)</p>",
+       "choices": [
+        "125",
+        "225",
+        "275",
+        "325"
+       ],
+       "answer": "D",
+       "id": "math-m1-10"
+      },
+      {
+       "domain": "Advanced Math",
+       "skill": "Nonlinear equations and systems",
+       "difficulty": "M",
+       "stem": "<p>If \\(x > 0\\) and \\(x^2 + 6x = 40\\), what is the value of \\(x\\)?</p>",
+       "explanation": "<p>\\(x^2 + 6x - 40 = 0\\) factors as \\((x + 10)(x - 4) = 0\\). Since \\(x > 0\\), \\(x = 4\\).</p>",
+       "type": "spr",
+       "answer": [
+        "4"
+       ],
+       "id": "math-m1-11"
+      },
+      {
+       "domain": "Problem-Solving and Data Analysis",
+       "skill": "One-variable data",
+       "difficulty": "M",
+       "stem": "<p>The table shows the number of pets owned by each of 25 students.</p><div class='caption'>Pets Owned</div><table><tr><th>Number of pets</th><th>Number of students</th></tr><tr><td>0</td><td>6</td></tr><tr><td>1</td><td>9</td></tr><tr><td>2</td><td>7</td></tr><tr><td>3</td><td>3</td></tr></table><p>What is the median number of pets owned by the 25 students?</p>",
+       "explanation": "<p>With 25 values in order, the median is the 13th. Values 1–6 are 0 and values 7–15 are 1, so the 13th value is 1. (9 is the most common <i>count</i> of students, not a number of pets.)</p>",
+       "choices": [
+        "1",
+        "1.5",
+        "2",
+        "9"
+       ],
+       "answer": "A",
+       "id": "math-m1-12"
+      },
+      {
+       "domain": "Algebra",
+       "skill": "Systems of linear equations",
+       "difficulty": "M",
+       "stem": "<p>\\[y = 2x + 1\\]\\[y = -x + 10\\]<p>If \\((x, y)\\) is the solution to the system of equations above, what is the value of \\(x + y\\)?</p></p>",
+       "explanation": "<p>Set the right sides equal: \\(2x + 1 = -x + 10\\), so \\(x = 3\\) and \\(y = 7\\). Then \\(x + y = 10\\).</p>",
+       "choices": [
+        "3",
+        "7",
+        "9",
+        "10"
+       ],
+       "answer": "D",
+       "id": "math-m1-13"
+      },
+      {
+       "domain": "Advanced Math",
+       "skill": "Nonlinear functions",
+       "difficulty": "M",
+       "stem": "<p>The balance in a savings account is modeled by \\(B(t) = 2{,}000(1.03)^t\\), where \\(B(t)\\) is the balance, in dollars, \\(t\\) years after the account was opened. To the nearest dollar, what is the balance 2 years after the account was opened?</p>",
+       "explanation": "<p>\\(B(2) = 2{,}000(1.03)^2 = 2{,}000(1.0609) = 2{,}121.80\\), or $2,122 to the nearest dollar. ($2,120 adds 3% of $2,000 twice, which ignores compounding.)</p>",
+       "choices": [
+        "$2,060",
+        "$2,120",
+        "$2,122",
+        "$2,180"
+       ],
+       "answer": "C",
+       "id": "math-m1-14",
+       "pretest": true
+      },
+      {
+       "domain": "Algebra",
+       "skill": "Linear equations in one variable",
+       "difficulty": "M",
+       "stem": "<p>In the equation \\(4(x - 3) = 2x + k\\), \\(k\\) is a constant. If \\(x = 7\\) is the solution to the equation, what is the value of \\(k\\)?</p>",
+       "explanation": "<p>Substitute \\(x = 7\\): \\(4(4) = 14 + k\\), so \\(16 = 14 + k\\) and \\(k = 2\\).</p>",
+       "type": "spr",
+       "answer": [
+        "2"
+       ],
+       "id": "math-m1-15"
+      },
+      {
+       "domain": "Geometry and Trigonometry",
+       "skill": "Circles",
+       "difficulty": "M",
+       "stem": "<p>A circle in the \\(xy\\)-plane has its center at \\((-2, 5)\\) and passes through the point \\((1, 1)\\). Which equation defines the circle?</p>",
+       "explanation": "<p>The radius squared is the squared distance from the center to \\((1, 1)\\): \\(3^2 + (-4)^2 = 25\\). With center \\((-2, 5)\\), the equation is \\((x + 2)^2 + (y - 5)^2 = 25\\).</p>",
+       "choices": [
+        "\\((x - 2)^2 + (y + 5)^2 = 25\\)",
+        "\\((x + 2)^2 + (y - 5)^2 = 25\\)",
+        "\\((x + 2)^2 + (y - 5)^2 = 5\\)",
+        "\\((x - 2)^2 + (y + 5)^2 = 5\\)"
+       ],
+       "answer": "B",
+       "id": "math-m1-16"
+      },
+      {
+       "domain": "Advanced Math",
+       "skill": "Nonlinear functions",
+       "difficulty": "H",
+       "stem": "<p>The graph of \\(y = f(x)\\) is shown.</p><svg viewBox=\"0 0 300 300\" width=\"300\" style=\"max-width:100%;height:auto\" role=\"img\" aria-label=\"Graph in the xy-plane\"><line x1=\"18.0\" y1=\"282.0\" x2=\"18.0\" y2=\"18.0\" stroke=\"#e3e3e3\"/><line x1=\"44.4\" y1=\"282.0\" x2=\"44.4\" y2=\"18.0\" stroke=\"#e3e3e3\"/><line x1=\"70.8\" y1=\"282.0\" x2=\"70.8\" y2=\"18.0\" stroke=\"#e3e3e3\"/><line x1=\"97.2\" y1=\"282.0\" x2=\"97.2\" y2=\"18.0\" stroke=\"#e3e3e3\"/><line x1=\"123.6\" y1=\"282.0\" x2=\"123.6\" y2=\"18.0\" stroke=\"#e3e3e3\"/><line x1=\"150.0\" y1=\"282.0\" x2=\"150.0\" y2=\"18.0\" stroke=\"#e3e3e3\"/><line x1=\"176.4\" y1=\"282.0\" x2=\"176.4\" y2=\"18.0\" stroke=\"#e3e3e3\"/><line x1=\"202.8\" y1=\"282.0\" x2=\"202.8\" y2=\"18.0\" stroke=\"#e3e3e3\"/><line x1=\"229.2\" y1=\"282.0\" x2=\"229.2\" y2=\"18.0\" stroke=\"#e3e3e3\"/><line x1=\"255.6\" y1=\"282.0\" x2=\"255.6\" y2=\"18.0\" stroke=\"#e3e3e3\"/><line x1=\"282.0\" y1=\"282.0\" x2=\"282.0\" y2=\"18.0\" stroke=\"#e3e3e3\"/><line x1=\"18.0\" y1=\"282.0\" x2=\"282.0\" y2=\"282.0\" stroke=\"#e3e3e3\"/><line x1=\"18.0\" y1=\"260.0\" x2=\"282.0\" y2=\"260.0\" stroke=\"#e3e3e3\"/><line x1=\"18.0\" y1=\"238.0\" x2=\"282.0\" y2=\"238.0\" stroke=\"#e3e3e3\"/><line x1=\"18.0\" y1=\"216.0\" x2=\"282.0\" y2=\"216.0\" stroke=\"#e3e3e3\"/><line x1=\"18.0\" y1=\"194.0\" x2=\"282.0\" y2=\"194.0\" stroke=\"#e3e3e3\"/><line x1=\"18.0\" y1=\"172.0\" x2=\"282.0\" y2=\"172.0\" stroke=\"#e3e3e3\"/><line x1=\"18.0\" y1=\"150.0\" x2=\"282.0\" y2=\"150.0\" stroke=\"#e3e3e3\"/><line x1=\"18.0\" y1=\"128.0\" x2=\"282.0\" y2=\"128.0\" stroke=\"#e3e3e3\"/><line x1=\"18.0\" y1=\"106.0\" x2=\"282.0\" y2=\"106.0\" stroke=\"#e3e3e3\"/><line x1=\"18.0\" y1=\"84.0\" x2=\"282.0\" y2=\"84.0\" stroke=\"#e3e3e3\"/><line x1=\"18.0\" y1=\"62.0\" x2=\"282.0\" y2=\"62.0\" stroke=\"#e3e3e3\"/><line x1=\"18.0\" y1=\"40.0\" x2=\"282.0\" y2=\"40.0\" stroke=\"#e3e3e3\"/><line x1=\"18.0\" y1=\"18.0\" x2=\"282.0\" y2=\"18.0\" stroke=\"#e3e3e3\"/><line x1=\"18.0\" y1=\"150.0\" x2=\"282.0\" y2=\"150.0\" stroke=\"#1e1e1e\" stroke-width=\"1.2\"/><line x1=\"70.8\" y1=\"282.0\" x2=\"70.8\" y2=\"18.0\" stroke=\"#1e1e1e\" stroke-width=\"1.2\"/><text x=\"280.0\" y=\"144.0\" text-anchor=\"end\" font-size=\"14\" font-family=\"serif\" font-style=\"italic\">x</text><text x=\"76.8\" y=\"30.0\" font-size=\"14\" font-family=\"serif\" font-style=\"italic\">y</text><text x=\"123.6\" y=\"164.0\" text-anchor=\"middle\" font-size=\"10\" font-family=\"Arial, Helvetica, sans-serif\">2</text><text x=\"176.4\" y=\"164.0\" text-anchor=\"middle\" font-size=\"10\" font-family=\"Arial, Helvetica, sans-serif\">4</text><text x=\"229.2\" y=\"164.0\" text-anchor=\"middle\" font-size=\"10\" font-family=\"Arial, Helvetica, sans-serif\">6</text><text x=\"65.8\" y=\"241.5\" text-anchor=\"end\" font-size=\"10\" font-family=\"Arial, Helvetica, sans-serif\">-4</text><text x=\"65.8\" y=\"197.5\" text-anchor=\"end\" font-size=\"10\" font-family=\"Arial, Helvetica, sans-serif\">-2</text><text x=\"65.8\" y=\"109.5\" text-anchor=\"end\" font-size=\"10\" font-family=\"Arial, Helvetica, sans-serif\">2</text><text x=\"65.8\" y=\"65.5\" text-anchor=\"end\" font-size=\"10\" font-family=\"Arial, Helvetica, sans-serif\">4</text><polyline points=\"66.8,19.7 67.5,23.2 68.2,26.6 68.8,30.0 69.5,33.3 70.1,36.7 70.8,40.0 71.5,43.3 72.1,46.5 72.8,49.8 73.4,53.0 74.1,56.2 74.8,59.3 75.4,62.4 76.1,65.5 76.7,68.6 77.4,71.6 78.1,74.6 78.7,77.6 79.4,80.6 80.0,83.5 80.7,86.4 81.4,89.3 82.0,92.1 82.7,94.9 83.3,97.7 84.0,100.5 84.7,103.2 85.3,105.9 86.0,108.6 86.6,111.3 87.3,113.9 88.0,116.5 88.6,119.1 89.3,121.6 89.9,124.1 90.6,126.6 91.3,129.1 91.9,131.5 92.6,133.9 93.2,136.3 93.9,138.7 94.6,141.0 95.2,143.3 95.9,145.5 96.5,147.8 97.2,150.0 97.9,152.2 98.5,154.3 99.2,156.5 99.8,158.6 100.5,160.7 101.2,162.7 101.8,164.7 102.5,166.7 103.1,168.7 103.8,170.6 104.5,172.5 105.1,174.4 105.8,176.3 106.4,178.1 107.1,179.9 107.8,181.7 108.4,183.4 109.1,185.1 109.7,186.8 110.4,188.5 111.1,190.1 111.7,191.7 112.4,193.3 113.0,194.9 113.7,196.4 114.4,197.9 115.0,199.4 115.7,200.8 116.3,202.2 117.0,203.6 117.7,205.0 118.3,206.3 119.0,207.6 119.6,208.9 120.3,210.2 121.0,211.4 121.6,212.6 122.3,213.7 122.9,214.9 123.6,216.0 124.3,217.1 124.9,218.1 125.6,219.2 126.2,220.2 126.9,221.2 127.6,222.1 128.2,223.0 128.9,223.9 129.5,224.8 130.2,225.6 130.9,226.4 131.5,227.2 132.2,228.0 132.8,228.7 133.5,229.4 134.2,230.1 134.8,230.7 135.5,231.3 136.1,231.9 136.8,232.5 137.5,233.0 138.1,233.5 138.8,234.0 139.4,234.5 140.1,234.9 140.8,235.3 141.4,235.7 142.1,236.0 142.7,236.3 143.4,236.6 144.1,236.9 144.7,237.1 145.4,237.3 146.0,237.5 146.7,237.7 147.4,237.8 148.0,237.9 148.7,237.9 149.3,238.0 150.0,238.0 150.7,238.0 151.3,237.9 152.0,237.9 152.6,237.8 153.3,237.7 154.0,237.5 154.6,237.3 155.3,237.1 155.9,236.9 156.6,236.6 157.3,236.3 157.9,236.0 158.6,235.7 159.2,235.3 159.9,234.9 160.6,234.5 161.2,234.0 161.9,233.5 162.5,233.0 163.2,232.5 163.9,231.9 164.5,231.3 165.2,230.7 165.8,230.1 166.5,229.4 167.2,228.7 167.8,228.0 168.5,227.2 169.1,226.4 169.8,225.6 170.5,224.8 171.1,223.9 171.8,223.0 172.4,222.1 173.1,221.2 173.8,220.2 174.4,219.2 175.1,218.1 175.7,217.1 176.4,216.0 177.1,214.9 177.7,213.7 178.4,212.6 179.0,211.4 179.7,210.2 180.4,208.9 181.0,207.6 181.7,206.3 182.3,205.0 183.0,203.6 183.7,202.2 184.3,200.8 185.0,199.4 185.6,197.9 186.3,196.4 187.0,194.9 187.6,193.3 188.3,191.7 188.9,190.1 189.6,188.5 190.3,186.8 190.9,185.1 191.6,183.4 192.2,181.7 192.9,179.9 193.6,178.1 194.2,176.3 194.9,174.4 195.5,172.5 196.2,170.6 196.9,168.7 197.5,166.7 198.2,164.7 198.8,162.7 199.5,160.7 200.2,158.6 200.8,156.5 201.5,154.3 202.1,152.2 202.8,150.0 203.5,147.8 204.1,145.5 204.8,143.3 205.4,141.0 206.1,138.7 206.8,136.3 207.4,133.9 208.1,131.5 208.7,129.1 209.4,126.6 210.1,124.1 210.7,121.6 211.4,119.1 212.0,116.5 212.7,113.9 213.4,111.3 214.0,108.6 214.7,105.9 215.3,103.2 216.0,100.5 216.7,97.7 217.3,94.9 218.0,92.1 218.6,89.3 219.3,86.4 220.0,83.5 220.6,80.6 221.3,77.6 221.9,74.6 222.6,71.6 223.3,68.6 223.9,65.5 224.6,62.4 225.2,59.3 225.9,56.2 226.6,53.0 227.2,49.8 227.9,46.5 228.5,43.3 229.2,40.0 229.9,36.7 230.5,33.3 231.2,30.0 231.8,26.6 232.5,23.2 233.2,19.7\" fill=\"none\" stroke=\"#1e1e1e\" stroke-width=\"2\"/><circle cx=\"150.0\" cy=\"238.0\" r=\"3.5\" fill=\"#1e1e1e\"/><circle cx=\"97.2\" cy=\"150.0\" r=\"3.5\" fill=\"#1e1e1e\"/><circle cx=\"202.8\" cy=\"150.0\" r=\"3.5\" fill=\"#1e1e1e\"/><text x=\"218.6\" y=\"216.0\" text-anchor=\"start\" font-size=\"14\" font-family=\"serif\" font-style=\"italic\" fill=\"#1e1e1e\" stroke=\"#fff\" stroke-width=\"3\" paint-order=\"stroke\">y = f(x)</text></svg><p>Which equation defines \\(f\\)?</p>",
+       "explanation": "<p>The parabola opens upward with vertex \\((3, -4)\\), so \\(f(x) = a(x - 3)^2 - 4\\) with \\(a > 0\\). It passes through \\((1, 0)\\): \\(a(4) - 4 = 0\\), so \\(a = 1\\).</p>",
+       "choices": [
+        "\\(f(x) = (x + 3)^2 - 4\\)",
+        "\\(f(x) = (x - 3)^2 - 4\\)",
+        "\\(f(x) = (x - 3)^2 + 4\\)",
+        "\\(f(x) = -(x - 3)^2 - 4\\)"
+       ],
+       "answer": "B",
+       "id": "math-m1-17"
+      },
+      {
+       "domain": "Algebra",
+       "skill": "Linear functions",
+       "difficulty": "H",
+       "stem": "<p>A line in the \\(xy\\)-plane passes through the points \\((2, k)\\) and \\((k, 8)\\), where \\(k\\) is a constant, and has a slope of 3. What is the value of \\(k\\)?</p>",
+       "explanation": "<p>Slope \\(= \\dfrac{8 - k}{k - 2} = 3\\), so \\(8 - k = 3k - 6\\), \\(4k = 14\\), and \\(k = 3.5\\).</p>",
+       "type": "spr",
+       "answer": [
+        "3.5",
+        "7/2"
+       ],
+       "id": "math-m1-18"
+      },
+      {
+       "domain": "Problem-Solving and Data Analysis",
+       "skill": "Inference and margin of error",
+       "difficulty": "H",
+       "stem": "<p>Researchers randomly assigned 120 adult volunteers to drink either a new sports drink or water before exercising on a stationary bike. On average, the volunteers who drank the sports drink exercised significantly longer. Which conclusion is best supported by the study?</p>",
+       "explanation": "<p>Random <i>assignment</i> to groups supports a cause-and-effect conclusion for the people studied. Because the volunteers weren't randomly <i>selected</i> from all adults, the result can't be generalized to all adults (B). The study compares the drinks, not water versus nothing (C).</p>",
+       "choices": [
+        "The sports drink likely caused the volunteers to exercise longer, but the result may not apply to all adults.",
+        "The sports drink causes all adults to exercise longer than water does.",
+        "Drinking water reduces the amount of time adults can exercise.",
+        "No conclusion about the sports drink can be drawn, because the volunteers were not selected at random."
+       ],
+       "answer": "A",
+       "id": "math-m1-19"
+      },
+      {
+       "domain": "Geometry and Trigonometry",
+       "skill": "Lines, angles, and triangles",
+       "difficulty": "H",
+       "stem": "<p>In triangle \\(ABC\\), \\(AB = AC = 13\\) and \\(BC = 10\\). What is the area of triangle \\(ABC\\)?</p>",
+       "explanation": "<p>The altitude from \\(A\\) bisects \\(BC\\) in an isosceles triangle, forming right triangles with legs 5 and \\(h\\) and hypotenuse 13. So \\(h = \\sqrt{169 - 25} = 12\\), and the area is \\(\\tfrac{1}{2}(10)(12) = 60\\).</p>",
+       "choices": [
+        "60",
+        "65",
+        "120",
+        "130"
+       ],
+       "answer": "A",
+       "id": "math-m1-20"
+      },
+      {
+       "domain": "Advanced Math",
+       "skill": "Nonlinear functions",
+       "difficulty": "H",
+       "stem": "<p>The function \\(h\\) is defined by \\(h(x) = (x - a)(x - b)\\), where \\(a\\) and \\(b\\) are positive constants. If \\(h(0) = 12\\) and the vertex of the graph of \\(y = h(x)\\) has an \\(x\\)-coordinate of 3.5, what is the value of \\(h(5)\\)?</p>",
+       "explanation": "<p>\\(h(0) = ab = 12\\), and the vertex is halfway between the zeros, so \\(\\tfrac{a + b}{2} = 3.5\\) and \\(a + b = 7\\). Then \\(a\\) and \\(b\\) are 3 and 4, and \\(h(5) = (5 - 3)(5 - 4) = 2\\).</p>",
+       "choices": [
+        "0",
+        "2",
+        "6",
+        "12"
+       ],
+       "answer": "B",
+       "id": "math-m1-21"
+      },
+      {
+       "domain": "Advanced Math",
+       "skill": "Nonlinear equations and systems",
+       "difficulty": "H",
+       "stem": "<p>If \\(x^{\\frac{2}{3}} = 16\\) and \\(x > 0\\), what is the value of \\(x\\)?</p>",
+       "explanation": "<p>Raise both sides to the \\(\\tfrac{3}{2}\\) power: \\(x = 16^{\\frac{3}{2}} = (\\sqrt{16})^3 = 4^3 = 64\\).</p>",
+       "type": "spr",
+       "answer": [
+        "64"
+       ],
+       "id": "math-m1-22"
+      }
+     ]
+    },
+    "m2_easy": {
+     "time": 2100,
+     "questions": [
+      {
+       "domain": "Algebra",
+       "skill": "Linear equations in one variable",
+       "difficulty": "E",
+       "stem": "<p>If \\(\\dfrac{x}{4} = 9\\), what is the value of \\(x\\)?</p>",
+       "explanation": "<p>Multiply both sides by 4: \\(x = 36\\).</p>",
+       "choices": [
+        "2.25",
+        "13",
+        "36",
+        "94"
+       ],
+       "answer": "C",
+       "id": "math-m2_easy-01"
+      },
+      {
+       "domain": "Problem-Solving and Data Analysis",
+       "skill": "Percentages",
+       "difficulty": "E",
+       "stem": "<p>What is 15% of 60?</p>",
+       "explanation": "<p>\\(0.15 \\times 60 = 9\\).</p>",
+       "type": "spr",
+       "answer": [
+        "9"
+       ],
+       "id": "math-m2_easy-02"
+      },
+      {
+       "domain": "Advanced Math",
+       "skill": "Equivalent expressions",
+       "difficulty": "E",
+       "stem": "<p>Which expression is equivalent to \\(x^2 - 25\\)?</p>",
+       "explanation": "<p>\\(x^2 - 25\\) is a difference of squares: \\(x^2 - 5^2 = (x - 5)(x + 5)\\).</p>",
+       "choices": [
+        "\\((x - 5)^2\\)",
+        "\\((x + 5)^2\\)",
+        "\\((x - 25)(x + 1)\\)",
+        "\\((x - 5)(x + 5)\\)"
+       ],
+       "answer": "D",
+       "id": "math-m2_easy-03"
+      },
+      {
+       "domain": "Geometry and Trigonometry",
+       "skill": "Circles",
+       "difficulty": "E",
+       "stem": "<p>A circle has a radius of 5 centimeters. What is the circumference of the circle, in centimeters?</p>",
+       "explanation": "<p>Circumference \\(= 2\\pi r = 2\\pi(5) = 10\\pi\\). (\\(25\\pi\\) is the area.)</p>",
+       "choices": [
+        "\\(5\\pi\\)",
+        "\\(10\\pi\\)",
+        "\\(25\\pi\\)",
+        "\\(100\\pi\\)"
+       ],
+       "answer": "B",
+       "id": "math-m2_easy-04"
+      },
+      {
+       "domain": "Algebra",
+       "skill": "Linear equations in two variables",
+       "difficulty": "E",
+       "stem": "<p>Tickets to a play cost $12 for adults and $7 for children. Which expression represents the total cost, in dollars, of tickets for \\(a\\) adults and \\(c\\) children?</p>",
+       "explanation": "<p>Each adult ticket costs 12 and each child ticket costs 7, so the total is \\(12a + 7c\\).</p>",
+       "choices": [
+        "\\(12a + 7c\\)",
+        "\\(19(a + c)\\)",
+        "\\(7a + 12c\\)",
+        "\\(84ac\\)"
+       ],
+       "answer": "A",
+       "id": "math-m2_easy-05",
+       "pretest": true
+      },
+      {
+       "domain": "Advanced Math",
+       "skill": "Nonlinear functions",
+       "difficulty": "E",
+       "stem": "<p>The function \\(f\\) is defined by \\(f(x) = 3x^2\\). What is the value of \\(f(2)\\)?</p>",
+       "explanation": "<p>\\(f(2) = 3(2)^2 = 3(4) = 12\\). (36 is \\((3 \\cdot 2)^2\\), which squares the 3 as well.)</p>",
+       "choices": [
+        "6",
+        "12",
+        "18",
+        "36"
+       ],
+       "answer": "B",
+       "id": "math-m2_easy-06"
+      },
+      {
+       "domain": "Algebra",
+       "skill": "Linear equations in one variable",
+       "difficulty": "E",
+       "stem": "<p>What value of \\(y\\) is the solution to the equation \\(3y - 7 = 2y + 4\\)?</p>",
+       "explanation": "<p>Subtract \\(2y\\) from both sides: \\(y - 7 = 4\\). Add 7: \\(y = 11\\).</p>",
+       "type": "spr",
+       "answer": [
+        "11"
+       ],
+       "id": "math-m2_easy-07"
+      },
+      {
+       "domain": "Problem-Solving and Data Analysis",
+       "skill": "One-variable data",
+       "difficulty": "E",
+       "stem": "<p>The bar graph shows the number of books each of four students read in March.</p><svg viewBox=\"0 0 400 260\" width=\"400\" style=\"max-width:100%;height:auto\" role=\"img\" aria-label=\"Books Read in March\"><text x=\"200.0\" y=\"18\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"bold\" font-family=\"Arial, Helvetica, sans-serif\">Books Read in March</text><line x1=\"62\" y1=\"208.0\" x2=\"384\" y2=\"208.0\" stroke=\"#d9d9d9\"/><text x=\"56\" y=\"212.0\" text-anchor=\"end\" font-size=\"11\" font-family=\"Arial, Helvetica, sans-serif\">0</text><line x1=\"62\" y1=\"190.6\" x2=\"384\" y2=\"190.6\" stroke=\"#d9d9d9\"/><text x=\"56\" y=\"194.6\" text-anchor=\"end\" font-size=\"11\" font-family=\"Arial, Helvetica, sans-serif\">1</text><line x1=\"62\" y1=\"173.2\" x2=\"384\" y2=\"173.2\" stroke=\"#d9d9d9\"/><text x=\"56\" y=\"177.2\" text-anchor=\"end\" font-size=\"11\" font-family=\"Arial, Helvetica, sans-serif\">2</text><line x1=\"62\" y1=\"155.8\" x2=\"384\" y2=\"155.8\" stroke=\"#d9d9d9\"/><text x=\"56\" y=\"159.8\" text-anchor=\"end\" font-size=\"11\" font-family=\"Arial, Helvetica, sans-serif\">3</text><line x1=\"62\" y1=\"138.4\" x2=\"384\" y2=\"138.4\" stroke=\"#d9d9d9\"/><text x=\"56\" y=\"142.4\" text-anchor=\"end\" font-size=\"11\" font-family=\"Arial, Helvetica, sans-serif\">4</text><line x1=\"62\" y1=\"121.0\" x2=\"384\" y2=\"121.0\" stroke=\"#d9d9d9\"/><text x=\"56\" y=\"125.0\" text-anchor=\"end\" font-size=\"11\" font-family=\"Arial, Helvetica, sans-serif\">5</text><line x1=\"62\" y1=\"103.6\" x2=\"384\" y2=\"103.6\" stroke=\"#d9d9d9\"/><text x=\"56\" y=\"107.6\" text-anchor=\"end\" font-size=\"11\" font-family=\"Arial, Helvetica, sans-serif\">6</text><line x1=\"62\" y1=\"86.2\" x2=\"384\" y2=\"86.2\" stroke=\"#d9d9d9\"/><text x=\"56\" y=\"90.2\" text-anchor=\"end\" font-size=\"11\" font-family=\"Arial, Helvetica, sans-serif\">7</text><line x1=\"62\" y1=\"68.8\" x2=\"384\" y2=\"68.8\" stroke=\"#d9d9d9\"/><text x=\"56\" y=\"72.8\" text-anchor=\"end\" font-size=\"11\" font-family=\"Arial, Helvetica, sans-serif\">8</text><line x1=\"62\" y1=\"51.4\" x2=\"384\" y2=\"51.4\" stroke=\"#d9d9d9\"/><text x=\"56\" y=\"55.4\" text-anchor=\"end\" font-size=\"11\" font-family=\"Arial, Helvetica, sans-serif\">9</text><line x1=\"62\" y1=\"34.0\" x2=\"384\" y2=\"34.0\" stroke=\"#d9d9d9\"/><text x=\"56\" y=\"38.0\" text-anchor=\"end\" font-size=\"11\" font-family=\"Arial, Helvetica, sans-serif\">10</text><rect x=\"78.1\" y=\"103.6\" width=\"48.3\" height=\"104.4\" fill=\"#5a5a5a\" stroke=\"#1e1e1e\" stroke-width=\"0.8\"/><text x=\"102.2\" y=\"224\" text-anchor=\"middle\" font-size=\"12\" font-family=\"Arial, Helvetica, sans-serif\">Ana</text><rect x=\"158.6\" y=\"51.4\" width=\"48.3\" height=\"156.6\" fill=\"#5a5a5a\" stroke=\"#1e1e1e\" stroke-width=\"0.8\"/><text x=\"182.8\" y=\"224\" text-anchor=\"middle\" font-size=\"12\" font-family=\"Arial, Helvetica, sans-serif\">Ben</text><rect x=\"239.1\" y=\"138.4\" width=\"48.3\" height=\"69.6\" fill=\"#5a5a5a\" stroke=\"#1e1e1e\" stroke-width=\"0.8\"/><text x=\"263.2\" y=\"224\" text-anchor=\"middle\" font-size=\"12\" font-family=\"Arial, Helvetica, sans-serif\">Cleo</text><rect x=\"319.6\" y=\"86.2\" width=\"48.3\" height=\"121.8\" fill=\"#5a5a5a\" stroke=\"#1e1e1e\" stroke-width=\"0.8\"/><text x=\"343.8\" y=\"224\" text-anchor=\"middle\" font-size=\"12\" font-family=\"Arial, Helvetica, sans-serif\">Dev</text><line x1=\"62\" y1=\"34\" x2=\"62\" y2=\"208\" stroke=\"#1e1e1e\"/><line x1=\"62\" y1=\"208\" x2=\"384\" y2=\"208\" stroke=\"#1e1e1e\"/><text transform=\"translate(14 121.0) rotate(-90)\" text-anchor=\"middle\" font-size=\"12\" font-family=\"Arial, Helvetica, sans-serif\">Number of books</text><text x=\"223.0\" y=\"252\" text-anchor=\"middle\" font-size=\"12\" font-family=\"Arial, Helvetica, sans-serif\">Student</text></svg><p>How many more books did Ben read than Cleo?</p>",
+       "explanation": "<p>Ben read 9 books and Cleo read 4, so Ben read \\(9 - 4 = 5\\) more.</p>",
+       "choices": [
+        "2",
+        "3",
+        "5",
+        "13"
+       ],
+       "answer": "C",
+       "id": "math-m2_easy-08"
+      },
+      {
+       "domain": "Algebra",
+       "skill": "Linear inequalities",
+       "difficulty": "M",
+       "stem": "<p>Which inequality describes all values of \\(x\\) for which \\(2x + 3 > 11\\)?</p>",
+       "explanation": "<p>Subtract 3: \\(2x > 8\\). Divide by 2: \\(x > 4\\).</p>",
+       "choices": [
+        "\\(x > 4\\)",
+        "\\(x < 4\\)",
+        "\\(x > 5.5\\)",
+        "\\(x > 7\\)"
+       ],
+       "answer": "A",
+       "id": "math-m2_easy-09"
+      },
+      {
+       "domain": "Advanced Math",
+       "skill": "Nonlinear functions",
+       "difficulty": "M",
+       "stem": "<p>The function \\(f\\) is defined by \\(f(x) = 2^x + 5\\). What is the value of \\(f(3)\\)?</p>",
+       "explanation": "<p>\\(f(3) = 2^3 + 5 = 8 + 5 = 13\\).</p>",
+       "type": "spr",
+       "answer": [
+        "13"
+       ],
+       "id": "math-m2_easy-10"
+      },
+      {
+       "domain": "Geometry and Trigonometry",
+       "skill": "Right triangles and trigonometry",
+       "difficulty": "M",
+       "stem": "<p>A right triangle has legs of length 5 inches and 12 inches. What is the area of the triangle, in square inches?</p>",
+       "explanation": "<p>Area \\(= \\tfrac{1}{2}(5)(12) = 30\\). (60 forgets the \\(\\tfrac{1}{2}\\).)</p>",
+       "choices": [
+        "17",
+        "30",
+        "60",
+        "65"
+       ],
+       "answer": "B",
+       "id": "math-m2_easy-11"
+      },
+      {
+       "domain": "Algebra",
+       "skill": "Linear functions",
+       "difficulty": "M",
+       "stem": "<p>What is the \\(y\\)-coordinate of the \\(y\\)-intercept of the graph of \\(4x + 2y = 10\\) in the \\(xy\\)-plane?</p>",
+       "explanation": "<p>At the \\(y\\)-intercept, \\(x = 0\\): \\(2y = 10\\), so \\(y = 5\\). (−2 is the slope.)</p>",
+       "choices": [
+        "−2",
+        "2",
+        "5",
+        "10"
+       ],
+       "answer": "C",
+       "id": "math-m2_easy-12"
+      },
+      {
+       "domain": "Problem-Solving and Data Analysis",
+       "skill": "Ratios, rates, and proportions",
+       "difficulty": "M",
+       "stem": "<p>A recipe makes 24 cookies using 3 eggs. At this rate, how many eggs are needed to make 72 cookies?</p>",
+       "explanation": "<p>72 cookies is \\(72 \\div 24 = 3\\) times the recipe, so \\(3 \\times 3 = 9\\) eggs are needed.</p>",
+       "type": "spr",
+       "answer": [
+        "9"
+       ],
+       "id": "math-m2_easy-13"
+      },
+      {
+       "domain": "Advanced Math",
+       "skill": "Nonlinear equations and systems",
+       "difficulty": "M",
+       "stem": "<p>Which of the following is a solution to the equation \\(x^2 - 7x + 10 = 0\\)?</p>",
+       "explanation": "<p>\\(x^2 - 7x + 10 = (x - 2)(x - 5)\\), so the solutions are 2 and 5. Only 2 is a choice.</p>",
+       "choices": [
+        "−5",
+        "−2",
+        "2",
+        "7"
+       ],
+       "answer": "C",
+       "id": "math-m2_easy-14"
+      },
+      {
+       "domain": "Geometry and Trigonometry",
+       "skill": "Area and volume",
+       "difficulty": "M",
+       "stem": "<p>A right circular cylinder has a volume of \\(90\\pi\\) cubic inches and a radius of 3 inches. What is the height of the cylinder, in inches?</p>",
+       "explanation": "<p>\\(V = \\pi r^2 h\\), so \\(90\\pi = \\pi(9)h\\) and \\(h = 10\\).</p>",
+       "choices": [
+        "3",
+        "10",
+        "30",
+        "81"
+       ],
+       "answer": "B",
+       "id": "math-m2_easy-15"
+      },
+      {
+       "domain": "Algebra",
+       "skill": "Linear functions",
+       "difficulty": "M",
+       "stem": "<p>A plant is 4 centimeters tall and grows 1.5 centimeters each week. Which equation gives the plant's height \\(h\\), in centimeters, after \\(w\\) weeks?</p>",
+       "explanation": "<p>The plant starts at 4 and adds 1.5 each week: \\(h = 4 + 1.5w\\).</p>",
+       "choices": [
+        "\\(h = 1.5 + 4w\\)",
+        "\\(h = 5.5w\\)",
+        "\\(h = 4w - 1.5\\)",
+        "\\(h = 4 + 1.5w\\)"
+       ],
+       "answer": "D",
+       "id": "math-m2_easy-16",
+       "pretest": true
+      },
+      {
+       "domain": "Advanced Math",
+       "skill": "Equivalent expressions",
+       "difficulty": "M",
+       "stem": "<p>Which expression is equivalent to \\((x + 4)^2\\)?</p>",
+       "explanation": "<p>\\((x + 4)^2 = (x + 4)(x + 4) = x^2 + 4x + 4x + 16 = x^2 + 8x + 16\\).</p>",
+       "choices": [
+        "\\(x^2 + 16\\)",
+        "\\(x^2 + 4x + 16\\)",
+        "\\(x^2 + 8x + 16\\)",
+        "\\(x^2 + 8x + 8\\)"
+       ],
+       "answer": "C",
+       "id": "math-m2_easy-17"
+      },
+      {
+       "domain": "Algebra",
+       "skill": "Systems of linear equations",
+       "difficulty": "M",
+       "stem": "<p>\\[2x + y = 9\\]\\[x + y = 5\\]<p>What is the value of \\(y\\) in the solution \\((x, y)\\) to the system of equations above?</p></p>",
+       "explanation": "<p>Subtract the second equation from the first: \\(x = 4\\). Then \\(4 + y = 5\\), so \\(y = 1\\).</p>",
+       "type": "spr",
+       "answer": [
+        "1"
+       ],
+       "id": "math-m2_easy-18"
+      },
+      {
+       "domain": "Problem-Solving and Data Analysis",
+       "skill": "One-variable data",
+       "difficulty": "M",
+       "stem": "<p>A data set consists of the values 3, 5, 5, 6, 8, 9, and 20. If the value 20 is removed from the data set, which statement is true?</p>",
+       "explanation": "<p>Before: mean \\(= 56 \\div 7 = 8\\) and median \\(= 6\\). After: mean \\(= 36 \\div 6 = 6\\) and median \\(= \\tfrac{5 + 6}{2} = 5.5\\). The mean drops by 2 and the median by 0.5. Removing an outlier affects the mean much more.</p>",
+       "choices": [
+        "The mean decreases by more than the median does.",
+        "The median decreases by more than the mean does.",
+        "The mean and the median both stay the same.",
+        "The mean increases, and the median decreases."
+       ],
+       "answer": "A",
+       "id": "math-m2_easy-19"
+      },
+      {
+       "domain": "Advanced Math",
+       "skill": "Nonlinear functions",
+       "difficulty": "M",
+       "stem": "<p>The function \\(g\\) is defined by \\(g(x) = (x - 1)(x + 4)\\). What is the \\(y\\)-intercept of the graph of \\(y = g(x)\\) in the \\(xy\\)-plane?</p>",
+       "explanation": "<p>At \\(x = 0\\): \\(g(0) = (-1)(4) = -4\\), so the \\(y\\)-intercept is \\((0, -4)\\). \\((1, 0)\\) is an \\(x\\)-intercept.</p>",
+       "choices": [
+        "\\((0, -4)\\)",
+        "\\((0, 4)\\)",
+        "\\((0, -1)\\)",
+        "\\((1, 0)\\)"
+       ],
+       "answer": "A",
+       "id": "math-m2_easy-20"
+      },
+      {
+       "domain": "Geometry and Trigonometry",
+       "skill": "Area and volume",
+       "difficulty": "M",
+       "stem": "<p>The perimeter of a square is 36 centimeters. What is the area of the square, in square centimeters?</p>",
+       "explanation": "<p>Each side is \\(36 \\div 4 = 9\\), so the area is \\(9^2 = 81\\).</p>",
+       "type": "spr",
+       "answer": [
+        "81"
+       ],
+       "id": "math-m2_easy-21"
+      },
+      {
+       "domain": "Advanced Math",
+       "skill": "Nonlinear functions",
+       "difficulty": "M",
+       "stem": "<p>A town's population is 300 and doubles every 5 years. Which function gives the population \\(P(t)\\) of the town \\(t\\) years from now?</p>",
+       "explanation": "<p>The population is multiplied by 2 once every 5 years, which is \\(\\tfrac{t}{5}\\) times in \\(t\\) years: \\(P(t) = 300(2)^{\\frac{t}{5}}\\).</p>",
+       "choices": [
+        "\\(P(t) = 300(2)^{5t}\\)",
+        "\\(P(t) = 600t\\)",
+        "\\(P(t) = 300(5)^{\\frac{t}{2}}\\)",
+        "\\(P(t) = 300(2)^{\\frac{t}{5}}\\)"
+       ],
+       "answer": "D",
+       "id": "math-m2_easy-22"
+      }
+     ]
+    },
+    "m2_hard": {
+     "time": 2100,
+     "questions": [
+      {
+       "domain": "Algebra",
+       "skill": "Linear equations in one variable",
+       "difficulty": "M",
+       "stem": "<p>If \\(2(x + 3) - 5 = 3(x - 1) - 4\\), what is the value of \\(x\\)?</p>",
+       "explanation": "<p>Left side: \\(2x + 1\\). Right side: \\(3x - 7\\). So \\(2x + 1 = 3x - 7\\) and \\(x = 8\\).</p>",
+       "choices": [
+        "−2",
+        "4",
+        "6",
+        "8"
+       ],
+       "answer": "D",
+       "id": "math-m2_hard-01"
+      },
+      {
+       "domain": "Problem-Solving and Data Analysis",
+       "skill": "Percentages",
+       "difficulty": "M",
+       "stem": "<p>The price of a bicycle was increased by 25%. Later, the new price was decreased by 20%. How does the final price compare with the original price?</p>",
+       "explanation": "<p>\\(1.25 \\times 0.80 = 1.00\\), so the final price equals the original. The 20% decrease applies to a larger amount, which exactly cancels the 25% increase.</p>",
+       "choices": [
+        "It is the same as the original price.",
+        "It is 5% less than the original price.",
+        "It is 5% more than the original price.",
+        "It is 45% more than the original price."
+       ],
+       "answer": "A",
+       "id": "math-m2_hard-02"
+      },
+      {
+       "domain": "Advanced Math",
+       "skill": "Nonlinear functions",
+       "difficulty": "M",
+       "stem": "<p>The function \\(f\\) is defined by \\(f(x) = x^2 - 3x + k\\), where \\(k\\) is a constant. If \\(f(2) = 7\\), what is the value of \\(k\\)?</p>",
+       "explanation": "<p>\\(f(2) = 4 - 6 + k = k - 2 = 7\\), so \\(k = 9\\).</p>",
+       "type": "spr",
+       "answer": [
+        "9"
+       ],
+       "id": "math-m2_hard-03"
+      },
+      {
+       "domain": "Geometry and Trigonometry",
+       "skill": "Circles",
+       "difficulty": "M",
+       "stem": "<p>A sector of a circle with radius 6 has a central angle of \\(120^\\circ\\). What is the area of the sector?</p>",
+       "explanation": "<p>The sector is \\(\\tfrac{120}{360} = \\tfrac{1}{3}\\) of the circle, whose area is \\(36\\pi\\). So the sector's area is \\(12\\pi\\). (\\(4\\pi\\) is the arc length.)</p>",
+       "choices": [
+        "\\(4\\pi\\)",
+        "\\(6\\pi\\)",
+        "\\(12\\pi\\)",
+        "\\(24\\pi\\)"
+       ],
+       "answer": "C",
+       "id": "math-m2_hard-04"
+      },
+      {
+       "domain": "Algebra",
+       "skill": "Linear functions",
+       "difficulty": "M",
+       "stem": "<p>Line \\(k\\) in the \\(xy\\)-plane passes through the point \\((-1, 4)\\) and is perpendicular to the line \\(y = 2x - 3\\). Which equation defines line \\(k\\)?</p>",
+       "explanation": "<p>A perpendicular line has slope \\(-\\tfrac{1}{2}\\). Then \\(4 = -\\tfrac{1}{2}(-1) + b = \\tfrac{1}{2} + b\\), so \\(b = \\tfrac{7}{2}\\).</p>",
+       "choices": [
+        "\\(y = -\\tfrac{1}{2}x + \\tfrac{7}{2}\\)",
+        "\\(y = 2x + 6\\)",
+        "\\(y = -\\tfrac{1}{2}x + 4\\)",
+        "\\(y = \\tfrac{1}{2}x + \\tfrac{9}{2}\\)"
+       ],
+       "answer": "A",
+       "id": "math-m2_hard-05"
+      },
+      {
+       "domain": "Advanced Math",
+       "skill": "Equivalent expressions",
+       "difficulty": "H",
+       "stem": "<p>For \\(x \\neq -3\\) and \\(x \\neq 2\\), which expression is equivalent to \\(\\dfrac{x^2 - 9}{x^2 + x - 6}\\)?</p>",
+       "explanation": "<p>Factor: \\(\\dfrac{(x - 3)(x + 3)}{(x + 3)(x - 2)} = \\dfrac{x - 3}{x - 2}\\).</p>",
+       "choices": [
+        "\\(\\dfrac{x + 3}{x - 2}\\)",
+        "\\(\\dfrac{x - 3}{x - 2}\\)",
+        "\\(\\dfrac{x - 3}{x + 2}\\)",
+        "\\(-\\dfrac{3}{2}\\)"
+       ],
+       "answer": "B",
+       "id": "math-m2_hard-06",
+       "pretest": true
+      },
+      {
+       "domain": "Problem-Solving and Data Analysis",
+       "skill": "Ratios, rates, and proportions",
+       "difficulty": "H",
+       "stem": "<p>A bag contains only red and blue marbles, and the ratio of red marbles to blue marbles is \\(3:5\\). After 18 red marbles are added to the bag, the ratio of red marbles to blue marbles is \\(6:5\\). How many blue marbles are in the bag?</p>",
+       "explanation": "<p>The number of blue marbles doesn't change. Red goes from \\(\\tfrac{3}{5}b\\) to \\(\\tfrac{6}{5}b\\), an increase of \\(\\tfrac{3}{5}b\\), which equals 18. So \\(b = 30\\).</p>",
+       "type": "spr",
+       "answer": [
+        "30"
+       ],
+       "id": "math-m2_hard-07"
+      },
+      {
+       "domain": "Algebra",
+       "skill": "Systems of linear equations",
+       "difficulty": "H",
+       "stem": "<p>A theater sold 400 tickets for one performance. Adult tickets cost $15 and student tickets cost $9, and the total ticket sales were $4,920. How many student tickets were sold?</p>",
+       "explanation": "<p>Let \\(s\\) be the student tickets: \\(15(400 - s) + 9s = 4{,}920\\), so \\(6{,}000 - 6s = 4{,}920\\) and \\(s = 180\\). (220 is the number of adult tickets.)</p>",
+       "choices": [
+        "140",
+        "160",
+        "180",
+        "220"
+       ],
+       "answer": "C",
+       "id": "math-m2_hard-08"
+      },
+      {
+       "domain": "Geometry and Trigonometry",
+       "skill": "Circles",
+       "difficulty": "H",
+       "stem": "<p>A circle in the \\(xy\\)-plane has the equation \\((x - 4)^2 + (y + 1)^2 = 20\\). Which point lies on the circle?</p>",
+       "explanation": "<p>Check \\((6, 3)\\): \\((6 - 4)^2 + (3 + 1)^2 = 4 + 16 = 20\\). ✓ The others give 25, 25, and 17.</p>",
+       "choices": [
+        "\\((-1, -1)\\)",
+        "\\((4, 4)\\)",
+        "\\((5, 3)\\)",
+        "\\((6, 3)\\)"
+       ],
+       "answer": "D",
+       "id": "math-m2_hard-09"
+      },
+      {
+       "domain": "Advanced Math",
+       "skill": "Nonlinear functions",
+       "difficulty": "H",
+       "stem": "<p>The graph of \\(y = 2x^2 - 8x + c\\), where \\(c\\) is a constant, crosses the \\(x\\)-axis at two points that are 3 units apart. What is the value of \\(c\\)?</p>",
+       "explanation": "<p>The zeros are symmetric about the axis \\(x = 2\\), so they are \\(2 \\pm 1.5\\): 0.5 and 3.5. Their product is \\(\\tfrac{c}{2} = 0.5 \\times 3.5 = 1.75\\), so \\(c = 3.5\\).</p>",
+       "choices": [
+        "2.5",
+        "3.5",
+        "4",
+        "6"
+       ],
+       "answer": "B",
+       "id": "math-m2_hard-10"
+      },
+      {
+       "domain": "Algebra",
+       "skill": "Systems of linear equations",
+       "difficulty": "H",
+       "stem": "<p>\\[4x - 3y = 5\\]\\[2x + ky = 7\\]<p>In the system of equations above, \\(k\\) is a constant. If the system has no solution, what is the value of \\(k\\)?</p></p>",
+       "explanation": "<p>No solution means the lines are parallel and distinct. Doubling the second equation gives \\(4x + 2ky = 14\\), so \\(2k = -3\\) and \\(k = -1.5\\). (The constants 5 and 14 differ, so the lines are distinct.)</p>",
+       "type": "spr",
+       "answer": [
+        "-1.5",
+        "-3/2"
+       ],
+       "id": "math-m2_hard-11"
+      },
+      {
+       "domain": "Problem-Solving and Data Analysis",
+       "skill": "Inference and margin of error",
+       "difficulty": "H",
+       "stem": "<p>A school has 2,000 students. In a random sample of 50 of these students, 12 said they walk to school. Based on the sample, which is the best estimate of the number of students at the school who walk to school?</p>",
+       "explanation": "<p>In the sample, \\(\\tfrac{12}{50} = 24\\%\\) walk. A random sample supports applying this to the school: \\(0.24 \\times 2{,}000 = 480\\).</p>",
+       "choices": [
+        "12",
+        "24",
+        "240",
+        "480"
+       ],
+       "answer": "D",
+       "id": "math-m2_hard-12"
+      },
+      {
+       "domain": "Advanced Math",
+       "skill": "Nonlinear equations and systems",
+       "difficulty": "H",
+       "stem": "<p>If \\(9^x = 27^{x - 1}\\), what is the value of \\(x\\)?</p>",
+       "explanation": "<p>Write both sides as powers of 3: \\(3^{2x} = 3^{3(x - 1)}\\). So \\(2x = 3x - 3\\) and \\(x = 3\\).</p>",
+       "choices": [
+        "−3",
+        "1",
+        "2",
+        "3"
+       ],
+       "answer": "D",
+       "id": "math-m2_hard-13"
+      },
+      {
+       "domain": "Geometry and Trigonometry",
+       "skill": "Right triangles and trigonometry",
+       "difficulty": "H",
+       "stem": "<p>A right triangle has side lengths 7, 24, and 25. What is the cosine of the triangle's smallest angle?</p>",
+       "explanation": "<p>The smallest angle is opposite the shortest side, 7. Its adjacent leg is 24 and the hypotenuse is 25, so the cosine is \\(\\tfrac{24}{25} = 0.96\\).</p>",
+       "type": "spr",
+       "answer": [
+        "24/25",
+        ".96",
+        "0.96"
+       ],
+       "id": "math-m2_hard-14"
+      },
+      {
+       "domain": "Algebra",
+       "skill": "Linear functions",
+       "difficulty": "H",
+       "stem": "<p>Which equation defines a line in the \\(xy\\)-plane that is parallel to the line \\(6x - 2y = 7\\) and passes through the point \\((0, 4)\\)?</p>",
+       "explanation": "<p>\\(6x - 2y = 7\\) can be written \\(y = 3x - \\tfrac{7}{2}\\), so its slope is 3. A parallel line through \\((0, 4)\\) is \\(y = 3x + 4\\).</p>",
+       "choices": [
+        "\\(y = -3x + 4\\)",
+        "\\(y = \\tfrac{1}{3}x + 4\\)",
+        "\\(y = 6x + 4\\)",
+        "\\(y = 3x + 4\\)"
+       ],
+       "answer": "D",
+       "id": "math-m2_hard-15",
+       "pretest": true
+      },
+      {
+       "domain": "Problem-Solving and Data Analysis",
+       "skill": "One-variable data",
+       "difficulty": "H",
+       "stem": "<p>Data set A consists of the values 10, 20, 30, 40, and 50. Data set B consists of the values 28, 29, 30, 31, and 32. Which statement is true?</p>",
+       "explanation": "<p>Both means are 30. The values in A are much more spread out from 30 than those in B, so A has the greater standard deviation.</p>",
+       "choices": [
+        "The data sets have the same mean, and data set A has the greater standard deviation.",
+        "The data sets have the same mean, and data set B has the greater standard deviation.",
+        "Data set A has the greater mean, and the data sets have the same standard deviation.",
+        "The data sets have the same mean and the same standard deviation."
+       ],
+       "answer": "A",
+       "id": "math-m2_hard-16"
+      },
+      {
+       "domain": "Advanced Math",
+       "skill": "Nonlinear equations and systems",
+       "difficulty": "H",
+       "stem": "<p>In the \\(xy\\)-plane, the graph of \\(y = x^2 - 6x + 5\\) and the line \\(y = k\\), where \\(k\\) is a constant, intersect at exactly one point. What is the value of \\(k\\)?</p>",
+       "explanation": "<p>A horizontal line meets a parabola at exactly one point only at the vertex. The vertex is at \\(x = 3\\), where \\(y = 9 - 18 + 5 = -4\\). So \\(k = -4\\).</p>",
+       "choices": [
+        "−4",
+        "3",
+        "5",
+        "9"
+       ],
+       "answer": "A",
+       "id": "math-m2_hard-17"
+      },
+      {
+       "domain": "Advanced Math",
+       "skill": "Equivalent expressions",
+       "difficulty": "H",
+       "stem": "<p>If \\(x + \\dfrac{1}{x} = 5\\), what is the value of \\(x^2 + \\dfrac{1}{x^2}\\)?</p>",
+       "explanation": "<p>Square both sides: \\(x^2 + 2\\left(x \\cdot \\tfrac{1}{x}\\right) + \\tfrac{1}{x^2} = 25\\), so \\(x^2 + \\tfrac{1}{x^2} = 25 - 2 = 23\\).</p>",
+       "type": "spr",
+       "answer": [
+        "23"
+       ],
+       "id": "math-m2_hard-18"
+      },
+      {
+       "domain": "Geometry and Trigonometry",
+       "skill": "Right triangles and trigonometry",
+       "difficulty": "H",
+       "stem": "<p>A rectangle is inscribed in a circle with radius 6.5, so that all four vertices of the rectangle lie on the circle. One side of the rectangle has length 5. What is the area of the rectangle?</p>",
+       "explanation": "<p>The diagonal of an inscribed rectangle is a diameter: 13. The other side is \\(\\sqrt{13^2 - 5^2} = 12\\), so the area is \\(5 \\times 12 = 60\\).</p>",
+       "choices": [
+        "30",
+        "60",
+        "65",
+        "78"
+       ],
+       "answer": "B",
+       "id": "math-m2_hard-19"
+      },
+      {
+       "domain": "Algebra",
+       "skill": "Linear functions",
+       "difficulty": "H",
+       "stem": "<p>For the linear function \\(f\\), \\(f(2) = 7\\) and \\(f(6) = 19\\). The function \\(g\\) is defined by \\(g(x) = -2x + 23\\). For what value of \\(x\\) does \\(f(x) = g(x)\\)?</p>",
+       "explanation": "<p>The slope of \\(f\\) is \\(\\tfrac{19 - 7}{6 - 2} = 3\\), so \\(f(x) = 3x + 1\\). Then \\(3x + 1 = -2x + 23\\) gives \\(5x = 22\\) and \\(x = 4.4\\).</p>",
+       "choices": [
+        "2.2",
+        "4.4",
+        "6.2",
+        "22"
+       ],
+       "answer": "B",
+       "id": "math-m2_hard-20"
+      },
+      {
+       "domain": "Advanced Math",
+       "skill": "Nonlinear functions",
+       "difficulty": "H",
+       "stem": "<p>The graph of \\(y = f(x)\\) in the \\(xy\\)-plane is a parabola with vertex \\((2, -9)\\) that passes through the point \\((5, 9)\\). The graph of \\(y = g(x)\\) is the result of shifting the graph of \\(f\\) 3 units to the left and 4 units up. What is the \\(y\\)-intercept of the graph of \\(g\\)?</p>",
+       "explanation": "<p>Write \\(f(x) = a(x - 2)^2 - 9\\). Since \\(f(5) = 9a - 9 = 9\\), \\(a = 2\\). Shifting 3 left and 4 up gives \\(g(x) = 2(x + 1)^2 - 5\\), so \\(g(0) = 2 - 5 = -3\\). (Choice A is the \\(y\\)-intercept of \\(f\\), not \\(g\\).)</p>",
+       "choices": [
+        "\\((0, -7)\\)",
+        "\\((0, -5)\\)",
+        "\\((0, -3)\\)",
+        "\\((0, 3)\\)"
+       ],
+       "answer": "C",
+       "id": "math-m2_hard-21"
+      },
+      {
+       "domain": "Algebra",
+       "skill": "Linear equations in two variables",
+       "difficulty": "H",
+       "stem": "<p>A tank holds 600 liters of water when full. When the full tank is emptied using only drain B, it becomes empty in 40 minutes. When the full tank is emptied with drain B open and pipe A also adding water, it becomes empty in 120 minutes. Both the pipe and the drain work at constant rates. How many minutes would it take pipe A alone to fill the empty tank?</p>",
+       "explanation": "<p>Drain B removes \\(600 \\div 40 = 15\\) liters per minute. With both open, the tank loses \\(600 \\div 120 = 5\\) liters per minute, so pipe A adds \\(15 - 5 = 10\\) liters per minute. Filling 600 liters takes pipe A \\(600 \\div 10 = 60\\) minutes.</p>",
+       "type": "spr",
+       "answer": [
+        "60"
+       ],
+       "id": "math-m2_hard-22"
+      }
+     ]
+    }
+   }
+  }
+ ],
+ "scoring": {
+  "rw": {
+   "m2_hard": [
+    200,
+    210,
+    220,
+    230,
+    240,
+    250,
+    260,
+    270,
+    280,
+    290,
+    300,
+    320,
+    340,
+    360,
+    380,
+    400,
+    410,
+    420,
+    440,
+    450,
+    460,
+    470,
+    480,
+    500,
+    510,
+    520,
+    530,
+    540,
+    550,
+    560,
+    570,
+    580,
+    590,
+    600,
+    610,
+    620,
+    630,
+    640,
+    650,
+    660,
+    680,
+    690,
+    700,
+    710,
+    720,
+    730,
+    740,
+    760,
+    770,
+    790,
+    800
+   ],
+   "m2_easy": [
+    200,
+    210,
+    220,
+    230,
+    240,
+    250,
+    260,
+    270,
+    280,
+    290,
+    300,
+    310,
+    320,
+    330,
+    340,
+    360,
+    370,
+    380,
+    390,
+    400,
+    410,
+    420,
+    430,
+    430,
+    440,
+    450,
+    460,
+    470,
+    470,
+    480,
+    490,
+    500,
+    500,
+    510,
+    520,
+    520,
+    530,
+    540,
+    550,
+    550,
+    560,
+    560,
+    570,
+    580,
+    580,
+    580,
+    590,
+    600,
+    600,
+    600,
+    610
+   ]
+  },
+  "math": {
+   "m2_hard": [
+    200,
+    210,
+    220,
+    240,
+    250,
+    260,
+    280,
+    290,
+    300,
+    320,
+    350,
+    380,
+    400,
+    420,
+    430,
+    440,
+    460,
+    480,
+    490,
+    500,
+    520,
+    530,
+    540,
+    560,
+    570,
+    580,
+    600,
+    610,
+    620,
+    640,
+    650,
+    660,
+    680,
+    700,
+    710,
+    720,
+    740,
+    760,
+    770,
+    780,
+    800
+   ],
+   "m2_easy": [
+    200,
+    210,
+    220,
+    240,
+    250,
+    260,
+    280,
+    290,
+    300,
+    310,
+    330,
+    340,
+    360,
+    370,
+    380,
+    400,
+    410,
+    420,
+    430,
+    440,
+    450,
+    460,
+    470,
+    480,
+    490,
+    500,
+    510,
+    520,
+    520,
+    530,
+    540,
+    550,
+    560,
+    570,
+    570,
+    580,
+    580,
+    590,
+    600,
+    600,
+    610
+   ]
+  }
+ }
+}

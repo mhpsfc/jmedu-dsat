@@ -17,6 +17,87 @@
       "access": "free",
       "duration": "2 hr 14 min + break",
       "description": "Full-length Digital SAT practice: 98 questions, adaptive Module 2, answer explanations for every question."
+    },
+    {
+      "id": "jm-practice-2",
+      "file": "jm-practice-2.json",
+      "title": "JM Practice Test 2",
+      "kind": "full",
+      "access": "free",
+      "duration": "2 hr 14 min + break",
+      "description": "Full-length Digital SAT practice: 98 questions, adaptive Module 2, answer explanations for every question."
+    },
+    {
+      "id": "jm-practice-3",
+      "file": "jm-practice-3.json",
+      "title": "JM Practice Test 3",
+      "kind": "full",
+      "access": "free",
+      "duration": "2 hr 14 min + break",
+      "description": "Full-length Digital SAT practice: 98 questions, adaptive Module 2, answer explanations for every question."
+    },
+    {
+      "id": "jm-practice-4",
+      "file": "jm-practice-4.json",
+      "title": "JM Practice Test 4",
+      "kind": "full",
+      "access": "free",
+      "duration": "2 hr 14 min + break",
+      "description": "Full-length Digital SAT practice: 98 questions, adaptive Module 2, answer explanations for every question."
+    },
+    {
+      "id": "jm-practice-5",
+      "file": "jm-practice-5.json",
+      "title": "JM Practice Test 5",
+      "kind": "full",
+      "access": "free",
+      "duration": "2 hr 14 min + break",
+      "description": "Full-length Digital SAT practice: 98 questions, adaptive Module 2, answer explanations for every question."
+    },
+    {
+      "id": "jm-practice-6",
+      "file": "jm-practice-6.json",
+      "title": "JM Practice Test 6",
+      "kind": "full",
+      "access": "free",
+      "duration": "2 hr 14 min + break",
+      "description": "Full-length Digital SAT practice: 98 questions, adaptive Module 2, answer explanations for every question."
+    },
+    {
+      "id": "jm-practice-7",
+      "file": "jm-practice-7.json",
+      "title": "JM Practice Test 7",
+      "kind": "full",
+      "access": "free",
+      "duration": "2 hr 14 min + break",
+      "description": "Full-length Digital SAT practice: 98 questions, adaptive Module 2, answer explanations for every question."
+    },
+    {
+      "id": "jm-practice-8",
+      "file": "jm-practice-8.json",
+      "title": "JM Practice Test 8",
+      "kind": "full",
+      "access": "free",
+      "duration": "2 hr 14 min + break",
+      "description": "Full-length Digital SAT practice: 98 questions, adaptive Module 2, answer explanations for every question."
+    },
+    {
+      "id": "jm-practice-9",
+      "file": "jm-practice-9.json",
+      "title": "JM Practice Test 9",
+      "kind": "full",
+      "access": "free",
+      "duration": "2 hr 14 min + break",
+      "description": "Full-length Digital SAT practice: 98 questions, adaptive Module 2, answer explanations for every question."
+    },
+    {
+      "id": "jm-practice-10",
+      "file": "jm-practice-10.json",
+      "title": "JM Practice Test 10",
+      "kind": "full",
+      "access": "free",
+      "duration": "2 hr 14 min + break",
+      "description": "Full-length Digital SAT practice: 98 questions, adaptive Module 2, answer explanations for every question."
     }
   ]
 }
