@@ -1,12 +1,12 @@
 // Pages and routing (#/path). The exam itself lives in js/exam/.
-import { CONFIG, DEMO_MODE } from './config.js?v=6a94ba54';
-import * as auth from './auth.js?v=6a94ba54';
-import * as store from './store.js?v=6a94ba54';
-import { loadCatalog, loadTest, registerTempTest, validateTest, modeSeconds, questionCount, DOMAINS, MODULE_KEYS } from './content.js?v=6a94ba54';
-import { buildResult, answerLabel } from './scoring.js?v=6a94ba54';
-import { Exam } from './exam/exam.js?v=6a94ba54';
-import { questionHtml, leftPaneHtml, isSplit } from './exam/render.js?v=6a94ba54';
-import { esc, icon, uid, fmtDate, fmtMinutes, renderMath, toast, confirmDialog } from './util.js?v=6a94ba54';
+import { CONFIG, DEMO_MODE } from './config.js?v=a16029c3';
+import * as auth from './auth.js?v=a16029c3';
+import * as store from './store.js?v=a16029c3';
+import { loadCatalog, loadTest, registerTempTest, validateTest, modeSeconds, questionCount, DOMAINS, MODULE_KEYS } from './content.js?v=a16029c3';
+import { buildResult, answerLabel } from './scoring.js?v=a16029c3';
+import { Exam } from './exam/exam.js?v=a16029c3';
+import { questionHtml, leftPaneHtml, isSplit } from './exam/render.js?v=a16029c3';
+import { esc, icon, uid, fmtDate, fmtMinutes, renderMath, toast, confirmDialog } from './util.js?v=a16029c3';
 
 const app = document.getElementById('app');
 let exam = null;          // running Exam instance
@@ -67,7 +67,7 @@ function layout(body, active = '') {
   return `
   ${DEMO_MODE ? '<div class="demo-bar">Demo mode — accounts and scores are saved only in this browser. Connect Supabase in <code>js/config.js</code> to go live.</div>' : ''}
   <header class="topbar"><div class="topbar-in">
-    <a class="brand" href="#/"><span class="brand-mark"><img src="img/logo.svg" alt=""></span><span>${esc(CONFIG.brand.name)}</span></a>
+    <a class="brand" href="#/"><span class="brand-mark"><img src="img/newton-emblem.png" alt=""></span><span>${esc(CONFIG.brand.name)}</span></a>
     <nav class="topnav">${nav('/', 'Practice', 'home')}${nav('/account', 'Account', 'account')}${auth.isAdmin() ? nav('/admin', 'Admin', 'admin') : ''}</nav>
     <div class="topbar-user">
       ${CONFIG.paywallEnabled && u?.plan !== 'premium' ? '<a class="btn small gold" href="#/upgrade">Upgrade</a>' : ''}
@@ -100,7 +100,7 @@ function authShell(title, sub, form) {
   ${DEMO_MODE ? '<div class="demo-bar">Demo mode — accounts are saved only in this browser.</div>' : ''}
   <div class="auth">
     <aside class="auth-side">
-      <a class="brand light" href="#/login"><span class="brand-mark"><img src="img/logo.svg" alt=""></span><span>${esc(CONFIG.brand.name)}</span></a>
+      <a class="brand light" href="#/login"><span class="brand-mark"><img src="img/newton-emblem.png" alt=""></span><span>${esc(CONFIG.brand.name)}</span></a>
       <h2>${esc(CONFIG.brand.tagline)}</h2>
       <ul class="auth-points">
         <li>${icon('clock', 20)} Real Digital SAT timing — 2 modules per section</li>
@@ -264,7 +264,7 @@ function pagePrivacy() {
 
   if (auth.currentUser()) { app.innerHTML = layout(body); return; }
   app.innerHTML = `<header class="topbar"><div class="topbar-in">
-      <a class="brand" href="#/login"><span class="brand-mark"><img src="img/logo.svg" alt=""></span><span>${B}</span></a>
+      <a class="brand" href="#/login"><span class="brand-mark"><img src="img/newton-emblem.png" alt=""></span><span>${B}</span></a>
       <span class="topnav"></span><a class="btn small primary" href="#/login">Sign in</a>
     </div></header>
     <main class="page">${body}</main>${siteFooter()}`;

@@ -1,6 +1,6 @@
 // Exam tools: Desmos calculator, reference sheet, line reader, highlights & notes.
-import { CONFIG } from '../config.js?v=6a94ba54';
-import { esc, icon, renderMath } from '../util.js?v=6a94ba54';
+import { CONFIG } from '../config.js?v=a16029c3';
+import { esc, icon, renderMath } from '../util.js?v=a16029c3';
 
 /* ---------- floating, draggable, resizable panel ---------- */
 function makeFloat(layer, { title, cls = '', left, top, width, height, onClose, extraBtns = '' }) {

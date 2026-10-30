@@ -9,10 +9,10 @@
 //   forced: 'm2_easy'            admin preview of a single module
 //   responses: { qid: { a, mark, elim: [], elimOn } }
 //   notes: { qid: { passage, stem } }   highlighted HTML
-import { esc, icon, fmtClock, fmtMinutes, renderMath } from '../util.js?v=6a94ba54';
-import { isAnswered, routeAfterModule1 } from '../scoring.js?v=6a94ba54';
-import { questionHtml, leftPaneHtml, isSplit, sprPreviewHtml, LETTERS } from './render.js?v=6a94ba54';
-import { Tools } from './tools.js?v=6a94ba54';
+import { esc, icon, fmtClock, fmtMinutes, renderMath } from '../util.js?v=a16029c3';
+import { isAnswered, routeAfterModule1 } from '../scoring.js?v=a16029c3';
+import { questionHtml, leftPaneHtml, isSplit, sprPreviewHtml, LETTERS } from './render.js?v=a16029c3';
+import { Tools } from './tools.js?v=a16029c3';
 
 const DIRECTIONS = {
   rw: `<p>The questions in this section address a number of important reading and writing skills. Each question includes one or more passages, which may include a table or graph. Read each passage and question carefully, and then choose the best answer to the question based on the passage(s).</p>
