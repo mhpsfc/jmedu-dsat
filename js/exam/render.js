@@ -1,5 +1,5 @@
 // HTML for one question, shared by the live exam and the answer review.
-import { esc, icon } from '../util.js?v=f87e49c0';
+import { esc, icon } from '../util.js?v=6a94ba54';
 
 export const LETTERS = ['A', 'B', 'C', 'D'];
 

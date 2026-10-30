@@ -1,12 +1,12 @@
 // Pages and routing (#/path). The exam itself lives in js/exam/.
-import { CONFIG, DEMO_MODE } from './config.js?v=f87e49c0';
-import * as auth from './auth.js?v=f87e49c0';
-import * as store from './store.js?v=f87e49c0';
-import { loadCatalog, loadTest, registerTempTest, validateTest, modeSeconds, questionCount, DOMAINS, MODULE_KEYS } from './content.js?v=f87e49c0';
-import { buildResult, answerLabel } from './scoring.js?v=f87e49c0';
-import { Exam } from './exam/exam.js?v=f87e49c0';
-import { questionHtml, leftPaneHtml, isSplit } from './exam/render.js?v=f87e49c0';
-import { esc, icon, uid, fmtDate, fmtMinutes, renderMath, toast, confirmDialog } from './util.js?v=f87e49c0';
+import { CONFIG, DEMO_MODE } from './config.js?v=6a94ba54';
+import * as auth from './auth.js?v=6a94ba54';
+import * as store from './store.js?v=6a94ba54';
+import { loadCatalog, loadTest, registerTempTest, validateTest, modeSeconds, questionCount, DOMAINS, MODULE_KEYS } from './content.js?v=6a94ba54';
+import { buildResult, answerLabel } from './scoring.js?v=6a94ba54';
+import { Exam } from './exam/exam.js?v=6a94ba54';
+import { questionHtml, leftPaneHtml, isSplit } from './exam/render.js?v=6a94ba54';
+import { esc, icon, uid, fmtDate, fmtMinutes, renderMath, toast, confirmDialog } from './util.js?v=6a94ba54';
 
 const app = document.getElementById('app');
 let exam = null;          // running Exam instance

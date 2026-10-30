@@ -1,7 +1,7 @@
 // Platform settings. Everything a non-developer may need to change lives here.
 export const CONFIG = {
   brand: {
-    name: 'JM EDU DSAT',               // shown in the top bar, login page and browser tab
+    name: 'Newton: DSAT',              // shown in the top bar, login page and browser tab
     tagline: 'Digital SAT practice that feels like test day.',
     operator: 'JM EDU',                // who runs the site: footer © line and Privacy Policy
   },
