@@ -1,8 +1,8 @@
 // Test attempts (progress + results). A local copy is always kept so a refresh or a
 // dropped connection never loses work; with Supabase it is also synced to the server.
-import { DEMO_MODE } from './config.js';
-import { getSupabase } from './auth.js';
-import { debounce } from './util.js';
+import { DEMO_MODE } from './config.js?v=407ff3f6';
+import { getSupabase } from './auth.js?v=407ff3f6';
+import { debounce } from './util.js?v=407ff3f6';
 
 const key = (userId) => 'sat:attempts:' + userId;
 const readLocal = (userId) => JSON.parse(localStorage.getItem(key(userId)) || '{}');

@@ -1,12 +1,12 @@
 // Pages and routing (#/path). The exam itself lives in js/exam/.
-import { CONFIG, DEMO_MODE } from './config.js';
-import * as auth from './auth.js';
-import * as store from './store.js';
-import { loadCatalog, loadTest, registerTempTest, validateTest, modeSeconds, questionCount, DOMAINS, MODULE_KEYS } from './content.js';
-import { buildResult, answerLabel } from './scoring.js';
-import { Exam } from './exam/exam.js';
-import { questionHtml, leftPaneHtml, isSplit } from './exam/render.js';
-import { esc, icon, uid, fmtDate, fmtMinutes, renderMath, toast, confirmDialog } from './util.js';
+import { CONFIG, DEMO_MODE } from './config.js?v=407ff3f6';
+import * as auth from './auth.js?v=407ff3f6';
+import * as store from './store.js?v=407ff3f6';
+import { loadCatalog, loadTest, registerTempTest, validateTest, modeSeconds, questionCount, DOMAINS, MODULE_KEYS } from './content.js?v=407ff3f6';
+import { buildResult, answerLabel } from './scoring.js?v=407ff3f6';
+import { Exam } from './exam/exam.js?v=407ff3f6';
+import { questionHtml, leftPaneHtml, isSplit } from './exam/render.js?v=407ff3f6';
+import { esc, icon, uid, fmtDate, fmtMinutes, renderMath, toast, confirmDialog } from './util.js?v=407ff3f6';
 
 const app = document.getElementById('app');
 let exam = null;          // running Exam instance

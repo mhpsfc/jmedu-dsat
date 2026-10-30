@@ -1,5 +1,5 @@
 // Loads tests from /content. The format is documented in content/FORMAT.md.
-import { CONFIG } from './config.js';
+import { CONFIG } from './config.js?v=407ff3f6';
 
 const SECTION_DEFAULTS = {
   rw: { title: 'Reading and Writing', time: 32 * 60, count: 27 },
